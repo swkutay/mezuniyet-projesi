@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#F5F5F5"
+    android:fillViewport="true">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical"
+        android:padding="16dp">
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="PersonelAI Fitness"
+            android:textSize="24sp"
+            android:textStyle="bold"
+            android:textColor="#1A1A1A"
+            android:layout_marginBottom="4dp" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Kişisel antrenman programınızı oluşturun"
+            android:textSize="14sp"
+            android:textColor="#666666"
+            android:layout_marginBottom="24dp" />
+
+        <!-- Kişisel Bilgiler -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="2dp"
+            app:cardBackgroundColor="#FFFFFF"
+            android:layout_marginBottom="16dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Kişisel Bilgiler" android:textSize="16sp" android:textStyle="bold"
+                    android:textColor="#1A1A1A" android:layout_marginBottom="16dp"/>
+
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Yaş" android:textSize="13sp" android:textColor="#444444" android:layout_marginBottom="4dp"/>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox"
+                    android:layout_marginBottom="12dp">
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/etYas" android:layout_width="match_parent"
+                        android:layout_height="wrap_content" android:hint="Örn: 25" android:inputType="number" android:maxLength="3"/>
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:orientation="horizontal" android:layout_marginBottom="12dp">
+                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                        android:layout_weight="1" android:orientation="vertical" android:layout_marginEnd="8dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="Boy (cm)" android:textSize="13sp" android:textColor="#444444" android:layout_marginBottom="4dp"/>
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:layout_width="match_parent" android:layout_height="wrap_content"
+                            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                            <com.google.android.material.textfield.TextInputEditText
+                                android:id="@+id/etBoy" android:layout_width="match_parent"
+                                android:layout_height="wrap_content" android:hint="Örn: 175" android:inputType="number" android:maxLength="3"/>
+                        </com.google.android.material.textfield.TextInputLayout>
+                    </LinearLayout>
+                    <LinearLayout android:layout_width="0dp" android:layout_height="wrap_content"
+                        android:layout_weight="1" android:orientation="vertical" android:layout_marginStart="8dp">
+                        <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                            android:text="Kilo (kg)" android:textSize="13sp" android:textColor="#444444" android:layout_marginBottom="4dp"/>
+                        <com.google.android.material.textfield.TextInputLayout
+                            android:layout_width="match_parent" android:layout_height="wrap_content"
+                            style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                            <com.google.android.material.textfield.TextInputEditText
+                                android:id="@+id/etKilo" android:layout_width="match_parent"
+                                android:layout_height="wrap_content" android:hint="Örn: 80" android:inputType="numberDecimal" android:maxLength="5"/>
+                        </com.google.android.material.textfield.TextInputLayout>
+                    </LinearLayout>
+                </LinearLayout>
+
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Cinsiyet" android:textSize="13sp" android:textColor="#444444" android:layout_marginBottom="8dp"/>
+                <RadioGroup android:id="@+id/rgCinsiyet" android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:orientation="horizontal" android:layout_marginBottom="12dp">
+                    <RadioButton android:id="@+id/rbErkek" android:layout_width="0dp"
+                        android:layout_height="wrap_content" android:layout_weight="1" android:text="Erkek" android:checked="true"/>
+                    <RadioButton android:id="@+id/rbKadin" android:layout_width="0dp"
+                        android:layout_height="wrap_content" android:layout_weight="1" android:text="Kadın"/>
+                </RadioGroup>
+
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Spor Geçmişi (yıl)" android:textSize="13sp" android:textColor="#444444" android:layout_marginBottom="4dp"/>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox">
+                    <com.google.android.material.textfield.TextInputEditText
+                        android:id="@+id/etSporGecmisi" android:layout_width="match_parent"
+                        android:layout_height="wrap_content" android:hint="Örn: 2" android:inputType="number" android:maxLength="2"/>
+                </com.google.android.material.textfield.TextInputLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Antrenman Günleri -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="2dp"
+            app:cardBackgroundColor="#FFFFFF"
+            android:layout_marginBottom="16dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Antrenman Günleri" android:textSize="16sp" android:textStyle="bold"
+                    android:textColor="#1A1A1A" android:layout_marginBottom="4dp"/>
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Haftanın hangi günleri antrenman yapacaksın?"
+                    android:textSize="12sp" android:textColor="#888888" android:layout_marginBottom="12dp"/>
+
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:orientation="horizontal" android:layout_marginBottom="8dp">
+                    <CheckBox android:id="@+id/cbPazartesi" android:layout_width="0dp"
+                        android:layout_height="wrap_content" android:layout_weight="1" android:text="Pzt" android:checked="true"/>
+                    <CheckBox android:id="@+id/cbSali" android:layout_width="0dp"
+                        android:layout_height="wrap_content" android:layout_weight="1" android:text="Sal" android:checked="true"/>
+                    <CheckBox android:id="@+id/cbCarsamba" android:layout_width="0dp"
+                        android:layout_height="wrap_content" android:layout_weight="1" android:text="Çar" android:checked="true"/>
+                    <CheckBox android:id="@+id/cbPersembe" android:layout_width="0dp"
+                        android:layout_height="wrap_content" android:layout_weight="1" android:text="Per"/>
+                </LinearLayout>
+                <LinearLayout android:layout_width="match_parent" android:layout_height="wrap_content"
+                    android:orientation="horizontal">
+                    <CheckBox android:id="@+id/cbCuma" android:layout_width="0dp"
+                        android:layout_height="wrap_content" android:layout_weight="1" android:text="Cum"/>
+                    <CheckBox android:id="@+id/cbCumartesi" android:layout_width="0dp"
+                        android:layout_height="wrap_content" android:layout_weight="1" android:text="Cmt"/>
+                    <CheckBox android:id="@+id/cbPazar" android:layout_width="0dp"
+                        android:layout_height="wrap_content" android:layout_weight="1" android:text="Paz"/>
+                    <View android:layout_width="0dp" android:layout_height="wrap_content" android:layout_weight="1"/>
+                </LinearLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Antrenman Tercihleri -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="2dp"
+            app:cardBackgroundColor="#FFFFFF"
+            android:layout_marginBottom="16dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Antrenman Tercihleri" android:textSize="16sp" android:textStyle="bold"
+                    android:textColor="#1A1A1A" android:layout_marginBottom="16dp"/>
+
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Hedef" android:textSize="13sp" android:textColor="#444444" android:layout_marginBottom="4dp"/>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+                    android:layout_marginBottom="12dp">
+                    <AutoCompleteTextView android:id="@+id/spinnerHedef" android:layout_width="match_parent"
+                        android:layout_height="wrap_content" android:inputType="none" android:text="Güç ve Kondisyon"/>
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Ekipman" android:textSize="13sp" android:textColor="#444444" android:layout_marginBottom="4dp"/>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+                    android:layout_marginBottom="12dp">
+                    <AutoCompleteTextView android:id="@+id/spinnerEkipman" android:layout_width="match_parent"
+                        android:layout_height="wrap_content" android:inputType="none" android:text="Full Gym"/>
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Günlük Aktivite Seviyesi" android:textSize="13sp" android:textColor="#444444" android:layout_marginBottom="4dp"/>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+                    android:layout_marginBottom="12dp">
+                    <AutoCompleteTextView android:id="@+id/spinnerAktivite" android:layout_width="match_parent"
+                        android:layout_height="wrap_content" android:inputType="none" android:text="Haftada 3-5 gün orta egzersiz"/>
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Günlük Öğün Sayısı" android:textSize="13sp" android:textColor="#444444" android:layout_marginBottom="4dp"/>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu">
+                    <AutoCompleteTextView android:id="@+id/spinnerOgun" android:layout_width="match_parent"
+                        android:layout_height="wrap_content" android:inputType="none" android:text="3 öğün"/>
+                </com.google.android.material.textfield.TextInputLayout>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <!-- Sakatlık -->
+        <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            app:cardCornerRadius="12dp"
+            app:cardElevation="2dp"
+            app:cardBackgroundColor="#FFFFFF"
+            android:layout_marginBottom="24dp">
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical"
+                android:padding="16dp">
+
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Sakatlık Durumu" android:textSize="16sp" android:textStyle="bold"
+                    android:textColor="#1A1A1A" android:layout_marginBottom="16dp"/>
+
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Sakatlık Bölgesi" android:textSize="13sp" android:textColor="#444444" android:layout_marginBottom="4dp"/>
+                <com.google.android.material.textfield.TextInputLayout
+                    android:layout_width="match_parent" android:layout_height="wrap_content"
+                    style="@style/Widget.MaterialComponents.TextInputLayout.OutlinedBox.ExposedDropdownMenu"
+                    android:layout_marginBottom="12dp">
+                    <AutoCompleteTextView android:id="@+id/spinnerSakatlikBolgesi" android:layout_width="match_parent"
+                        android:layout_height="wrap_content" android:inputType="none" android:text="Yok"/>
+                </com.google.android.material.textfield.TextInputLayout>
+
+                <TextView android:layout_width="wrap_content" android:layout_height="wrap_content"
+                    android:text="Sakatlık Şiddeti (0 = yok, 3 = ağır)" android:textSize="13sp"
+                    android:textColor="#444444" android:layout_marginBottom="8dp"/>
+                <SeekBar android:id="@+id/seekSakatlik" android:layout_width="match_parent"
+                    android:layout_height="wrap_content" android:max="3" android:progress="0" android:layout_marginBottom="4dp"/>
+                <TextView android:id="@+id/tvSakatlikSiddet" android:layout_width="wrap_content"
+                    android:layout_height="wrap_content" android:text="Seçilen: 0 (Yok)"
+                    android:textSize="12sp" android:textColor="#666666"/>
+            </LinearLayout>
+        </androidx.cardview.widget.CardView>
+
+        <com.google.android.material.button.MaterialButton
+            android:id="@+id/btnAnalizEt"
+            android:layout_width="match_parent"
+            android:layout_height="56dp"
+            android:text="Programımı Oluştur"
+            android:textSize="16sp"
+            android:textStyle="bold"
+            app:cornerRadius="12dp"
+            android:layout_marginBottom="32dp" />
+
+    </LinearLayout>
+</ScrollView>

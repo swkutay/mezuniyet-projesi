@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center"
+    android:background="#1E1E2E"
+    android:padding="32dp">
+
+    <!-- Logo / İkon -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="💪"
+        android:textSize="72sp"
+        android:layout_marginBottom="24dp" />
+
+    <!-- Uygulama Adı -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="PersonelAI"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:textColor="#FFFFFF"
+        android:layout_marginBottom="4dp" />
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Fitness"
+        android:textSize="36sp"
+        android:textStyle="bold"
+        android:textColor="#7C6AF7"
+        android:layout_marginBottom="16dp" />
+
+    <!-- Slogan -->
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Yapay zeka destekli kişisel antrenman programı"
+        android:textSize="14sp"
+        android:textColor="#AAAACC"
+        android:gravity="center"
+        android:layout_marginBottom="64dp" />
+
+    <!-- Yükleniyor göstergesi -->
+    <ProgressBar
+        android:id="@+id/progressBar"
+        android:layout_width="48dp"
+        android:layout_height="48dp"
+        android:indeterminateTint="#7C6AF7" />
+
+</LinearLayout>

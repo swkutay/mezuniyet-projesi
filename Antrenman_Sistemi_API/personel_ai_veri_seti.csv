@@ -1,0 +1,2336 @@
+Yas,Cinsiyet,Boy,Kilo,Aktivite_Seviyesi,Sakatlik_Bolgesi,Sakatlik_Siddeti,Spor_Gecmisi_Yil,Hedef,Ekipman,Ogun_Tercihi,VKI,Program_Etiketi
+47,0,186.0,62.0,1.725,Diz,0.1418378762809657,6,Kas Kazanımı,Bodyweight,4,17.92,PPL_SPLIT
+48,0,176.0,65.0,1.9,Bel,1.0680741546374284,2,Sakatlık Sonrası,Full Gym,3,20.98,KILO_ALMA
+42,1,167.0,57.5,1.55,Yok,0.0,13,Güç ve Kondisyon,Full Gym,5,20.62,PPL_SPLIT
+56,0,171.0,88.3,1.2,Bel,0.0,0,Kilo Verme,Dumbbell Only,3,30.2,YAG_YAKIMI
+18,0,163.0,63.2,1.725,Diz,0.0,9,Güç ve Kondisyon,Bodyweight,4,23.79,PPL_SPLIT
+36,0,155.4,56.3,1.375,Diz,0.9,12,Güç ve Kondisyon,Bodyweight,3,23.31,PPL_SPLIT
+37,0,161.9,47.0,1.9,Omuz,0.3,6,Kas Kazanımı,Bodyweight,4,17.93,KILO_ALMA
+32,0,183.0,126.4,1.55,Bel,0.0,0,Kilo Verme,Full Gym,5,37.74,YAG_YAKIMI
+40,0,194.0,73.2,1.55,Diz,0.0,5,Güç ve Kondisyon,Dumbbell Only,5,19.45,PPL_SPLIT
+48,1,160.0,69.1,1.725,Ayak Bileği,0.0,8,Güç ve Kondisyon,Full Gym,4,26.99,PPL_SPLIT
+56,1,169.0,64.2,1.375,Omuz,0.0,14,Güç ve Kondisyon,Dumbbell Only,3,22.48,PPL_SPLIT
+22,0,170.0,80.0,1.2,Bel,2.762487806940918,6,Kilo Verme,Full Gym,3,27.68,REHABILITASYON
+41,0,166.0,108.0,1.55,Bel,3.908428643162832,3,Güç ve Kondisyon,Full Gym,3,39.19,KILO_ALMA
+52,0,172.0,82.4,1.2,Diz,0.0,2,Güç ve Kondisyon,Bodyweight,3,27.85,PPL_SPLIT
+34,0,158.1,67.3,1.375,Omuz,0.1,2,Güç ve Kondisyon,Full Gym,3,26.92,PPL_SPLIT
+52,0,162.0,63.6,1.725,Bel,0.0,6,Güç ve Kondisyon,Full Gym,3,24.23,PPL_SPLIT
+30,1,174.0,51.5,1.55,Yok,0.0,10,Kas Kazanımı,Dumbbell Only,4,17.01,KILO_ALMA
+46,0,178.0,103.0,1.725,Diz,0.5427153192562728,1,Kilo Verme,Bodyweight,5,32.51,KILO_ALMA
+45,0,171.0,113.4,1.725,Bel,0.0,5,Kilo Verme,Bodyweight,3,38.78,YAG_YAKIMI
+37,1,180.7,61.5,1.55,Ayak Bileği,0.7,5,Kas Kazanımı,Bodyweight,5,18.83,KILO_ALMA
+26,1,153.0,54.0,1.9,Ayak Bileği,0.0,5,Güç ve Kondisyon,Full Gym,4,23.07,PPL_SPLIT
+52,0,192.0,100.0,1.55,Omuz,2.666467397781181,7,Güç ve Kondisyon,Bodyweight,2,27.13,REHABILITASYON
+30,1,163.0,59.2,1.9,Bel,0.0,13,Güç ve Kondisyon,Dumbbell Only,5,22.28,PPL_SPLIT
+29,1,168.6,74.1,1.55,Ayak Bileği,0.1,4,Güç ve Kondisyon,Full Gym,5,26.07,PPL_SPLIT
+35,0,185.0,85.6,1.2,Ayak Bileği,0.0,2,Güç ve Kondisyon,Full Gym,3,25.01,PPL_SPLIT
+34,0,181.0,75.0,1.375,Bel,2.718637111169231,0,Kilo Verme,Bodyweight,4,22.89,PPL_SPLIT
+37,0,171.0,106.0,1.725,Diz,3.3185494590291853,7,Güç ve Kondisyon,Bodyweight,4,36.25,YAG_YAKIMI
+18,0,160.4,55.1,1.9,Diz,4.2,2,Sakatlık Sonrası,Full Gym,5,21.42,REHABILITASYON
+22,0,160.7,45.4,1.375,Bel,0.2,9,Kas Kazanımı,Dumbbell Only,3,17.58,KILO_ALMA
+19,1,170.7,77.8,1.725,Omuz,4.4,11,Sakatlık Sonrası,Bodyweight,4,26.7,REHABILITASYON
+43,0,188.0,61.2,1.375,Yok,0.0,6,Kas Kazanımı,Bodyweight,5,17.32,KILO_ALMA
+31,0,161.0,71.0,1.725,Diz,3.134965961480648,8,Sakatlık Sonrası,Bodyweight,4,27.39,KILO_ALMA
+46,1,188.0,77.0,1.55,Yok,0.7686451594947541,7,Sakatlık Sonrası,Full Gym,3,21.79,KILO_ALMA
+42,1,167.0,57.5,1.2,Ayak Bileği,0.0,14,Güç ve Kondisyon,Bodyweight,3,20.62,PPL_SPLIT
+42,0,163.0,73.5,1.9,Diz,0.0,13,Güç ve Kondisyon,Bodyweight,3,27.66,PPL_SPLIT
+57,1,163.0,75.7,1.725,Omuz,0.0,2,Güç ve Kondisyon,Full Gym,3,28.49,PPL_SPLIT
+50,0,179.0,64.5,1.55,Omuz,0.0,2,Güç ve Kondisyon,Full Gym,3,20.13,PPL_SPLIT
+45,1,177.0,80.0,1.725,Omuz,4.817446446530741,0,Kas Kazanımı,Bodyweight,5,25.54,YAG_YAKIMI
+46,1,161.0,58.0,1.2,Bel,4.574538088598333,0,Kas Kazanımı,Bodyweight,3,22.38,YAG_YAKIMI
+29,0,200.0,125.9,1.9,Omuz,0.0,9,Kilo Verme,Dumbbell Only,3,31.48,YAG_YAKIMI
+42,0,160.0,107.0,1.2,Omuz,4.203364803174699,8,Kas Kazanımı,Bodyweight,5,41.8,REHABILITASYON
+40,0,173.0,94.0,1.55,Diz,2.131932940138323,0,Kilo Verme,Dumbbell Only,2,31.41,PPL_SPLIT
+44,1,178.0,42.8,1.2,Yok,0.0,10,Kas Kazanımı,Dumbbell Only,5,13.51,KILO_ALMA
+32,1,175.5,80.5,1.375,Diz,0.4,0,Güç ve Kondisyon,Full Gym,5,26.14,PPL_SPLIT
+55,1,155.0,90.0,1.2,Bel,4.111600480821156,11,Sakatlık Sonrası,Dumbbell Only,4,37.46,KILO_ALMA
+29,0,166.0,59.8,1.725,Omuz,4.1,7,Sakatlık Sonrası,Dumbbell Only,3,21.7,REHABILITASYON
+45,1,179.0,50.4,1.55,Omuz,0.0,6,Kas Kazanımı,Bodyweight,5,15.73,KILO_ALMA
+21,0,184.0,101.2,1.725,Yok,0.0,7,Kilo Verme,Bodyweight,3,29.89,YAG_YAKIMI
+40,1,177.1,67.4,1.2,Omuz,0.5,14,Güç ve Kondisyon,Bodyweight,5,21.49,PPL_SPLIT
+33,0,160.5,55.3,1.725,Diz,4.9,1,Sakatlık Sonrası,Dumbbell Only,5,21.47,REHABILITASYON
+47,0,160.0,88.4,1.375,Omuz,0.0,13,Kilo Verme,Bodyweight,4,34.53,YAG_YAKIMI
+18,0,193.0,87.6,1.55,Bel,0.0,8,Güç ve Kondisyon,Full Gym,4,23.52,PPL_SPLIT
+47,0,199.0,86.6,1.9,Omuz,0.0,12,Güç ve Kondisyon,Full Gym,4,21.87,PPL_SPLIT
+31,0,164.7,62.9,1.375,Bel,4.4,4,Sakatlık Sonrası,Full Gym,4,23.19,REHABILITASYON
+42,1,153.0,56.7,1.55,Bel,0.0,8,Güç ve Kondisyon,Full Gym,4,24.22,PPL_SPLIT
+31,1,155.0,91.0,1.725,Yok,3.2514451185029385,9,Kas Kazanımı,Bodyweight,4,37.88,YAG_YAKIMI
+20,1,184.6,75.8,1.2,Yok,4.8,2,Sakatlık Sonrası,Bodyweight,3,22.24,REHABILITASYON
+18,1,184.0,108.0,1.9,Yok,0.3499408533165593,4,Kilo Verme,Full Gym,3,31.9,PPL_SPLIT
+24,0,163.5,61.7,1.375,Diz,0.9,5,Güç ve Kondisyon,Full Gym,4,23.08,PPL_SPLIT
+27,1,158.0,53.0,1.2,Yok,0.0,4,Güç ve Kondisyon,Dumbbell Only,5,21.23,PPL_SPLIT
+41,1,178.0,64.0,1.2,Omuz,0.0692751901396315,5,Sakatlık Sonrası,Full Gym,5,20.2,YAG_YAKIMI
+53,0,171.0,103.0,1.375,Diz,4.784125620390927,5,Güç ve Kondisyon,Bodyweight,4,35.22,KILO_ALMA
+51,0,178.0,109.3,1.375,Yok,0.0,11,Kilo Verme,Dumbbell Only,3,34.5,YAG_YAKIMI
+27,0,160.0,61.0,1.2,Diz,3.0872030468803286,0,Güç ve Kondisyon,Full Gym,5,23.83,REHABILITASYON
+20,0,162.0,76.4,1.375,Yok,0.0,2,Kilo Verme,Dumbbell Only,5,29.11,YAG_YAKIMI
+52,1,181.0,95.0,1.375,Yok,2.336053050908771,8,Sakatlık Sonrası,Bodyweight,4,29.0,KILO_ALMA
+19,0,175.0,84.0,1.725,Diz,1.848806409778294,7,Kilo Verme,Bodyweight,4,27.43,PPL_SPLIT
+36,0,162.1,53.9,1.9,Yok,4.8,5,Sakatlık Sonrası,Full Gym,5,20.51,REHABILITASYON
+32,1,190.0,65.0,1.9,Bel,4.030926197847624,8,Güç ve Kondisyon,Full Gym,3,18.01,REHABILITASYON
+32,0,187.0,94.0,1.2,Bel,0.8893803478990359,5,Kas Kazanımı,Bodyweight,5,26.88,PPL_SPLIT
+40,1,151.0,69.7,1.375,Bel,0.0,3,Kilo Verme,Full Gym,3,30.57,YAG_YAKIMI
+22,0,161.4,55.8,1.9,Ayak Bileği,4.5,9,Sakatlık Sonrası,Full Gym,3,21.42,REHABILITASYON
+52,1,195.0,119.0,1.375,Omuz,0.06877216890829485,13,Sakatlık Sonrası,Dumbbell Only,2,31.3,KILO_ALMA
+24,0,160.3,48.4,1.375,Diz,4.7,7,Sakatlık Sonrası,Bodyweight,3,18.84,REHABILITASYON
+33,0,158.3,74.7,1.375,Omuz,4.1,0,Sakatlık Sonrası,Bodyweight,5,29.81,REHABILITASYON
+46,1,170.0,58.9,1.725,Yok,0.0,8,Güç ve Kondisyon,Bodyweight,3,20.38,PPL_SPLIT
+52,0,180.0,85.5,1.375,Omuz,0.0,11,Güç ve Kondisyon,Dumbbell Only,3,26.39,PPL_SPLIT
+52,0,199.0,104.8,1.375,Bel,0.0,14,Güç ve Kondisyon,Dumbbell Only,4,26.46,PPL_SPLIT
+28,0,176.0,87.0,1.725,Yok,0.0,8,Güç ve Kondisyon,Dumbbell Only,5,28.09,PPL_SPLIT
+35,0,179.0,83.0,1.2,Bel,4.911046124327201,9,Kas Kazanımı,Bodyweight,3,25.9,YAG_YAKIMI
+53,0,192.0,115.4,1.9,Omuz,0.0,12,Kilo Verme,Bodyweight,5,31.3,YAG_YAKIMI
+31,1,175.8,50.9,1.9,Ayak Bileği,0.8,4,Kas Kazanımı,Dumbbell Only,5,16.47,KILO_ALMA
+50,1,161.0,91.0,1.375,Ayak Bileği,3.03910923213355,3,Kas Kazanımı,Bodyweight,2,35.11,PPL_SPLIT
+30,0,156.5,65.1,1.2,Ayak Bileği,0.3,0,Güç ve Kondisyon,Bodyweight,5,26.58,PPL_SPLIT
+33,0,157.7,58.5,1.2,Bel,4.9,3,Sakatlık Sonrası,Full Gym,4,23.52,REHABILITASYON
+27,0,155.0,90.0,1.375,Omuz,3.594031648126949,9,Kilo Verme,Full Gym,4,37.46,REHABILITASYON
+48,1,169.0,68.2,1.375,Bel,0.0,6,Güç ve Kondisyon,Bodyweight,5,23.88,PPL_SPLIT
+63,0,155.0,56.0,1.9,Bel,3.84428118464186,12,Güç ve Kondisyon,Dumbbell Only,3,23.31,REHABILITASYON
+52,0,174.0,65.5,1.2,Ayak Bileği,0.0,0,Güç ve Kondisyon,Dumbbell Only,4,21.63,PPL_SPLIT
+25,0,151.0,66.0,1.55,Bel,4.997526018521146,13,Kas Kazanımı,Full Gym,5,28.95,YAG_YAKIMI
+25,0,199.0,123.8,1.55,Ayak Bileği,0.0,5,Kilo Verme,Dumbbell Only,3,31.26,YAG_YAKIMI
+22,0,170.1,45.2,1.2,Yok,4.0,7,Sakatlık Sonrası,Dumbbell Only,4,15.62,REHABILITASYON
+38,0,155.7,58.0,1.725,Bel,5.0,5,Sakatlık Sonrası,Full Gym,4,23.92,REHABILITASYON
+37,0,166.8,53.7,1.2,Bel,4.9,5,Sakatlık Sonrası,Full Gym,5,19.3,REHABILITASYON
+33,0,163.7,52.0,1.725,Bel,0.7,6,Güç ve Kondisyon,Dumbbell Only,4,19.4,PPL_SPLIT
+41,0,187.0,81.6,1.725,Omuz,0.0,14,Güç ve Kondisyon,Dumbbell Only,4,23.33,PPL_SPLIT
+28,1,175.2,71.1,1.55,Ayak Bileği,0.5,13,Güç ve Kondisyon,Bodyweight,3,23.16,PPL_SPLIT
+29,0,160.1,52.1,1.55,Yok,4.3,7,Sakatlık Sonrası,Bodyweight,4,20.33,REHABILITASYON
+24,1,155.0,63.0,1.375,Omuz,3.868559502858477,3,Kas Kazanımı,Bodyweight,3,26.22,YAG_YAKIMI
+25,0,160.0,66.9,1.725,Bel,4.9,8,Sakatlık Sonrası,Full Gym,3,26.13,REHABILITASYON
+25,1,171.0,63.9,1.725,Bel,4.6,12,Sakatlık Sonrası,Bodyweight,3,21.85,REHABILITASYON
+32,1,170.8,53.8,1.55,Yok,0.8,13,Kas Kazanımı,Bodyweight,4,18.44,KILO_ALMA
+23,1,162.0,60.9,1.725,Omuz,0.0,1,Güç ve Kondisyon,Full Gym,3,23.21,PPL_SPLIT
+59,0,186.0,65.0,1.375,Omuz,0.1699283037497262,2,Kilo Verme,Full Gym,5,18.79,REHABILITASYON
+25,0,157.0,65.0,1.2,Diz,1.944617074060773,8,Kas Kazanımı,Bodyweight,4,26.37,YAG_YAKIMI
+18,0,181.0,92.0,1.375,Omuz,3.29617024612894,13,Kas Kazanımı,Dumbbell Only,4,28.08,PPL_SPLIT
+31,0,181.0,76.0,1.375,Diz,3.1407083610113133,7,Kas Kazanımı,Full Gym,4,23.2,YAG_YAKIMI
+25,0,170.0,53.2,1.725,Yok,0.0,4,Kas Kazanımı,Full Gym,3,18.41,KILO_ALMA
+18,0,162.3,50.9,1.375,Ayak Bileği,0.9,8,Güç ve Kondisyon,Dumbbell Only,4,19.32,PPL_SPLIT
+26,0,165.3,73.6,1.55,Bel,0.3,14,Güç ve Kondisyon,Bodyweight,5,26.94,PPL_SPLIT
+28,0,168.0,101.0,1.375,Diz,3.096935222437172,7,Sakatlık Sonrası,Full Gym,3,35.79,KILO_ALMA
+50,0,184.0,52.2,1.375,Omuz,0.0,11,Kas Kazanımı,Bodyweight,3,15.42,KILO_ALMA
+42,1,162.0,72.9,1.375,Omuz,0.0,5,Güç ve Kondisyon,Full Gym,4,27.78,PPL_SPLIT
+38,1,190.0,82.3,1.725,Omuz,4.4,7,Sakatlık Sonrası,Full Gym,3,22.8,REHABILITASYON
+31,1,162.0,76.7,1.9,Diz,0.0,0,Kilo Verme,Bodyweight,4,29.23,YAG_YAKIMI
+22,1,156.0,40.3,1.725,Ayak Bileği,0.0,14,Kas Kazanımı,Full Gym,4,16.56,KILO_ALMA
+22,0,163.0,79.0,1.55,Omuz,0.6807669580801851,8,Sakatlık Sonrası,Full Gym,3,29.73,KILO_ALMA
+58,0,179.0,52.0,1.55,Ayak Bileği,0.0,3,Kas Kazanımı,Dumbbell Only,5,16.23,KILO_ALMA
+18,0,162.4,52.1,1.725,Yok,1.0,13,Güç ve Kondisyon,Bodyweight,4,19.75,PPL_SPLIT
+43,0,185.0,66.3,1.55,Ayak Bileği,0.0,3,Güç ve Kondisyon,Dumbbell Only,4,19.37,PPL_SPLIT
+31,0,164.7,63.2,1.725,Bel,0.0,14,Güç ve Kondisyon,Full Gym,4,23.3,PPL_SPLIT
+57,1,162.0,78.4,1.55,Yok,0.0,8,Kilo Verme,Bodyweight,4,29.87,YAG_YAKIMI
+28,0,168.5,58.6,1.725,Ayak Bileği,4.2,13,Sakatlık Sonrası,Dumbbell Only,3,20.64,REHABILITASYON
+29,1,162.0,60.0,1.375,Diz,0.0,5,Güç ve Kondisyon,Dumbbell Only,5,22.86,PPL_SPLIT
+26,1,163.0,61.0,1.55,Bel,3.528873924720821,3,Kilo Verme,Bodyweight,5,22.96,KILO_ALMA
+37,1,169.0,53.0,1.375,Diz,0.4227845338371172,13,Kas Kazanımı,Dumbbell Only,4,18.56,PPL_SPLIT
+31,1,172.0,100.0,1.55,Diz,2.041801967101551,3,Güç ve Kondisyon,Full Gym,5,33.8,REHABILITASYON
+24,1,191.0,55.0,1.2,Omuz,2.0827432008429723,5,Sakatlık Sonrası,Bodyweight,5,15.08,YAG_YAKIMI
+31,0,156.0,54.9,1.725,Bel,4.2,6,Sakatlık Sonrası,Bodyweight,3,22.56,REHABILITASYON
+35,1,167.0,78.0,1.2,Yok,0.0,0,Güç ve Kondisyon,Bodyweight,5,27.97,PPL_SPLIT
+40,1,181.3,64.7,1.2,Yok,0.6,13,Güç ve Kondisyon,Bodyweight,5,19.68,PPL_SPLIT
+31,1,156.0,57.9,1.725,Yok,0.0,4,Güç ve Kondisyon,Dumbbell Only,4,23.79,PPL_SPLIT
+33,1,162.0,97.0,1.55,Bel,4.361682195432163,4,Güç ve Kondisyon,Full Gym,5,36.96,YAG_YAKIMI
+37,0,165.0,93.0,1.55,Bel,4.4430622331326255,2,Sakatlık Sonrası,Full Gym,3,34.16,KILO_ALMA
+28,0,167.5,54.3,1.725,Diz,0.7,7,Güç ve Kondisyon,Full Gym,3,19.35,PPL_SPLIT
+25,1,165.0,62.6,1.725,Ayak Bileği,0.0,14,Güç ve Kondisyon,Bodyweight,5,22.99,PPL_SPLIT
+20,0,184.0,128.2,1.375,Ayak Bileği,0.0,3,Kilo Verme,Dumbbell Only,3,37.87,YAG_YAKIMI
+48,1,187.0,97.0,1.725,Yok,2.2882778224395963,6,Güç ve Kondisyon,Bodyweight,3,27.74,REHABILITASYON
+29,0,161.0,58.6,1.9,Diz,0.0,2,Güç ve Kondisyon,Full Gym,3,22.61,PPL_SPLIT
+40,1,166.0,52.6,1.725,Diz,0.0,11,Güç ve Kondisyon,Dumbbell Only,5,19.09,PPL_SPLIT
+40,0,200.0,63.0,1.725,Diz,0.0,4,Kas Kazanımı,Dumbbell Only,4,15.75,KILO_ALMA
+43,1,166.0,42.7,1.2,Bel,0.0,9,Kas Kazanımı,Dumbbell Only,4,15.5,KILO_ALMA
+56,1,156.0,59.3,1.375,Omuz,0.0,0,Güç ve Kondisyon,Dumbbell Only,3,24.37,PPL_SPLIT
+50,1,190.0,92.0,1.9,Diz,3.902228100549948,4,Kilo Verme,Bodyweight,4,25.48,REHABILITASYON
+22,0,193.0,71.0,1.9,Ayak Bileği,0.0,10,Güç ve Kondisyon,Dumbbell Only,4,19.06,PPL_SPLIT
+26,1,178.9,67.7,1.2,Diz,4.4,0,Sakatlık Sonrası,Bodyweight,5,21.15,REHABILITASYON
+29,0,193.0,88.1,1.9,Omuz,0.0,1,Güç ve Kondisyon,Dumbbell Only,5,23.65,PPL_SPLIT
+53,1,159.0,56.9,1.9,Ayak Bileği,0.0,11,Güç ve Kondisyon,Dumbbell Only,5,22.51,PPL_SPLIT
+27,1,169.7,66.6,1.55,Omuz,4.4,8,Sakatlık Sonrası,Dumbbell Only,4,23.13,REHABILITASYON
+26,0,158.0,56.0,1.55,Diz,3.4322712417937713,14,Güç ve Kondisyon,Full Gym,3,22.43,YAG_YAKIMI
+35,1,166.1,71.2,1.2,Omuz,0.4,2,Güç ve Kondisyon,Full Gym,3,25.81,PPL_SPLIT
+21,1,168.2,66.4,1.725,Diz,0.2,5,Güç ve Kondisyon,Full Gym,4,23.47,PPL_SPLIT
+58,1,168.0,74.6,1.9,Omuz,0.0,4,Güç ve Kondisyon,Dumbbell Only,3,26.43,PPL_SPLIT
+27,0,179.0,70.0,1.725,Omuz,0.5409242423157046,0,Kas Kazanımı,Full Gym,4,21.85,YAG_YAKIMI
+34,1,184.4,89.7,1.55,Ayak Bileği,4.6,4,Sakatlık Sonrası,Dumbbell Only,5,26.38,REHABILITASYON
+28,1,188.9,88.4,1.725,Yok,4.9,5,Sakatlık Sonrası,Dumbbell Only,5,24.77,REHABILITASYON
+29,1,184.0,68.0,1.725,Omuz,0.8,4,Güç ve Kondisyon,Full Gym,5,20.09,PPL_SPLIT
+47,1,175.0,66.8,1.55,Bel,0.0,12,Güç ve Kondisyon,Bodyweight,5,21.81,PPL_SPLIT
+24,1,171.0,78.0,1.375,Yok,4.0263552325001655,4,Sakatlık Sonrası,Bodyweight,5,26.67,PPL_SPLIT
+40,0,174.0,81.7,1.2,Diz,0.0,14,Güç ve Kondisyon,Full Gym,5,26.99,PPL_SPLIT
+22,1,175.1,80.8,1.2,Ayak Bileği,0.4,14,Güç ve Kondisyon,Full Gym,3,26.35,PPL_SPLIT
+33,0,196.0,109.0,1.55,Bel,1.472980720090184,13,Kas Kazanımı,Full Gym,5,28.37,REHABILITASYON
+38,1,165.5,67.8,1.2,Ayak Bileği,0.8,3,Güç ve Kondisyon,Dumbbell Only,4,24.75,PPL_SPLIT
+37,0,169.0,87.8,1.375,Ayak Bileği,0.0,7,Kilo Verme,Dumbbell Only,5,30.74,YAG_YAKIMI
+53,1,170.0,68.0,1.55,Yok,0.0,8,Güç ve Kondisyon,Bodyweight,3,23.53,PPL_SPLIT
+32,0,192.0,89.8,1.9,Yok,0.0,14,Güç ve Kondisyon,Dumbbell Only,3,24.36,PPL_SPLIT
+48,0,164.0,91.0,1.9,Bel,1.8298268910863813,7,Kilo Verme,Bodyweight,5,33.83,KILO_ALMA
+29,1,179.4,64.7,1.55,Omuz,0.9,2,Güç ve Kondisyon,Bodyweight,5,20.1,PPL_SPLIT
+50,0,188.0,62.0,1.55,Diz,3.4871614263856934,6,Güç ve Kondisyon,Full Gym,4,17.54,YAG_YAKIMI
+49,0,177.0,95.0,1.725,Bel,3.3236904102125626,14,Güç ve Kondisyon,Full Gym,4,30.32,YAG_YAKIMI
+20,1,173.0,72.6,1.725,Omuz,0.0,9,Güç ve Kondisyon,Bodyweight,3,24.26,PPL_SPLIT
+39,0,163.3,76.1,1.375,Omuz,0.3,5,Kilo Verme,Bodyweight,3,28.54,YAG_YAKIMI
+36,1,170.0,61.0,1.2,Bel,4.490858186766652,5,Kilo Verme,Full Gym,5,21.11,PPL_SPLIT
+33,0,167.0,84.0,1.725,Diz,1.6039015500301623,4,Sakatlık Sonrası,Bodyweight,3,30.12,YAG_YAKIMI
+27,0,173.0,65.0,1.2,Yok,3.9314637910002457,2,Kas Kazanımı,Full Gym,5,21.72,REHABILITASYON
+34,0,171.0,102.1,1.2,Bel,0.0,11,Kilo Verme,Dumbbell Only,3,34.92,YAG_YAKIMI
+25,0,167.3,53.0,1.9,Bel,0.0,3,Kas Kazanımı,Bodyweight,5,18.94,KILO_ALMA
+31,1,167.0,66.6,1.55,Bel,0.0,3,Güç ve Kondisyon,Full Gym,4,23.88,PPL_SPLIT
+22,0,158.0,80.0,1.725,Bel,2.804271105854333,1,Kilo Verme,Bodyweight,4,32.05,REHABILITASYON
+56,0,186.0,125.3,1.55,Yok,0.0,6,Kilo Verme,Dumbbell Only,4,36.22,YAG_YAKIMI
+31,0,181.0,107.0,1.375,Yok,3.770953323878093,1,Güç ve Kondisyon,Bodyweight,4,32.66,YAG_YAKIMI
+43,1,194.0,72.0,1.9,Diz,3.052728160384864,7,Güç ve Kondisyon,Bodyweight,4,19.13,YAG_YAKIMI
+25,1,179.6,74.7,1.55,Omuz,0.8,5,Güç ve Kondisyon,Dumbbell Only,3,23.16,PPL_SPLIT
+39,1,180.0,96.0,1.9,Bel,0.4336385844563084,6,Sakatlık Sonrası,Full Gym,4,29.63,PPL_SPLIT
+38,1,169.9,73.3,1.375,Bel,0.0,0,Güç ve Kondisyon,Bodyweight,4,25.39,PPL_SPLIT
+25,0,196.0,76.5,1.375,Omuz,0.0,4,Güç ve Kondisyon,Full Gym,5,19.91,PPL_SPLIT
+24,0,175.0,62.0,1.55,Omuz,1.2483067742242353,9,Güç ve Kondisyon,Bodyweight,4,20.24,REHABILITASYON
+25,1,175.9,60.5,1.2,Omuz,4.2,3,Sakatlık Sonrası,Full Gym,4,19.55,REHABILITASYON
+25,1,156.0,57.8,1.2,Yok,0.0,0,Güç ve Kondisyon,Dumbbell Only,5,23.75,PPL_SPLIT
+57,0,189.0,122.1,1.2,Omuz,0.0,7,Kilo Verme,Dumbbell Only,4,34.18,YAG_YAKIMI
+41,1,188.0,83.0,1.375,Omuz,2.649288769625961,7,Sakatlık Sonrası,Full Gym,4,23.48,YAG_YAKIMI
+19,0,165.8,61.7,1.9,Ayak Bileği,1.0,9,Güç ve Kondisyon,Bodyweight,5,22.44,PPL_SPLIT
+30,0,192.0,62.9,1.55,Bel,0.0,10,Kas Kazanımı,Dumbbell Only,3,17.06,KILO_ALMA
+45,1,159.0,107.0,1.375,Omuz,2.876583677023958,4,Güç ve Kondisyon,Full Gym,5,42.32,YAG_YAKIMI
+19,1,167.4,74.0,1.725,Bel,5.0,9,Sakatlık Sonrası,Full Gym,5,26.41,REHABILITASYON
+24,1,184.0,81.0,1.375,Diz,0.2239282834330824,2,Kas Kazanımı,Full Gym,3,23.92,YAG_YAKIMI
+51,0,160.0,81.0,1.55,Omuz,1.0623438308883817,7,Güç ve Kondisyon,Bodyweight,5,31.64,YAG_YAKIMI
+36,1,172.0,60.0,1.2,Bel,0.0,0,Güç ve Kondisyon,Full Gym,4,20.28,PPL_SPLIT
+47,1,169.0,49.9,1.9,Ayak Bileği,0.0,1,Kas Kazanımı,Full Gym,3,17.47,KILO_ALMA
+36,0,185.0,88.0,1.725,Diz,2.365223087409587,1,Sakatlık Sonrası,Full Gym,5,25.71,KILO_ALMA
+59,0,186.0,55.0,1.2,Diz,2.540864716701829,0,Sakatlık Sonrası,Bodyweight,5,15.9,PPL_SPLIT
+36,1,168.0,48.7,1.2,Omuz,0.0,10,Kas Kazanımı,Dumbbell Only,5,17.25,KILO_ALMA
+35,0,164.3,53.9,1.9,Bel,4.7,8,Sakatlık Sonrası,Bodyweight,4,19.97,REHABILITASYON
+25,1,155.0,77.7,1.2,Diz,0.0,12,Kilo Verme,Full Gym,5,32.34,YAG_YAKIMI
+20,1,176.3,77.2,1.375,Diz,4.2,8,Sakatlık Sonrası,Full Gym,5,24.84,REHABILITASYON
+33,0,177.0,60.0,1.55,Diz,1.3550637453240422,3,Güç ve Kondisyon,Bodyweight,4,19.15,YAG_YAKIMI
+23,1,155.0,56.7,1.725,Diz,0.0,2,Güç ve Kondisyon,Bodyweight,5,23.6,PPL_SPLIT
+56,1,168.0,58.0,1.725,Yok,0.0,7,Güç ve Kondisyon,Full Gym,5,20.55,PPL_SPLIT
+19,0,193.0,127.9,1.725,Omuz,0.0,2,Kilo Verme,Dumbbell Only,3,34.34,YAG_YAKIMI
+56,1,157.0,79.0,1.375,Omuz,2.4915707485615872,5,Güç ve Kondisyon,Bodyweight,3,32.05,KILO_ALMA
+33,1,154.0,56.4,1.2,Bel,0.0,0,Güç ve Kondisyon,Dumbbell Only,3,23.78,PPL_SPLIT
+32,0,171.1,63.7,1.55,Diz,0.3,11,Güç ve Kondisyon,Bodyweight,4,21.76,PPL_SPLIT
+21,1,160.0,95.0,1.2,Bel,2.3469005276378443,0,Güç ve Kondisyon,Bodyweight,3,37.11,KILO_ALMA
+56,0,185.0,88.5,1.55,Diz,0.0,7,Güç ve Kondisyon,Dumbbell Only,5,25.86,PPL_SPLIT
+47,0,161.0,104.0,1.9,Omuz,4.167929262837698,7,Sakatlık Sonrası,Bodyweight,5,40.12,YAG_YAKIMI
+47,1,167.0,57.0,1.55,Diz,1.6914727712176283,1,Sakatlık Sonrası,Full Gym,4,20.44,YAG_YAKIMI
+40,1,156.0,58.1,1.375,Ayak Bileği,0.0,6,Güç ve Kondisyon,Full Gym,4,23.87,PPL_SPLIT
+18,0,182.0,64.5,1.725,Ayak Bileği,0.0,7,Güç ve Kondisyon,Dumbbell Only,3,19.47,PPL_SPLIT
+51,1,181.0,79.0,1.375,Omuz,2.668312180018924,4,Güç ve Kondisyon,Bodyweight,4,24.11,YAG_YAKIMI
+47,0,186.0,84.8,1.2,Yok,0.0,3,Güç ve Kondisyon,Dumbbell Only,3,24.51,PPL_SPLIT
+57,1,185.0,85.0,1.55,Omuz,2.554456891016561,0,Sakatlık Sonrası,Full Gym,5,24.84,KILO_ALMA
+61,1,185.0,110.0,1.2,Ayak Bileği,4.242317701357299,14,Güç ve Kondisyon,Bodyweight,5,32.14,REHABILITASYON
+45,1,168.0,71.2,1.375,Yok,0.0,8,Güç ve Kondisyon,Bodyweight,4,25.23,PPL_SPLIT
+30,1,156.0,64.0,1.9,Bel,2.930555115116267,1,Güç ve Kondisyon,Full Gym,4,26.3,REHABILITASYON
+32,0,161.2,62.5,1.9,Ayak Bileği,0.0,7,Güç ve Kondisyon,Bodyweight,3,24.05,PPL_SPLIT
+29,0,186.0,95.2,1.9,Yok,0.0,1,Güç ve Kondisyon,Full Gym,5,27.52,PPL_SPLIT
+49,1,166.0,62.1,1.2,Yok,0.0,9,Güç ve Kondisyon,Bodyweight,3,22.54,PPL_SPLIT
+19,1,152.0,65.2,1.55,Yok,0.0,8,Güç ve Kondisyon,Dumbbell Only,4,28.22,PPL_SPLIT
+27,0,168.0,104.3,1.725,Bel,0.0,7,Kilo Verme,Full Gym,5,36.95,YAG_YAKIMI
+21,0,161.5,59.0,1.9,Diz,0.3,2,Güç ve Kondisyon,Full Gym,5,22.62,PPL_SPLIT
+23,0,167.0,92.0,1.9,Yok,2.0030210202563885,4,Sakatlık Sonrası,Bodyweight,3,32.99,KILO_ALMA
+54,1,181.0,97.0,1.725,Omuz,1.1498235131885148,1,Güç ve Kondisyon,Full Gym,4,29.61,KILO_ALMA
+25,0,190.0,95.6,1.2,Diz,0.0,14,Güç ve Kondisyon,Bodyweight,3,26.48,PPL_SPLIT
+38,0,164.2,45.5,1.2,Diz,0.6,14,Kas Kazanımı,Bodyweight,4,16.88,KILO_ALMA
+20,0,191.0,101.0,1.725,Diz,0.0,8,Güç ve Kondisyon,Full Gym,3,27.69,PPL_SPLIT
+54,1,175.0,56.5,1.2,Yok,0.0,5,Kas Kazanımı,Bodyweight,4,18.45,KILO_ALMA
+23,0,191.0,87.3,1.375,Bel,0.0,12,Güç ve Kondisyon,Bodyweight,5,23.93,PPL_SPLIT
+51,0,164.0,76.0,1.375,Bel,3.516855594648084,8,Kas Kazanımı,Full Gym,4,28.26,YAG_YAKIMI
+35,0,174.0,63.7,1.375,Bel,0.0,12,Güç ve Kondisyon,Full Gym,3,21.04,PPL_SPLIT
+19,1,168.0,50.6,1.375,Yok,0.0,4,Kas Kazanımı,Dumbbell Only,4,17.93,KILO_ALMA
+57,1,162.0,117.0,1.55,Ayak Bileği,0.981383269300436,5,Güç ve Kondisyon,Dumbbell Only,5,44.58,REHABILITASYON
+42,0,165.0,64.8,1.725,Ayak Bileği,0.0,10,Güç ve Kondisyon,Full Gym,3,23.8,PPL_SPLIT
+33,1,153.0,58.0,1.375,Ayak Bileği,0.0,4,Güç ve Kondisyon,Bodyweight,5,24.78,PPL_SPLIT
+49,0,189.0,70.2,1.9,Diz,0.0,8,Güç ve Kondisyon,Full Gym,3,19.65,PPL_SPLIT
+51,1,160.0,99.0,1.375,Yok,0.3312909778175382,8,Kilo Verme,Bodyweight,3,38.67,REHABILITASYON
+53,1,192.0,104.0,1.375,Omuz,0.3264504568923604,6,Sakatlık Sonrası,Full Gym,5,28.21,KILO_ALMA
+31,0,169.2,57.7,1.725,Omuz,4.4,0,Sakatlık Sonrası,Bodyweight,3,20.15,REHABILITASYON
+34,1,173.3,78.9,1.375,Yok,0.6,1,Güç ve Kondisyon,Bodyweight,4,26.27,PPL_SPLIT
+24,0,165.0,55.0,1.375,Diz,0.3680346751863428,8,Sakatlık Sonrası,Bodyweight,3,20.2,KILO_ALMA
+36,1,178.7,50.3,1.55,Omuz,4.7,4,Sakatlık Sonrası,Bodyweight,5,15.75,REHABILITASYON
+25,0,165.5,53.0,1.55,Bel,4.1,2,Sakatlık Sonrası,Bodyweight,5,19.35,REHABILITASYON
+46,1,155.0,66.0,1.375,Omuz,4.043660177604142,12,Güç ve Kondisyon,Full Gym,3,27.47,KILO_ALMA
+18,0,159.0,80.0,1.9,Diz,1.7557573569391849,2,Sakatlık Sonrası,Full Gym,5,31.64,PPL_SPLIT
+23,0,162.7,55.8,1.9,Diz,4.6,8,Sakatlık Sonrası,Dumbbell Only,3,21.08,REHABILITASYON
+28,1,173.0,68.0,1.55,Bel,1.1389590571438752,7,Kas Kazanımı,Dumbbell Only,2,22.72,YAG_YAKIMI
+22,1,162.0,72.1,1.55,Yok,0.0,10,Güç ve Kondisyon,Full Gym,4,27.47,PPL_SPLIT
+19,1,177.0,73.9,1.375,Yok,0.0,0,Güç ve Kondisyon,Dumbbell Only,4,23.59,PPL_SPLIT
+45,0,160.0,87.0,1.55,Bel,0.0827896523130733,2,Sakatlık Sonrası,Bodyweight,4,33.98,KILO_ALMA
+31,1,176.0,53.5,1.725,Omuz,0.0,8,Kas Kazanımı,Dumbbell Only,4,17.27,KILO_ALMA
+21,1,178.0,54.9,1.9,Omuz,0.0,0,Kas Kazanımı,Dumbbell Only,3,17.33,KILO_ALMA
+38,0,177.0,71.9,1.725,Diz,0.0,12,Güç ve Kondisyon,Full Gym,5,22.95,PPL_SPLIT
+22,0,163.2,52.9,1.55,Diz,0.7,11,Güç ve Kondisyon,Dumbbell Only,5,19.86,PPL_SPLIT
+43,1,177.0,66.3,1.55,Yok,0.0,12,Güç ve Kondisyon,Full Gym,5,21.16,PPL_SPLIT
+18,0,189.0,81.0,1.2,Yok,2.974082187887213,2,Kilo Verme,Bodyweight,5,22.68,PPL_SPLIT
+31,0,165.3,56.7,1.2,Diz,0.2,0,Güç ve Kondisyon,Bodyweight,5,20.75,PPL_SPLIT
+48,1,151.0,56.8,1.9,Bel,0.0,6,Güç ve Kondisyon,Bodyweight,3,24.91,PPL_SPLIT
+39,0,174.7,67.7,1.725,Omuz,0.6,11,Güç ve Kondisyon,Bodyweight,5,22.18,PPL_SPLIT
+22,0,156.3,45.0,1.9,Omuz,4.4,10,Sakatlık Sonrası,Full Gym,5,18.42,REHABILITASYON
+44,1,175.0,69.5,1.725,Diz,0.0,10,Güç ve Kondisyon,Bodyweight,3,22.69,PPL_SPLIT
+48,1,166.0,65.0,1.9,Diz,0.851934788569591,5,Kilo Verme,Full Gym,4,23.59,REHABILITASYON
+28,0,194.0,121.7,1.2,Yok,0.0,12,Kilo Verme,Bodyweight,3,32.34,YAG_YAKIMI
+32,1,158.0,61.7,1.9,Yok,0.0,7,Güç ve Kondisyon,Full Gym,5,24.72,PPL_SPLIT
+33,0,160.0,71.0,1.725,Diz,2.1482067988411018,0,Kas Kazanımı,Bodyweight,5,27.73,REHABILITASYON
+25,1,179.0,65.0,1.9,Omuz,1.264703282441067,0,Kilo Verme,Bodyweight,4,20.29,REHABILITASYON
+40,0,168.1,69.2,1.2,Bel,0.9,1,Güç ve Kondisyon,Bodyweight,5,24.49,PPL_SPLIT
+29,1,169.0,96.0,1.375,Diz,2.79408705238751,2,Güç ve Kondisyon,Bodyweight,4,33.61,KILO_ALMA
+27,1,182.0,68.0,1.725,Yok,4.20900819924433,9,Kas Kazanımı,Full Gym,4,20.53,PPL_SPLIT
+27,0,161.1,60.0,1.375,Diz,0.4,4,Güç ve Kondisyon,Full Gym,4,23.12,PPL_SPLIT
+22,0,162.0,71.0,1.9,Bel,0.0,7,Güç ve Kondisyon,Full Gym,3,27.05,PPL_SPLIT
+52,1,156.0,57.9,1.725,Omuz,0.0,11,Güç ve Kondisyon,Dumbbell Only,5,23.79,PPL_SPLIT
+22,0,176.8,59.7,1.2,Omuz,0.3,0,Güç ve Kondisyon,Dumbbell Only,5,19.1,PPL_SPLIT
+37,0,155.5,54.0,1.725,Diz,4.9,0,Sakatlık Sonrası,Dumbbell Only,4,22.33,REHABILITASYON
+41,0,200.0,94.5,1.9,Yok,0.0,9,Güç ve Kondisyon,Bodyweight,4,23.62,PPL_SPLIT
+20,1,194.0,65.0,1.375,Bel,1.429680822392948,0,Güç ve Kondisyon,Bodyweight,5,17.27,YAG_YAKIMI
+49,1,174.0,70.0,1.375,Omuz,3.25250435839503,9,Güç ve Kondisyon,Full Gym,4,23.12,YAG_YAKIMI
+23,1,185.3,73.7,1.9,Omuz,0.6,2,Güç ve Kondisyon,Dumbbell Only,4,21.46,PPL_SPLIT
+50,0,180.0,104.0,1.725,Omuz,3.735058758366318,13,Kilo Verme,Bodyweight,4,32.1,PPL_SPLIT
+29,1,157.0,49.0,1.375,Omuz,0.0,5,Güç ve Kondisyon,Bodyweight,4,19.88,PPL_SPLIT
+43,0,178.0,81.0,1.55,Ayak Bileği,0.0,0,Güç ve Kondisyon,Full Gym,3,25.56,PPL_SPLIT
+32,0,192.0,68.3,1.9,Omuz,0.0,2,Kas Kazanımı,Dumbbell Only,4,18.53,KILO_ALMA
+41,0,177.0,97.0,1.9,Diz,3.1465968454262816,1,Kilo Verme,Full Gym,5,30.96,REHABILITASYON
+52,1,162.0,44.1,1.725,Diz,0.0,11,Kas Kazanımı,Bodyweight,4,16.8,KILO_ALMA
+33,0,169.0,72.0,1.375,Bel,2.444593660458571,9,Kilo Verme,Full Gym,5,25.21,KILO_ALMA
+52,1,151.0,79.9,1.55,Diz,0.0,5,Kilo Verme,Bodyweight,5,35.04,YAG_YAKIMI
+34,1,162.0,59.0,1.375,Ayak Bileği,0.0,8,Güç ve Kondisyon,Full Gym,3,22.48,PPL_SPLIT
+34,0,176.0,92.0,1.2,Diz,0.0,6,Kilo Verme,Dumbbell Only,4,29.7,YAG_YAKIMI
+64,1,158.0,77.0,1.725,Omuz,1.5445212566158717,3,Güç ve Kondisyon,Bodyweight,3,30.84,REHABILITASYON
+57,1,163.0,51.4,1.55,Bel,0.0,4,Güç ve Kondisyon,Bodyweight,5,19.35,PPL_SPLIT
+20,0,164.7,46.0,1.375,Omuz,4.9,4,Sakatlık Sonrası,Full Gym,4,16.96,REHABILITASYON
+32,1,162.0,95.0,1.9,Bel,4.888807438760857,8,Kas Kazanımı,Full Gym,5,36.2,PPL_SPLIT
+54,0,166.0,82.0,1.375,Diz,1.2469761250503435,7,Kas Kazanımı,Bodyweight,3,29.76,REHABILITASYON
+30,1,180.0,97.0,1.375,Omuz,2.3532964654595503,1,Kas Kazanımı,Full Gym,5,29.94,PPL_SPLIT
+30,0,151.0,111.0,1.55,Bel,1.7596599244997098,4,Kas Kazanımı,Full Gym,2,48.68,PPL_SPLIT
+54,1,153.0,102.0,1.375,Omuz,4.562942372622532,6,Güç ve Kondisyon,Full Gym,3,43.57,KILO_ALMA
+38,1,176.2,74.9,1.2,Omuz,4.7,3,Sakatlık Sonrası,Bodyweight,4,24.13,REHABILITASYON
+39,0,164.0,62.0,1.375,Omuz,0.0,0,Güç ve Kondisyon,Full Gym,5,23.05,PPL_SPLIT
+23,1,176.3,67.7,1.725,Bel,0.9,3,Güç ve Kondisyon,Dumbbell Only,4,21.78,PPL_SPLIT
+37,1,169.0,73.5,1.725,Diz,0.0,3,Güç ve Kondisyon,Dumbbell Only,5,25.73,PPL_SPLIT
+45,1,174.0,73.5,1.55,Bel,0.0,14,Güç ve Kondisyon,Dumbbell Only,4,24.28,PPL_SPLIT
+25,1,179.9,95.0,1.9,Bel,4.2,10,Sakatlık Sonrası,Full Gym,5,29.35,REHABILITASYON
+18,0,161.0,70.0,1.55,Ayak Bileği,0.0,8,Güç ve Kondisyon,Dumbbell Only,5,27.01,PPL_SPLIT
+20,1,170.3,75.6,1.55,Ayak Bileği,1.0,12,Güç ve Kondisyon,Full Gym,4,26.07,PPL_SPLIT
+57,1,158.0,84.0,1.375,Bel,3.754456340729641,8,Sakatlık Sonrası,Full Gym,3,33.65,PPL_SPLIT
+28,1,158.0,69.6,1.2,Yok,0.0,12,Güç ve Kondisyon,Full Gym,5,27.88,PPL_SPLIT
+58,0,191.0,109.0,1.725,Ayak Bileği,0.0,9,Kilo Verme,Full Gym,4,29.88,YAG_YAKIMI
+28,0,165.9,59.2,1.55,Diz,0.1,10,Güç ve Kondisyon,Dumbbell Only,4,21.51,PPL_SPLIT
+46,0,177.0,103.9,1.2,Bel,0.0,4,Kilo Verme,Full Gym,4,33.16,YAG_YAKIMI
+18,1,178.0,63.0,1.9,Omuz,1.348299143473643,8,Kas Kazanımı,Full Gym,5,19.88,PPL_SPLIT
+55,1,165.0,99.0,1.375,Yok,2.2410617432127515,3,Güç ve Kondisyon,Full Gym,4,36.36,REHABILITASYON
+39,0,161.0,100.0,1.725,Yok,2.6890375050412207,0,Sakatlık Sonrası,Bodyweight,5,38.58,PPL_SPLIT
+42,0,170.0,72.0,1.375,Bel,4.552419495754474,4,Güç ve Kondisyon,Bodyweight,5,24.91,YAG_YAKIMI
+52,1,151.0,64.9,1.55,Omuz,0.0,3,Güç ve Kondisyon,Full Gym,3,28.46,PPL_SPLIT
+27,1,161.0,55.0,1.2,Omuz,3.300669038618293,6,Sakatlık Sonrası,Bodyweight,5,21.22,YAG_YAKIMI
+28,0,161.4,51.7,1.725,Omuz,0.4,6,Güç ve Kondisyon,Full Gym,3,19.85,PPL_SPLIT
+59,1,165.0,87.0,1.725,Yok,1.3783760105596148,1,Güç ve Kondisyon,Full Gym,4,31.96,YAG_YAKIMI
+53,1,155.0,73.5,1.9,Bel,0.0,11,Kilo Verme,Full Gym,5,30.59,YAG_YAKIMI
+46,0,194.0,91.0,1.725,Omuz,0.6372201053727794,4,Güç ve Kondisyon,Bodyweight,4,24.18,REHABILITASYON
+26,1,167.0,72.8,1.9,Ayak Bileği,0.0,11,Güç ve Kondisyon,Dumbbell Only,3,26.1,PPL_SPLIT
+50,1,153.0,42.7,1.55,Diz,0.0,8,Kas Kazanımı,Full Gym,3,18.24,KILO_ALMA
+23,1,180.6,78.1,1.375,Ayak Bileği,0.1,5,Güç ve Kondisyon,Full Gym,3,23.95,PPL_SPLIT
+47,1,161.0,104.0,1.55,Yok,2.937579869897532,1,Güç ve Kondisyon,Full Gym,4,40.12,KILO_ALMA
+28,0,160.5,61.9,1.55,Ayak Bileği,4.4,5,Sakatlık Sonrası,Bodyweight,4,24.03,REHABILITASYON
+28,1,180.2,80.3,1.55,Yok,0.6,1,Güç ve Kondisyon,Dumbbell Only,3,24.73,PPL_SPLIT
+49,1,152.0,68.3,1.55,Ayak Bileği,0.0,7,Kilo Verme,Full Gym,3,29.56,YAG_YAKIMI
+29,0,175.0,63.0,1.2,Omuz,0.3157511536740326,8,Güç ve Kondisyon,Full Gym,5,20.57,KILO_ALMA
+41,1,177.0,43.8,1.9,Ayak Bileği,0.0,6,Kas Kazanımı,Full Gym,4,13.98,KILO_ALMA
+27,0,151.0,68.0,1.375,Diz,4.535730585654955,2,Güç ve Kondisyon,Full Gym,2,29.82,YAG_YAKIMI
+43,1,161.0,58.2,1.55,Yok,0.0,3,Güç ve Kondisyon,Full Gym,4,22.45,PPL_SPLIT
+42,0,191.0,97.9,1.375,Bel,0.0,7,Güç ve Kondisyon,Bodyweight,5,26.84,PPL_SPLIT
+28,0,184.0,101.8,1.55,Omuz,0.0,12,Kilo Verme,Bodyweight,4,30.07,YAG_YAKIMI
+25,0,157.8,59.0,1.725,Yok,0.8,10,Güç ve Kondisyon,Full Gym,3,23.69,PPL_SPLIT
+37,1,176.6,95.0,1.55,Ayak Bileği,0.3,10,Kilo Verme,Full Gym,4,30.46,YAG_YAKIMI
+59,0,170.0,99.0,1.55,Yok,1.3496246472157054,9,Kilo Verme,Bodyweight,3,34.26,PPL_SPLIT
+36,0,164.3,52.7,1.55,Ayak Bileği,4.7,12,Sakatlık Sonrası,Full Gym,3,19.52,REHABILITASYON
+42,0,193.0,79.3,1.375,Bel,0.0,4,Güç ve Kondisyon,Full Gym,3,21.29,PPL_SPLIT
+25,1,167.0,41.1,1.725,Bel,0.0,11,Kas Kazanımı,Dumbbell Only,5,14.74,KILO_ALMA
+21,0,186.0,86.6,1.55,Omuz,0.0,14,Güç ve Kondisyon,Bodyweight,5,25.03,PPL_SPLIT
+49,0,200.0,88.6,1.725,Diz,0.0,3,Güç ve Kondisyon,Bodyweight,5,22.15,PPL_SPLIT
+19,1,179.0,73.0,1.2,Ayak Bileği,0.0,10,Güç ve Kondisyon,Dumbbell Only,3,22.78,PPL_SPLIT
+53,1,156.0,102.0,1.725,Diz,0.116620045966882,7,Güç ve Kondisyon,Bodyweight,4,41.91,REHABILITASYON
+59,1,187.0,69.0,1.9,Diz,0.4334985912472061,4,Kas Kazanımı,Bodyweight,4,19.73,REHABILITASYON
+52,1,177.0,85.0,1.2,Diz,1.9572538716998489,0,Kas Kazanımı,Full Gym,5,27.13,YAG_YAKIMI
+51,1,155.0,70.3,1.2,Bel,0.0,8,Kilo Verme,Bodyweight,3,29.26,YAG_YAKIMI
+42,0,181.0,85.2,1.9,Ayak Bileği,0.0,9,Güç ve Kondisyon,Bodyweight,3,26.01,PPL_SPLIT
+55,1,168.0,78.0,1.55,Yok,2.671382737023524,1,Kilo Verme,Full Gym,3,27.64,KILO_ALMA
+34,1,169.0,66.5,1.55,Diz,0.0,0,Güç ve Kondisyon,Dumbbell Only,3,23.28,PPL_SPLIT
+39,0,182.0,86.2,1.725,Bel,0.0,10,Güç ve Kondisyon,Bodyweight,4,26.02,PPL_SPLIT
+58,0,169.0,63.0,1.9,Bel,3.369005917570465,1,Kilo Verme,Full Gym,3,22.06,KILO_ALMA
+40,0,171.5,55.4,1.375,Omuz,0.5,10,Kas Kazanımı,Full Gym,3,18.84,KILO_ALMA
+18,1,157.0,66.9,1.55,Omuz,0.0,8,Güç ve Kondisyon,Full Gym,3,27.14,PPL_SPLIT
+20,1,158.0,51.1,1.55,Diz,0.0,1,Güç ve Kondisyon,Bodyweight,4,20.47,PPL_SPLIT
+33,0,199.0,113.6,1.55,Diz,0.0,14,Kilo Verme,Full Gym,4,28.69,YAG_YAKIMI
+18,0,158.2,45.0,1.9,Bel,0.8,13,Kas Kazanımı,Full Gym,3,17.98,KILO_ALMA
+33,0,181.0,73.0,1.725,Yok,0.7135872148854294,6,Sakatlık Sonrası,Bodyweight,5,22.28,KILO_ALMA
+56,0,168.0,69.3,1.55,Ayak Bileği,0.0,0,Güç ve Kondisyon,Full Gym,4,24.55,PPL_SPLIT
+36,1,170.0,94.0,1.725,Diz,1.4621009910254812,1,Kilo Verme,Full Gym,3,32.53,REHABILITASYON
+28,0,187.0,114.2,1.9,Yok,0.0,6,Kilo Verme,Bodyweight,5,32.66,YAG_YAKIMI
+53,1,169.0,71.0,1.9,Yok,0.2697960167714869,0,Kas Kazanımı,Full Gym,3,24.86,YAG_YAKIMI
+32,1,176.2,58.5,1.725,Diz,0.7,2,Kas Kazanımı,Dumbbell Only,5,18.84,KILO_ALMA
+20,0,164.0,74.0,1.9,Bel,1.7033197831153577,1,Kilo Verme,Full Gym,4,27.51,REHABILITASYON
+36,1,189.0,68.0,1.375,Diz,0.6293774077438369,4,Kas Kazanımı,Bodyweight,3,19.04,YAG_YAKIMI
+42,0,190.0,79.0,1.375,Diz,4.2544830509415625,0,Kas Kazanımı,Bodyweight,5,21.88,PPL_SPLIT
+46,0,187.0,99.0,1.2,Omuz,1.3432130493372043,6,Kilo Verme,Full Gym,3,28.31,KILO_ALMA
+33,0,162.0,77.0,1.725,Omuz,3.61000149497618,4,Kas Kazanımı,Bodyweight,3,29.34,REHABILITASYON
+48,0,160.0,54.0,1.9,Diz,0.3587895029432142,3,Kas Kazanımı,Bodyweight,2,21.09,PPL_SPLIT
+48,0,164.0,76.0,1.9,Diz,3.881286103116677,5,Güç ve Kondisyon,Full Gym,4,28.26,YAG_YAKIMI
+59,1,176.0,60.4,1.9,Diz,0.0,5,Güç ve Kondisyon,Bodyweight,3,19.5,PPL_SPLIT
+48,0,157.0,59.0,1.725,Omuz,4.678442941602967,2,Kas Kazanımı,Full Gym,3,23.94,REHABILITASYON
+45,1,154.0,64.3,1.375,Ayak Bileği,0.0,5,Güç ve Kondisyon,Dumbbell Only,5,27.11,PPL_SPLIT
+39,0,194.0,102.3,1.375,Bel,0.0,10,Güç ve Kondisyon,Dumbbell Only,3,27.18,PPL_SPLIT
+38,1,172.5,60.6,1.9,Yok,0.4,8,Güç ve Kondisyon,Bodyweight,3,20.37,PPL_SPLIT
+23,0,180.0,83.1,1.725,Bel,0.0,13,Güç ve Kondisyon,Bodyweight,3,25.65,PPL_SPLIT
+56,1,170.0,50.6,1.2,Omuz,0.0,13,Kas Kazanımı,Dumbbell Only,3,17.51,KILO_ALMA
+18,0,169.0,102.0,1.725,Bel,2.605016950024297,2,Sakatlık Sonrası,Bodyweight,5,35.71,PPL_SPLIT
+36,0,153.7,56.7,1.55,Yok,0.8,1,Güç ve Kondisyon,Full Gym,4,24.0,PPL_SPLIT
+43,1,158.0,61.5,1.2,Diz,0.0,5,Güç ve Kondisyon,Dumbbell Only,3,24.64,PPL_SPLIT
+25,0,171.6,46.9,1.9,Yok,4.6,12,Sakatlık Sonrası,Dumbbell Only,3,15.93,REHABILITASYON
+26,0,200.0,51.9,1.9,Omuz,0.0,11,Kas Kazanımı,Dumbbell Only,5,12.98,KILO_ALMA
+57,1,152.0,60.9,1.2,Omuz,0.0,5,Güç ve Kondisyon,Dumbbell Only,3,26.36,PPL_SPLIT
+31,1,177.0,60.5,1.9,Omuz,0.0,7,Güç ve Kondisyon,Dumbbell Only,4,19.31,PPL_SPLIT
+21,0,163.0,82.0,1.55,Bel,2.5844576363197733,7,Kilo Verme,Full Gym,4,30.86,REHABILITASYON
+22,1,159.0,50.7,1.375,Ayak Bileği,0.0,9,Güç ve Kondisyon,Dumbbell Only,3,20.05,PPL_SPLIT
+20,0,175.0,74.8,1.9,Bel,0.0,0,Güç ve Kondisyon,Dumbbell Only,3,24.42,PPL_SPLIT
+36,1,164.0,57.3,1.725,Bel,0.0,4,Güç ve Kondisyon,Bodyweight,4,21.3,PPL_SPLIT
+41,0,177.0,96.0,1.9,Bel,0.6365949938065885,2,Sakatlık Sonrası,Full Gym,4,30.64,KILO_ALMA
+54,1,160.0,83.0,1.55,Bel,0.042617648162585,0,Kilo Verme,Full Gym,5,32.42,KILO_ALMA
+29,1,194.0,106.0,1.2,Yok,1.399837181988718,0,Güç ve Kondisyon,Full Gym,4,28.16,YAG_YAKIMI
+57,1,187.0,72.0,1.2,Omuz,2.3596264818686614,0,Güç ve Kondisyon,Bodyweight,5,20.59,YAG_YAKIMI
+37,0,189.0,103.5,1.2,Omuz,0.0,9,Kilo Verme,Bodyweight,3,28.97,YAG_YAKIMI
+49,0,160.0,68.0,1.2,Diz,2.108520049742151,2,Sakatlık Sonrası,Bodyweight,4,26.56,YAG_YAKIMI
+25,1,168.4,83.2,1.55,Ayak Bileği,0.2,7,Kilo Verme,Bodyweight,4,29.34,YAG_YAKIMI
+23,0,169.0,101.0,1.2,Diz,3.5611246076739445,7,Sakatlık Sonrası,Full Gym,5,35.36,YAG_YAKIMI
+41,1,176.0,77.6,1.9,Yok,0.0,10,Güç ve Kondisyon,Bodyweight,4,25.05,PPL_SPLIT
+21,0,150.0,104.0,1.9,Bel,4.673193949257215,4,Kas Kazanımı,Bodyweight,4,46.22,PPL_SPLIT
+18,0,189.0,59.0,1.725,Bel,4.539562948537704,4,Güç ve Kondisyon,Full Gym,4,16.52,REHABILITASYON
+24,0,161.0,69.0,1.375,Omuz,4.905225558709059,0,Kas Kazanımı,Full Gym,5,26.62,PPL_SPLIT
+29,0,184.0,79.0,1.9,Diz,3.863390751980305,5,Sakatlık Sonrası,Full Gym,3,23.33,PPL_SPLIT
+33,1,176.0,74.2,1.55,Bel,0.0,3,Güç ve Kondisyon,Dumbbell Only,5,23.95,PPL_SPLIT
+35,0,162.0,127.1,1.2,Bel,0.0,5,Kilo Verme,Full Gym,4,48.43,YAG_YAKIMI
+30,0,178.0,64.0,1.9,Yok,4.831696661556213,7,Kas Kazanımı,Bodyweight,4,20.2,PPL_SPLIT
+36,1,174.0,47.2,1.375,Bel,0.0,10,Kas Kazanımı,Bodyweight,4,15.59,KILO_ALMA
+39,0,175.0,81.7,1.9,Yok,0.0,3,Güç ve Kondisyon,Full Gym,3,26.68,PPL_SPLIT
+34,1,161.0,46.9,1.2,Diz,0.0,4,Kas Kazanımı,Dumbbell Only,3,18.09,KILO_ALMA
+20,1,157.0,108.0,1.725,Yok,2.6651293936836167,0,Kilo Verme,Bodyweight,3,43.82,PPL_SPLIT
+34,0,162.0,65.9,1.375,Omuz,0.0,3,Güç ve Kondisyon,Dumbbell Only,3,25.11,PPL_SPLIT
+19,1,164.0,100.0,1.375,Bel,4.56122346093592,6,Sakatlık Sonrası,Bodyweight,3,37.18,YAG_YAKIMI
+55,0,172.0,118.6,1.9,Bel,0.0,11,Kilo Verme,Full Gym,4,40.09,YAG_YAKIMI
+18,1,175.2,81.9,1.55,Diz,0.5,11,Güç ve Kondisyon,Dumbbell Only,4,26.68,PPL_SPLIT
+56,0,190.0,118.0,1.2,Bel,0.0,14,Kilo Verme,Full Gym,3,32.69,YAG_YAKIMI
+28,0,155.8,58.7,1.9,Diz,4.9,1,Sakatlık Sonrası,Dumbbell Only,3,24.18,REHABILITASYON
+49,0,199.0,57.8,1.375,Omuz,0.0,1,Kas Kazanımı,Dumbbell Only,5,14.6,KILO_ALMA
+53,1,157.0,52.4,1.9,Yok,0.0,6,Güç ve Kondisyon,Bodyweight,5,21.26,PPL_SPLIT
+23,0,159.9,49.7,1.375,Omuz,0.2,8,Güç ve Kondisyon,Bodyweight,4,19.44,PPL_SPLIT
+56,1,173.0,45.1,1.375,Diz,0.0,8,Kas Kazanımı,Full Gym,5,15.07,KILO_ALMA
+26,0,158.4,50.4,1.725,Bel,4.9,9,Sakatlık Sonrası,Dumbbell Only,4,20.09,REHABILITASYON
+30,1,189.4,78.6,1.55,Diz,0.9,12,Güç ve Kondisyon,Bodyweight,4,21.91,PPL_SPLIT
+40,1,172.0,106.0,1.9,Bel,0.8019482936001432,9,Kas Kazanımı,Full Gym,3,35.83,YAG_YAKIMI
+50,0,169.0,88.0,1.375,Bel,1.6660612184892871,0,Kilo Verme,Full Gym,3,30.81,KILO_ALMA
+29,1,183.0,118.0,1.2,Yok,3.261630082979151,7,Kas Kazanımı,Dumbbell Only,2,35.24,PPL_SPLIT
+19,0,196.0,82.4,1.725,Yok,0.0,11,Güç ve Kondisyon,Dumbbell Only,4,21.45,PPL_SPLIT
+29,0,181.0,106.5,1.2,Yok,0.0,12,Kilo Verme,Dumbbell Only,5,32.51,YAG_YAKIMI
+34,1,160.0,75.6,1.375,Bel,0.0,13,Kilo Verme,Dumbbell Only,4,29.53,YAG_YAKIMI
+43,1,165.0,66.0,1.375,Diz,3.426959390632048,3,Kas Kazanımı,Dumbbell Only,3,24.24,YAG_YAKIMI
+27,0,166.1,56.9,1.55,Yok,0.7,0,Güç ve Kondisyon,Dumbbell Only,4,20.62,PPL_SPLIT
+39,1,175.0,42.5,1.375,Ayak Bileği,0.0,6,Kas Kazanımı,Full Gym,5,13.88,KILO_ALMA
+44,1,180.0,69.0,1.2,Omuz,2.021134274352389,1,Kilo Verme,Full Gym,5,21.3,PPL_SPLIT
+37,0,155.0,78.0,1.9,Diz,2.9383021138781027,0,Kilo Verme,Full Gym,4,32.47,KILO_ALMA
+27,1,183.0,58.0,1.2,Yok,2.0017672385160457,1,Kilo Verme,Bodyweight,3,17.32,KILO_ALMA
+42,1,169.0,72.4,1.2,Ayak Bileği,0.0,12,Güç ve Kondisyon,Bodyweight,4,25.35,PPL_SPLIT
+34,0,171.1,66.0,1.375,Ayak Bileği,5.0,1,Sakatlık Sonrası,Dumbbell Only,3,22.54,REHABILITASYON
+21,1,152.0,50.3,1.725,Diz,0.0,10,Güç ve Kondisyon,Bodyweight,3,21.77,PPL_SPLIT
+19,1,181.4,74.9,1.725,Yok,0.5,4,Güç ve Kondisyon,Full Gym,4,22.76,PPL_SPLIT
+19,1,169.0,49.0,1.9,Diz,0.0,9,Kas Kazanımı,Full Gym,5,17.16,KILO_ALMA
+43,1,159.0,73.0,1.375,Diz,0.0,2,Kilo Verme,Full Gym,5,28.88,YAG_YAKIMI
+20,1,152.0,65.4,1.375,Ayak Bileği,0.0,9,Güç ve Kondisyon,Bodyweight,3,28.31,PPL_SPLIT
+53,0,195.0,94.1,1.55,Yok,0.0,2,Güç ve Kondisyon,Full Gym,5,24.75,PPL_SPLIT
+42,1,174.0,102.0,1.9,Diz,4.879441823912235,5,Sakatlık Sonrası,Full Gym,5,33.69,KILO_ALMA
+47,1,158.0,41.6,1.9,Diz,0.0,4,Kas Kazanımı,Bodyweight,4,16.66,KILO_ALMA
+57,1,179.0,111.0,1.375,Diz,4.503312598227243,5,Kas Kazanımı,Full Gym,5,34.64,PPL_SPLIT
+42,0,177.0,63.3,1.2,Yok,0.0,1,Güç ve Kondisyon,Full Gym,4,20.2,PPL_SPLIT
+57,0,169.0,85.6,1.2,Omuz,0.0,13,Kilo Verme,Full Gym,4,29.97,YAG_YAKIMI
+31,0,168.9,65.4,1.9,Omuz,4.6,7,Sakatlık Sonrası,Dumbbell Only,4,22.93,REHABILITASYON
+48,1,194.0,90.0,1.2,Yok,0.4271017439179692,0,Sakatlık Sonrası,Full Gym,4,23.91,PPL_SPLIT
+47,0,173.0,70.0,1.55,Omuz,3.298094640801524,7,Kilo Verme,Bodyweight,3,23.39,REHABILITASYON
+49,0,164.0,105.7,1.2,Ayak Bileği,0.0,6,Kilo Verme,Bodyweight,3,39.3,YAG_YAKIMI
+32,0,165.4,49.8,1.2,Diz,4.7,3,Sakatlık Sonrası,Dumbbell Only,5,18.2,REHABILITASYON
+48,0,161.0,73.7,1.725,Omuz,0.0,7,Güç ve Kondisyon,Bodyweight,3,28.43,PPL_SPLIT
+40,0,182.0,51.7,1.725,Bel,0.0,6,Kas Kazanımı,Bodyweight,4,15.61,KILO_ALMA
+43,1,159.0,53.1,1.2,Diz,0.0,9,Güç ve Kondisyon,Dumbbell Only,5,21.0,PPL_SPLIT
+25,0,166.0,55.6,1.725,Bel,0.2,7,Güç ve Kondisyon,Dumbbell Only,3,20.18,PPL_SPLIT
+32,1,173.3,79.6,1.2,Yok,0.4,12,Güç ve Kondisyon,Full Gym,3,26.5,PPL_SPLIT
+57,1,167.0,75.6,1.725,Omuz,0.0,3,Güç ve Kondisyon,Full Gym,3,27.11,PPL_SPLIT
+54,1,161.0,50.2,1.2,Omuz,0.0,6,Güç ve Kondisyon,Dumbbell Only,5,19.37,PPL_SPLIT
+31,0,198.0,70.2,1.9,Bel,0.0,7,Kas Kazanımı,Bodyweight,4,17.91,KILO_ALMA
+18,0,153.7,49.3,1.9,Omuz,4.8,5,Sakatlık Sonrası,Full Gym,5,20.87,REHABILITASYON
+46,1,170.0,61.0,1.55,Omuz,4.388617119877568,13,Güç ve Kondisyon,Full Gym,5,21.11,KILO_ALMA
+38,0,163.0,113.0,1.2,Yok,1.393911820463552,5,Güç ve Kondisyon,Full Gym,5,42.53,REHABILITASYON
+25,0,158.0,95.0,1.9,Yok,3.62796360305891,6,Sakatlık Sonrası,Bodyweight,3,38.05,KILO_ALMA
+29,0,167.1,69.9,1.9,Omuz,0.1,3,Güç ve Kondisyon,Full Gym,4,25.03,PPL_SPLIT
+58,0,187.0,82.2,1.55,Omuz,0.0,10,Güç ve Kondisyon,Dumbbell Only,5,23.51,PPL_SPLIT
+37,0,158.3,60.6,1.55,Bel,4.8,8,Sakatlık Sonrası,Bodyweight,4,24.18,REHABILITASYON
+45,0,161.0,81.4,1.375,Bel,0.0,13,Kilo Verme,Bodyweight,5,31.4,YAG_YAKIMI
+33,0,163.1,60.3,1.2,Diz,4.4,2,Sakatlık Sonrası,Dumbbell Only,3,22.67,REHABILITASYON
+41,0,171.0,64.8,1.9,Omuz,0.0,7,Güç ve Kondisyon,Full Gym,3,22.16,PPL_SPLIT
+32,1,177.0,97.0,1.2,Yok,1.1051618259730056,13,Kas Kazanımı,Bodyweight,5,30.96,YAG_YAKIMI
+51,1,153.0,54.7,1.725,Ayak Bileği,0.0,9,Güç ve Kondisyon,Bodyweight,4,23.37,PPL_SPLIT
+53,0,184.0,85.0,1.9,Yok,4.2985321586248055,5,Güç ve Kondisyon,Bodyweight,5,25.11,KILO_ALMA
+20,1,175.3,62.9,1.9,Yok,0.3,6,Güç ve Kondisyon,Full Gym,3,20.47,PPL_SPLIT
+30,0,175.0,67.9,1.2,Bel,0.0,5,Güç ve Kondisyon,Dumbbell Only,3,22.17,PPL_SPLIT
+38,1,160.0,56.3,1.55,Bel,0.0,12,Güç ve Kondisyon,Bodyweight,5,21.99,PPL_SPLIT
+39,1,165.0,60.6,1.375,Diz,0.0,13,Güç ve Kondisyon,Full Gym,4,22.26,PPL_SPLIT
+22,0,158.0,66.0,1.2,Ayak Bileği,3.772046690463049,6,Güç ve Kondisyon,Dumbbell Only,4,26.44,YAG_YAKIMI
+19,0,151.0,48.4,1.2,Yok,0.3,11,Güç ve Kondisyon,Full Gym,4,21.23,PPL_SPLIT
+49,1,152.0,42.0,1.55,Ayak Bileği,0.0,4,Kas Kazanımı,Full Gym,4,18.18,KILO_ALMA
+43,0,177.0,95.7,1.375,Ayak Bileği,0.0,1,Kilo Verme,Full Gym,3,30.55,YAG_YAKIMI
+19,0,158.6,45.0,1.2,Yok,4.3,11,Sakatlık Sonrası,Full Gym,3,17.89,REHABILITASYON
+54,0,194.0,125.9,1.725,Ayak Bileği,0.0,11,Kilo Verme,Dumbbell Only,3,33.45,YAG_YAKIMI
+24,1,175.0,69.7,1.725,Omuz,0.0,12,Güç ve Kondisyon,Dumbbell Only,4,22.76,PPL_SPLIT
+54,0,186.0,83.6,1.375,Omuz,0.0,6,Güç ve Kondisyon,Dumbbell Only,3,24.16,PPL_SPLIT
+36,1,180.3,74.3,1.725,Omuz,0.7,8,Güç ve Kondisyon,Bodyweight,5,22.86,PPL_SPLIT
+31,0,164.9,54.3,1.375,Yok,0.1,9,Güç ve Kondisyon,Full Gym,3,19.97,PPL_SPLIT
+18,1,154.0,72.2,1.375,Omuz,0.0,7,Kilo Verme,Dumbbell Only,5,30.44,YAG_YAKIMI
+38,1,156.0,57.7,1.725,Ayak Bileği,0.0,2,Güç ve Kondisyon,Bodyweight,4,23.71,PPL_SPLIT
+19,1,173.0,93.0,1.375,Omuz,1.4285662838908912,2,Güç ve Kondisyon,Full Gym,4,31.07,KILO_ALMA
+21,1,167.0,95.0,1.375,Bel,2.865823010787212,9,Güç ve Kondisyon,Bodyweight,5,34.06,KILO_ALMA
+52,0,160.0,66.5,1.55,Yok,0.0,11,Güç ve Kondisyon,Dumbbell Only,4,25.98,PPL_SPLIT
+37,0,176.0,124.2,1.9,Bel,0.0,2,Kilo Verme,Bodyweight,3,40.1,YAG_YAKIMI
+52,1,154.0,63.1,1.375,Omuz,0.0,3,Güç ve Kondisyon,Bodyweight,3,26.61,PPL_SPLIT
+47,1,176.0,52.0,1.55,Ayak Bileği,0.12426743570890242,2,Güç ve Kondisyon,Bodyweight,3,16.79,YAG_YAKIMI
+42,1,186.0,62.0,1.725,Yok,3.231059430141927,4,Kas Kazanımı,Full Gym,4,17.92,YAG_YAKIMI
+18,0,185.0,56.0,1.725,Diz,2.951627444574952,3,Sakatlık Sonrası,Bodyweight,4,16.36,YAG_YAKIMI
+29,0,183.0,71.0,1.55,Yok,3.236286014557879,3,Kas Kazanımı,Full Gym,3,21.2,PPL_SPLIT
+47,0,177.0,55.6,1.725,Bel,0.0,1,Kas Kazanımı,Bodyweight,4,17.75,KILO_ALMA
+28,0,180.0,64.0,1.55,Bel,3.845518272775812,5,Kilo Verme,Bodyweight,3,19.75,REHABILITASYON
+52,0,182.0,85.5,1.725,Omuz,0.0,6,Güç ve Kondisyon,Dumbbell Only,5,25.81,PPL_SPLIT
+26,0,157.0,94.0,1.55,Diz,0.9551488730900248,3,Sakatlık Sonrası,Bodyweight,5,38.14,YAG_YAKIMI
+36,0,195.0,56.2,1.725,Omuz,0.0,1,Kas Kazanımı,Bodyweight,4,14.78,KILO_ALMA
+55,1,185.0,78.0,1.725,Bel,1.6900946536864925,3,Kilo Verme,Bodyweight,5,22.79,REHABILITASYON
+29,1,168.9,63.7,1.55,Omuz,0.0,2,Güç ve Kondisyon,Bodyweight,3,22.33,PPL_SPLIT
+56,0,163.0,84.6,1.55,Omuz,0.0,8,Kilo Verme,Dumbbell Only,3,31.84,YAG_YAKIMI
+39,0,159.5,45.0,1.725,Yok,0.6,11,Kas Kazanımı,Dumbbell Only,5,17.69,KILO_ALMA
+27,1,195.0,76.0,1.2,Bel,1.6080358000330448,4,Sakatlık Sonrası,Bodyweight,4,19.99,KILO_ALMA
+53,0,170.0,51.7,1.55,Yok,0.0,13,Kas Kazanımı,Bodyweight,4,17.89,KILO_ALMA
+49,1,167.0,70.2,1.55,Diz,0.0,4,Güç ve Kondisyon,Full Gym,4,25.17,PPL_SPLIT
+27,0,162.1,57.7,1.375,Diz,0.9,2,Güç ve Kondisyon,Dumbbell Only,5,21.96,PPL_SPLIT
+35,0,166.0,59.2,1.375,Bel,0.0,3,Güç ve Kondisyon,Bodyweight,3,21.48,PPL_SPLIT
+41,1,164.0,71.2,1.2,Yok,0.0,10,Güç ve Kondisyon,Bodyweight,4,26.47,PPL_SPLIT
+36,0,163.0,112.4,1.375,Ayak Bileği,0.0,9,Kilo Verme,Full Gym,3,42.3,YAG_YAKIMI
+28,1,165.0,102.0,1.725,Bel,3.7107215420001367,3,Sakatlık Sonrası,Full Gym,4,37.47,KILO_ALMA
+26,1,189.0,82.0,1.9,Yok,0.6641841003106003,6,Sakatlık Sonrası,Full Gym,4,22.96,YAG_YAKIMI
+25,1,174.9,55.7,1.9,Diz,4.2,5,Sakatlık Sonrası,Bodyweight,3,18.21,REHABILITASYON
+35,0,155.2,45.7,1.375,Diz,0.4,2,Kas Kazanımı,Dumbbell Only,3,18.97,KILO_ALMA
+32,0,167.0,105.3,1.2,Bel,0.0,9,Kilo Verme,Bodyweight,3,37.76,YAG_YAKIMI
+30,0,155.2,57.2,1.9,Omuz,1.0,9,Güç ve Kondisyon,Full Gym,5,23.75,PPL_SPLIT
+31,0,168.6,50.0,1.725,Ayak Bileği,0.7,3,Kas Kazanımı,Bodyweight,3,17.59,KILO_ALMA
+36,0,195.0,82.0,1.9,Bel,4.127327521647113,4,Güç ve Kondisyon,Full Gym,4,21.56,REHABILITASYON
+23,1,159.0,60.1,1.2,Bel,0.0,1,Güç ve Kondisyon,Bodyweight,3,23.77,PPL_SPLIT
+22,0,156.0,51.9,1.725,Diz,0.6,12,Güç ve Kondisyon,Full Gym,3,21.33,PPL_SPLIT
+49,1,162.0,99.0,1.55,Diz,1.2921133720751157,8,Sakatlık Sonrası,Full Gym,5,37.72,YAG_YAKIMI
+20,1,185.0,82.0,1.725,Diz,3.53206172223794,6,Güç ve Kondisyon,Bodyweight,3,23.96,REHABILITASYON
+50,0,167.0,45.4,1.375,Diz,0.0,10,Kas Kazanımı,Full Gym,5,16.28,KILO_ALMA
+50,1,155.0,73.6,1.55,Omuz,0.0,13,Kilo Verme,Full Gym,5,30.63,YAG_YAKIMI
+23,1,175.0,118.0,1.725,Omuz,2.5680463200512005,11,Güç ve Kondisyon,Dumbbell Only,2,38.53,REHABILITASYON
+28,1,173.9,69.2,1.725,Omuz,0.5,14,Güç ve Kondisyon,Full Gym,4,22.88,PPL_SPLIT
+43,1,173.0,55.2,1.55,Diz,0.0,1,Kas Kazanımı,Full Gym,5,18.44,KILO_ALMA
+27,1,176.0,69.5,1.375,Omuz,0.0,12,Güç ve Kondisyon,Dumbbell Only,4,22.44,PPL_SPLIT
+27,0,159.9,53.9,1.9,Yok,0.9,14,Güç ve Kondisyon,Dumbbell Only,5,21.08,PPL_SPLIT
+30,0,167.6,45.3,1.55,Bel,0.6,8,Kas Kazanımı,Full Gym,3,16.13,KILO_ALMA
+45,0,172.0,58.4,1.2,Diz,0.0,3,Güç ve Kondisyon,Bodyweight,3,19.74,PPL_SPLIT
+52,0,194.0,72.3,1.725,Bel,0.0,6,Güç ve Kondisyon,Dumbbell Only,5,19.21,PPL_SPLIT
+33,0,161.0,117.0,1.375,Omuz,0.0,12,Kilo Verme,Full Gym,5,45.14,YAG_YAKIMI
+29,0,164.6,63.7,1.9,Omuz,0.2,9,Güç ve Kondisyon,Dumbbell Only,3,23.51,PPL_SPLIT
+50,1,157.0,66.3,1.9,Ayak Bileği,0.0,5,Güç ve Kondisyon,Full Gym,5,26.9,PPL_SPLIT
+38,1,181.6,66.2,1.725,Omuz,0.8,0,Güç ve Kondisyon,Bodyweight,3,20.07,PPL_SPLIT
+23,1,169.0,56.0,1.2,Diz,1.689233748736108,11,Güç ve Kondisyon,Full Gym,4,19.61,YAG_YAKIMI
+26,0,168.0,86.2,1.725,Bel,0.0,14,Kilo Verme,Dumbbell Only,5,30.54,YAG_YAKIMI
+23,0,177.0,67.0,1.2,Yok,3.069008633166827,9,Sakatlık Sonrası,Bodyweight,4,21.39,PPL_SPLIT
+37,1,176.0,72.9,1.725,Diz,0.0,14,Güç ve Kondisyon,Full Gym,4,23.53,PPL_SPLIT
+57,0,163.0,126.8,1.2,Ayak Bileği,0.0,9,Kilo Verme,Full Gym,3,47.72,YAG_YAKIMI
+38,1,194.0,100.0,1.9,Yok,1.7820640816196658,3,Kas Kazanımı,Bodyweight,3,26.57,YAG_YAKIMI
+29,0,189.0,88.0,1.55,Diz,0.0,13,Güç ve Kondisyon,Dumbbell Only,5,24.64,PPL_SPLIT
+28,0,200.0,58.3,1.725,Diz,0.0,0,Kas Kazanımı,Bodyweight,3,14.58,KILO_ALMA
+30,0,167.3,64.9,1.375,Yok,4.1,3,Sakatlık Sonrası,Dumbbell Only,3,23.19,REHABILITASYON
+35,1,175.0,89.0,1.375,Diz,4.354492128110476,9,Kas Kazanımı,Bodyweight,5,29.06,PPL_SPLIT
+40,1,171.0,118.0,1.9,Omuz,1.4693867064662136,11,Sakatlık Sonrası,Full Gym,3,40.35,KILO_ALMA
+32,1,181.7,57.4,1.725,Yok,0.1,10,Kas Kazanımı,Dumbbell Only,3,17.39,KILO_ALMA
+35,0,166.1,54.0,1.725,Bel,0.0,0,Güç ve Kondisyon,Dumbbell Only,4,19.57,PPL_SPLIT
+56,1,164.0,52.9,1.2,Yok,0.0,1,Güç ve Kondisyon,Full Gym,5,19.67,PPL_SPLIT
+22,0,165.0,116.0,1.9,Ayak Bileği,1.7751829864015056,13,Güç ve Kondisyon,Full Gym,4,42.61,REHABILITASYON
+42,1,150.0,49.2,1.55,Omuz,0.0,13,Güç ve Kondisyon,Bodyweight,3,21.87,PPL_SPLIT
+33,1,183.0,84.0,1.55,Bel,4.735800140404734,1,Kas Kazanımı,Full Gym,3,25.08,REHABILITASYON
+47,1,176.0,68.7,1.9,Yok,0.0,14,Güç ve Kondisyon,Dumbbell Only,4,22.18,PPL_SPLIT
+39,0,165.8,61.1,1.725,Yok,0.4,3,Güç ve Kondisyon,Dumbbell Only,5,22.23,PPL_SPLIT
+49,1,182.0,91.0,1.55,Omuz,0.8480131684226638,6,Kas Kazanımı,Full Gym,5,27.47,REHABILITASYON
+51,1,169.0,86.0,1.2,Bel,4.845799114415498,6,Sakatlık Sonrası,Full Gym,5,30.11,YAG_YAKIMI
+53,0,161.0,82.3,1.2,Ayak Bileği,0.0,1,Kilo Verme,Bodyweight,3,31.75,YAG_YAKIMI
+49,0,195.0,82.8,1.9,Ayak Bileği,0.0,2,Güç ve Kondisyon,Full Gym,5,21.78,PPL_SPLIT
+46,0,172.0,54.4,1.9,Omuz,0.0,1,Kas Kazanımı,Dumbbell Only,4,18.39,KILO_ALMA
+29,0,168.0,97.0,1.725,Yok,3.574715612506794,6,Güç ve Kondisyon,Full Gym,4,34.37,KILO_ALMA
+34,1,170.5,51.0,1.725,Ayak Bileği,0.7,7,Kas Kazanımı,Bodyweight,5,17.54,KILO_ALMA
+36,1,173.0,59.0,1.2,Yok,3.507689652516932,3,Kilo Verme,Full Gym,3,19.71,KILO_ALMA
+20,0,199.0,82.7,1.725,Diz,0.0,3,Güç ve Kondisyon,Bodyweight,3,20.88,PPL_SPLIT
+37,0,159.0,103.0,1.55,Bel,0.2843455737753647,5,Sakatlık Sonrası,Full Gym,4,40.74,KILO_ALMA
+29,0,163.9,62.4,1.375,Ayak Bileği,0.5,9,Güç ve Kondisyon,Full Gym,5,23.23,PPL_SPLIT
+40,0,188.0,60.2,1.725,Omuz,0.0,0,Kas Kazanımı,Bodyweight,4,17.03,KILO_ALMA
+57,0,186.0,81.4,1.375,Diz,0.0,3,Güç ve Kondisyon,Bodyweight,3,23.53,PPL_SPLIT
+47,1,176.0,40.0,1.375,Omuz,0.0,14,Kas Kazanımı,Full Gym,5,12.91,KILO_ALMA
+35,0,153.0,72.0,1.9,Bel,3.202385287682943,2,Kas Kazanımı,Bodyweight,3,30.76,PPL_SPLIT
+50,1,175.0,61.6,1.2,Ayak Bileği,0.0,8,Güç ve Kondisyon,Dumbbell Only,3,20.11,PPL_SPLIT
+29,1,180.0,75.6,1.725,Bel,0.0,11,Güç ve Kondisyon,Bodyweight,3,23.33,PPL_SPLIT
+38,0,179.0,60.0,1.2,Diz,2.1950392206646807,7,Kilo Verme,Bodyweight,4,18.73,REHABILITASYON
+27,1,155.0,83.0,1.375,Bel,2.999586279977829,1,Sakatlık Sonrası,Bodyweight,5,34.55,KILO_ALMA
+45,1,155.0,57.2,1.55,Diz,0.0,11,Güç ve Kondisyon,Dumbbell Only,4,23.81,PPL_SPLIT
+43,1,166.0,70.1,1.375,Diz,0.0,1,Güç ve Kondisyon,Dumbbell Only,5,25.44,PPL_SPLIT
+55,1,170.0,59.0,1.9,Diz,4.488545202289872,4,Güç ve Kondisyon,Dumbbell Only,2,20.42,REHABILITASYON
+19,0,159.9,51.4,1.9,Diz,0.2,4,Güç ve Kondisyon,Full Gym,4,20.1,PPL_SPLIT
+31,1,175.7,78.8,1.55,Diz,0.1,2,Güç ve Kondisyon,Full Gym,4,25.53,PPL_SPLIT
+51,1,193.0,67.0,1.2,Yok,0.5887396146426527,7,Kilo Verme,Bodyweight,3,17.99,KILO_ALMA
+21,1,176.7,60.8,1.2,Omuz,4.6,7,Sakatlık Sonrası,Bodyweight,3,19.47,REHABILITASYON
+21,1,175.3,85.2,1.375,Omuz,4.8,2,Sakatlık Sonrası,Bodyweight,3,27.73,REHABILITASYON
+52,0,186.0,47.8,1.375,Diz,0.0,8,Kas Kazanımı,Bodyweight,4,13.82,KILO_ALMA
+37,1,164.0,71.2,1.55,Bel,0.0,0,Güç ve Kondisyon,Bodyweight,5,26.47,PPL_SPLIT
+30,0,200.0,121.6,1.9,Ayak Bileği,0.0,8,Kilo Verme,Dumbbell Only,5,30.4,YAG_YAKIMI
+35,0,159.2,56.0,1.2,Omuz,1.0,9,Güç ve Kondisyon,Bodyweight,3,22.1,PPL_SPLIT
+35,1,174.0,76.0,1.55,Yok,2.0014095083948065,9,Kas Kazanımı,Bodyweight,5,25.1,REHABILITASYON
+52,0,172.0,45.1,1.375,Ayak Bileği,0.0,4,Kas Kazanımı,Bodyweight,3,15.24,KILO_ALMA
+24,0,162.0,105.0,1.375,Yok,1.7578619648617444,2,Kilo Verme,Dumbbell Only,2,40.01,PPL_SPLIT
+59,0,189.0,122.3,1.725,Ayak Bileği,0.0,8,Kilo Verme,Bodyweight,4,34.24,YAG_YAKIMI
+34,0,168.0,68.0,1.55,Omuz,0.0,12,Güç ve Kondisyon,Dumbbell Only,4,24.09,PPL_SPLIT
+28,1,181.0,92.0,1.375,Yok,0.3562204865975649,2,Güç ve Kondisyon,Full Gym,5,28.08,YAG_YAKIMI
+29,1,182.0,99.0,1.2,Yok,4.900903408645792,9,Sakatlık Sonrası,Bodyweight,3,29.89,KILO_ALMA
+50,0,172.0,96.7,1.2,Bel,0.0,6,Kilo Verme,Full Gym,3,32.69,YAG_YAKIMI
+32,0,157.2,63.2,1.725,Omuz,0.3,10,Güç ve Kondisyon,Dumbbell Only,5,25.57,PPL_SPLIT
+23,1,184.2,87.6,1.9,Omuz,0.5,4,Güç ve Kondisyon,Full Gym,4,25.82,PPL_SPLIT
+33,1,171.0,78.0,1.55,Yok,0.0,1,Güç ve Kondisyon,Bodyweight,3,26.67,PPL_SPLIT
+46,0,172.0,55.1,1.2,Omuz,0.0,10,Kas Kazanımı,Full Gym,4,18.62,KILO_ALMA
+20,0,159.4,45.0,1.55,Ayak Bileği,4.8,2,Sakatlık Sonrası,Dumbbell Only,3,17.71,REHABILITASYON
+43,0,169.0,127.7,1.2,Ayak Bileği,0.0,0,Kilo Verme,Dumbbell Only,3,44.71,YAG_YAKIMI
+18,0,170.0,99.0,1.725,Omuz,4.4798003751614885,5,Güç ve Kondisyon,Bodyweight,5,34.26,YAG_YAKIMI
+24,1,182.9,64.5,1.2,Bel,0.8,0,Güç ve Kondisyon,Full Gym,3,19.28,PPL_SPLIT
+25,1,180.5,81.2,1.9,Omuz,0.3,3,Güç ve Kondisyon,Dumbbell Only,4,24.92,PPL_SPLIT
+32,0,166.0,79.0,1.9,Yok,2.503291114783472,4,Sakatlık Sonrası,Full Gym,5,28.67,PPL_SPLIT
+26,0,162.0,77.7,1.55,Ayak Bileği,0.0,9,Kilo Verme,Full Gym,5,29.61,YAG_YAKIMI
+40,0,158.1,61.5,1.9,Yok,0.8,13,Güç ve Kondisyon,Full Gym,3,24.6,PPL_SPLIT
+20,0,158.3,60.9,1.2,Ayak Bileği,0.5,14,Güç ve Kondisyon,Bodyweight,4,24.3,PPL_SPLIT
+21,1,178.8,81.1,1.375,Diz,4.2,11,Sakatlık Sonrası,Bodyweight,5,25.37,REHABILITASYON
+50,0,177.0,80.5,1.55,Yok,0.0,11,Güç ve Kondisyon,Bodyweight,5,25.7,PPL_SPLIT
+34,0,160.9,46.6,1.2,Diz,0.6,9,Kas Kazanımı,Full Gym,5,18.0,KILO_ALMA
+26,0,157.8,66.3,1.725,Diz,0.7,6,Güç ve Kondisyon,Dumbbell Only,3,26.63,PPL_SPLIT
+49,0,183.0,81.4,1.375,Ayak Bileği,0.0,4,Güç ve Kondisyon,Full Gym,5,24.31,PPL_SPLIT
+48,1,158.0,62.9,1.55,Ayak Bileği,0.0,13,Güç ve Kondisyon,Dumbbell Only,3,25.2,PPL_SPLIT
+31,0,169.0,86.9,1.55,Yok,0.0,11,Kilo Verme,Dumbbell Only,3,30.43,YAG_YAKIMI
+47,0,162.0,61.0,1.725,Omuz,1.0144230685870048,5,Kilo Verme,Full Gym,4,23.24,PPL_SPLIT
+47,1,160.0,88.0,1.725,Bel,3.3026410009150178,4,Kilo Verme,Bodyweight,4,34.37,PPL_SPLIT
+38,0,171.0,64.0,1.375,Omuz,2.2422136302611824,7,Kilo Verme,Full Gym,5,21.89,PPL_SPLIT
+34,1,175.9,61.9,1.375,Diz,0.2,11,Güç ve Kondisyon,Bodyweight,3,20.01,PPL_SPLIT
+50,1,172.0,69.7,1.375,Bel,0.0,14,Güç ve Kondisyon,Bodyweight,5,23.56,PPL_SPLIT
+32,1,181.9,58.4,1.55,Omuz,0.9,8,Kas Kazanımı,Dumbbell Only,4,17.65,KILO_ALMA
+39,1,160.0,114.0,1.725,Diz,1.821191355374156,13,Güç ve Kondisyon,Full Gym,3,44.53,REHABILITASYON
+40,0,166.7,68.0,1.2,Bel,0.1,8,Güç ve Kondisyon,Bodyweight,4,24.47,PPL_SPLIT
+37,1,183.0,61.0,1.2,Yok,4.378088942258508,3,Güç ve Kondisyon,Full Gym,5,18.21,KILO_ALMA
+20,0,190.0,101.0,1.375,Bel,3.645824281657885,8,Sakatlık Sonrası,Full Gym,5,27.98,PPL_SPLIT
+38,1,151.0,49.7,1.55,Diz,0.0,8,Güç ve Kondisyon,Bodyweight,5,21.8,PPL_SPLIT
+31,1,173.0,58.2,1.2,Omuz,0.0,2,Güç ve Kondisyon,Full Gym,4,19.45,PPL_SPLIT
+22,0,190.0,86.2,1.725,Yok,0.0,12,Güç ve Kondisyon,Bodyweight,5,23.88,PPL_SPLIT
+57,0,171.0,94.0,1.725,Diz,4.590414965455785,7,Güç ve Kondisyon,Full Gym,3,32.15,YAG_YAKIMI
+45,0,188.0,52.5,1.55,Ayak Bileği,0.0,12,Kas Kazanımı,Full Gym,3,14.85,KILO_ALMA
+51,1,181.0,116.0,1.55,Yok,4.08594661033907,3,Kilo Verme,Dumbbell Only,4,35.41,REHABILITASYON
+18,1,174.0,52.3,1.375,Ayak Bileği,0.0,5,Kas Kazanımı,Dumbbell Only,4,17.27,KILO_ALMA
+23,1,189.0,58.0,1.55,Yok,0.0398967497300073,6,Güç ve Kondisyon,Full Gym,5,16.24,REHABILITASYON
+22,1,172.0,44.8,1.9,Yok,0.0,14,Kas Kazanımı,Dumbbell Only,5,15.14,KILO_ALMA
+31,0,177.0,79.0,1.375,Yok,1.568592185095694,6,Sakatlık Sonrası,Bodyweight,3,25.22,YAG_YAKIMI
+63,1,151.0,95.0,1.55,Omuz,1.1570369783903285,13,Güç ve Kondisyon,Full Gym,4,41.66,REHABILITASYON
+56,1,193.0,100.0,1.375,Bel,4.389377717751295,8,Güç ve Kondisyon,Bodyweight,5,26.85,REHABILITASYON
+39,0,162.6,46.4,1.2,Diz,0.0,13,Kas Kazanımı,Dumbbell Only,5,17.55,KILO_ALMA
+30,1,177.0,69.7,1.375,Diz,0.4,7,Güç ve Kondisyon,Full Gym,4,22.25,PPL_SPLIT
+26,1,160.0,44.3,1.725,Bel,0.0,8,Kas Kazanımı,Dumbbell Only,4,17.3,KILO_ALMA
+18,1,161.0,58.1,1.725,Yok,0.0,9,Güç ve Kondisyon,Bodyweight,5,22.41,PPL_SPLIT
+19,1,159.0,60.5,1.725,Bel,0.0,3,Güç ve Kondisyon,Full Gym,4,23.93,PPL_SPLIT
+28,0,166.0,52.1,1.2,Omuz,4.6,7,Sakatlık Sonrası,Dumbbell Only,3,18.91,REHABILITASYON
+49,0,186.0,82.1,1.55,Diz,0.0,10,Güç ve Kondisyon,Dumbbell Only,4,23.73,PPL_SPLIT
+55,1,181.0,63.0,1.9,Yok,0.1069062313462954,4,Sakatlık Sonrası,Full Gym,4,19.23,KILO_ALMA
+21,0,157.1,54.6,1.9,Ayak Bileği,4.2,2,Sakatlık Sonrası,Full Gym,5,22.12,REHABILITASYON
+34,1,171.4,70.7,1.55,Omuz,0.9,10,Güç ve Kondisyon,Dumbbell Only,3,24.07,PPL_SPLIT
+29,1,181.2,76.1,1.725,Ayak Bileği,0.1,6,Güç ve Kondisyon,Full Gym,3,23.18,PPL_SPLIT
+35,0,166.6,50.1,1.9,Yok,4.1,4,Sakatlık Sonrası,Bodyweight,3,18.05,REHABILITASYON
+38,0,179.0,46.1,1.2,Bel,0.0,8,Kas Kazanımı,Dumbbell Only,3,14.39,KILO_ALMA
+41,1,157.0,64.9,1.9,Bel,0.0,11,Güç ve Kondisyon,Dumbbell Only,3,26.33,PPL_SPLIT
+40,0,165.3,61.4,1.2,Ayak Bileği,0.4,8,Güç ve Kondisyon,Full Gym,3,22.47,PPL_SPLIT
+34,1,154.0,103.0,1.725,Bel,4.525989608355342,14,Güç ve Kondisyon,Bodyweight,5,43.43,KILO_ALMA
+22,1,152.0,78.7,1.9,Yok,0.0,3,Kilo Verme,Dumbbell Only,5,34.06,YAG_YAKIMI
+50,0,170.0,90.0,1.375,Bel,0.0,5,Kilo Verme,Bodyweight,3,31.14,YAG_YAKIMI
+26,1,176.3,70.9,1.725,Diz,0.9,5,Güç ve Kondisyon,Dumbbell Only,5,22.81,PPL_SPLIT
+35,1,169.3,80.0,1.55,Omuz,4.4,1,Sakatlık Sonrası,Full Gym,4,27.91,REHABILITASYON
+43,0,185.0,87.0,1.2,Yok,2.62318999666586,1,Güç ve Kondisyon,Bodyweight,3,25.42,REHABILITASYON
+24,0,191.0,64.0,1.2,Yok,2.9710343258821235,2,Kas Kazanımı,Bodyweight,4,17.54,REHABILITASYON
+45,0,195.0,79.2,1.375,Bel,0.0,10,Güç ve Kondisyon,Bodyweight,3,20.83,PPL_SPLIT
+31,1,175.6,82.1,1.55,Diz,0.6,11,Güç ve Kondisyon,Bodyweight,4,26.63,PPL_SPLIT
+30,1,192.0,80.0,1.55,Omuz,4.818082567601373,9,Kas Kazanımı,Full Gym,4,21.7,PPL_SPLIT
+34,1,172.0,65.2,1.725,Diz,4.5,2,Sakatlık Sonrası,Full Gym,3,22.04,REHABILITASYON
+31,0,171.0,78.8,1.725,Bel,0.0,7,Güç ve Kondisyon,Full Gym,5,26.95,PPL_SPLIT
+18,0,192.0,98.0,1.2,Bel,3.587969824125199,4,Sakatlık Sonrası,Full Gym,5,26.58,YAG_YAKIMI
+46,0,177.0,45.0,1.55,Diz,0.0,7,Kas Kazanımı,Full Gym,5,14.36,KILO_ALMA
+27,1,152.0,63.7,1.725,Yok,0.0,2,Güç ve Kondisyon,Dumbbell Only,3,27.57,PPL_SPLIT
+32,0,162.0,49.3,1.55,Ayak Bileği,0.0,9,Kas Kazanımı,Full Gym,3,18.79,KILO_ALMA
+34,0,186.0,110.5,1.725,Diz,0.0,14,Kilo Verme,Full Gym,3,31.94,YAG_YAKIMI
+43,0,183.0,113.2,1.9,Bel,0.0,11,Kilo Verme,Full Gym,4,33.8,YAG_YAKIMI
+24,1,188.5,45.0,1.55,Omuz,0.7,4,Kas Kazanımı,Bodyweight,5,12.66,KILO_ALMA
+35,0,165.0,109.0,1.725,Yok,0.3826597346165328,2,Kas Kazanımı,Dumbbell Only,3,40.04,REHABILITASYON
+25,0,169.7,45.0,1.9,Yok,0.9,7,Kas Kazanımı,Dumbbell Only,4,15.63,KILO_ALMA
+39,1,160.0,56.0,1.2,Yok,0.0,9,Güç ve Kondisyon,Dumbbell Only,3,21.87,PPL_SPLIT
+26,1,151.0,59.3,1.55,Ayak Bileği,0.0,4,Güç ve Kondisyon,Dumbbell Only,3,26.01,PPL_SPLIT
+31,1,160.0,42.3,1.725,Yok,0.0,6,Kas Kazanımı,Full Gym,4,16.52,KILO_ALMA
+32,1,189.3,74.5,1.375,Bel,4.7,12,Sakatlık Sonrası,Bodyweight,5,20.79,REHABILITASYON
+27,1,181.1,86.2,1.375,Bel,0.0,7,Güç ve Kondisyon,Full Gym,4,26.28,PPL_SPLIT
+40,0,198.0,58.2,1.55,Bel,0.0,9,Kas Kazanımı,Full Gym,4,14.85,KILO_ALMA
+55,0,177.0,86.4,1.2,Bel,0.0,12,Güç ve Kondisyon,Full Gym,4,27.58,PPL_SPLIT
+26,0,176.0,90.0,1.2,Diz,0.4682993645915467,8,Kilo Verme,Full Gym,5,29.05,PPL_SPLIT
+33,0,164.8,50.7,1.725,Diz,0.2,11,Kas Kazanımı,Full Gym,4,18.67,KILO_ALMA
+28,0,166.0,52.1,1.375,Ayak Bileği,4.3,8,Sakatlık Sonrası,Dumbbell Only,4,18.91,REHABILITASYON
+23,0,154.0,50.3,1.55,Omuz,0.4,12,Güç ve Kondisyon,Dumbbell Only,3,21.21,PPL_SPLIT
+28,1,190.0,65.0,1.55,Diz,2.076029125817766,5,Güç ve Kondisyon,Full Gym,5,18.01,REHABILITASYON
+27,0,181.0,65.0,1.375,Bel,3.872409456766941,7,Kas Kazanımı,Full Gym,4,19.84,REHABILITASYON
+48,1,164.0,71.5,1.375,Ayak Bileği,0.0,8,Güç ve Kondisyon,Dumbbell Only,3,26.58,PPL_SPLIT
+43,0,186.0,101.0,1.55,Bel,0.6073030058703083,1,Kas Kazanımı,Full Gym,4,29.19,YAG_YAKIMI
+39,0,193.0,58.3,1.55,Diz,0.0,5,Kas Kazanımı,Dumbbell Only,5,15.65,KILO_ALMA
+41,0,178.0,47.1,1.375,Bel,0.0,7,Kas Kazanımı,Dumbbell Only,4,14.87,KILO_ALMA
+39,1,161.0,50.3,1.725,Diz,0.0,1,Güç ve Kondisyon,Bodyweight,3,19.41,PPL_SPLIT
+38,1,179.0,65.0,1.9,Bel,3.743109519248236,0,Güç ve Kondisyon,Full Gym,4,20.29,REHABILITASYON
+24,1,190.0,69.0,1.55,Bel,0.5,2,Güç ve Kondisyon,Bodyweight,4,19.11,PPL_SPLIT
+52,1,192.0,67.0,1.9,Omuz,1.9841616784086156,13,Sakatlık Sonrası,Bodyweight,5,18.17,KILO_ALMA
+25,1,182.4,67.1,1.55,Omuz,4.7,8,Sakatlık Sonrası,Bodyweight,3,20.17,REHABILITASYON
+22,1,169.6,83.0,1.375,Yok,0.9,5,Kilo Verme,Full Gym,5,28.86,YAG_YAKIMI
+36,0,165.6,56.3,1.2,Omuz,0.6,8,Güç ve Kondisyon,Dumbbell Only,4,20.53,PPL_SPLIT
+30,1,182.9,49.5,1.375,Ayak Bileği,4.9,5,Sakatlık Sonrası,Full Gym,3,14.8,REHABILITASYON
+33,1,182.7,64.2,1.725,Diz,0.7,10,Güç ve Kondisyon,Dumbbell Only,3,19.23,PPL_SPLIT
+48,1,159.0,73.0,1.725,Diz,0.0,0,Kilo Verme,Bodyweight,5,28.88,YAG_YAKIMI
+19,0,165.4,58.8,1.725,Omuz,0.2,5,Güç ve Kondisyon,Bodyweight,5,21.49,PPL_SPLIT
+30,0,196.0,120.3,1.9,Diz,0.0,13,Kilo Verme,Bodyweight,3,31.32,YAG_YAKIMI
+27,0,180.0,61.6,1.725,Omuz,0.0,5,Güç ve Kondisyon,Full Gym,4,19.01,PPL_SPLIT
+25,1,171.0,57.0,1.9,Yok,2.5635141676815425,6,Sakatlık Sonrası,Full Gym,3,19.49,YAG_YAKIMI
+40,0,187.0,87.9,1.375,Omuz,0.0,13,Güç ve Kondisyon,Bodyweight,5,25.14,PPL_SPLIT
+42,1,172.0,53.7,1.375,Yok,0.0,9,Kas Kazanımı,Dumbbell Only,4,18.15,KILO_ALMA
+43,1,186.0,81.0,1.55,Diz,0.5360677632877092,13,Güç ve Kondisyon,Full Gym,3,23.41,REHABILITASYON
+34,0,189.0,107.0,1.55,Omuz,3.4686756547845023,2,Kas Kazanımı,Full Gym,3,29.95,YAG_YAKIMI
+29,0,172.9,47.2,1.2,Diz,0.9,12,Kas Kazanımı,Full Gym,3,15.79,KILO_ALMA
+37,0,182.0,75.1,1.2,Diz,0.0,6,Güç ve Kondisyon,Full Gym,3,22.67,PPL_SPLIT
+52,0,174.0,85.6,1.375,Yok,0.0,8,Güç ve Kondisyon,Dumbbell Only,4,28.27,PPL_SPLIT
+48,0,170.0,94.5,1.725,Yok,0.0,7,Kilo Verme,Full Gym,5,32.7,YAG_YAKIMI
+30,1,156.0,70.4,1.725,Diz,0.0,9,Kilo Verme,Dumbbell Only,3,28.93,YAG_YAKIMI
+22,1,168.9,66.1,1.725,Yok,0.1,7,Güç ve Kondisyon,Bodyweight,3,23.17,PPL_SPLIT
+29,0,193.0,90.0,1.55,Omuz,1.415523300869272,1,Sakatlık Sonrası,Full Gym,3,24.16,KILO_ALMA
+25,0,154.9,50.9,1.55,Ayak Bileği,4.2,8,Sakatlık Sonrası,Bodyweight,5,21.21,REHABILITASYON
+55,0,155.0,93.0,1.2,Diz,3.2137668960947945,9,Güç ve Kondisyon,Bodyweight,5,38.71,KILO_ALMA
+29,1,171.1,63.0,1.55,Omuz,4.7,4,Sakatlık Sonrası,Full Gym,4,21.52,REHABILITASYON
+33,1,175.3,89.8,1.725,Ayak Bileği,0.8,3,Kilo Verme,Full Gym,3,29.22,YAG_YAKIMI
+24,1,176.0,58.9,1.2,Ayak Bileği,0.0,8,Güç ve Kondisyon,Full Gym,3,19.01,PPL_SPLIT
+49,1,165.0,40.0,1.2,Bel,0.0,10,Kas Kazanımı,Dumbbell Only,5,14.69,KILO_ALMA
+53,1,176.0,68.0,1.9,Diz,2.7742336224668303,2,Sakatlık Sonrası,Full Gym,5,21.95,YAG_YAKIMI
+40,0,179.0,108.0,1.375,Yok,1.1534710958234262,9,Kilo Verme,Bodyweight,5,33.71,KILO_ALMA
+25,0,183.0,67.0,1.9,Omuz,0.9831520769273988,8,Kilo Verme,Bodyweight,5,20.01,REHABILITASYON
+32,0,196.0,97.3,1.55,Omuz,0.0,0,Güç ve Kondisyon,Dumbbell Only,4,25.33,PPL_SPLIT
+54,0,166.0,78.7,1.375,Yok,0.0,1,Kilo Verme,Bodyweight,4,28.56,YAG_YAKIMI
+39,1,180.3,64.5,1.55,Yok,0.3,7,Güç ve Kondisyon,Dumbbell Only,5,19.84,PPL_SPLIT
+29,0,187.0,99.0,1.2,Diz,1.2285800885736475,0,Kas Kazanımı,Bodyweight,3,28.31,REHABILITASYON
+37,1,161.0,107.0,1.55,Bel,4.611304148189605,3,Kilo Verme,Full Gym,4,41.28,KILO_ALMA
+33,1,168.0,78.0,1.9,Yok,0.0,9,Güç ve Kondisyon,Dumbbell Only,5,27.64,PPL_SPLIT
+32,0,159.0,51.2,1.55,Yok,0.8,10,Güç ve Kondisyon,Full Gym,4,20.25,PPL_SPLIT
+32,1,191.0,109.0,1.2,Diz,2.5696264648863365,5,Güç ve Kondisyon,Bodyweight,5,29.88,YAG_YAKIMI
+44,1,165.0,60.4,1.55,Omuz,0.0,9,Güç ve Kondisyon,Dumbbell Only,5,22.19,PPL_SPLIT
+21,0,168.0,92.0,1.725,Bel,0.0130202379417065,6,Kas Kazanımı,Bodyweight,3,32.6,REHABILITASYON
+26,1,173.4,68.2,1.2,Omuz,4.5,3,Sakatlık Sonrası,Dumbbell Only,3,22.68,REHABILITASYON
+34,0,184.0,55.0,1.375,Bel,0.2782859405255383,5,Sakatlık Sonrası,Full Gym,4,16.25,PPL_SPLIT
+34,0,164.0,71.9,1.9,Yok,0.0,1,Güç ve Kondisyon,Full Gym,3,26.73,PPL_SPLIT
+23,0,162.9,45.0,1.55,Ayak Bileği,0.3,5,Kas Kazanımı,Bodyweight,5,16.96,KILO_ALMA
+58,1,170.0,56.5,1.9,Ayak Bileği,0.0,3,Güç ve Kondisyon,Full Gym,4,19.55,PPL_SPLIT
+35,0,179.0,70.1,1.725,Omuz,0.0,1,Güç ve Kondisyon,Bodyweight,3,21.88,PPL_SPLIT
+37,0,165.3,56.2,1.55,Diz,0.3,2,Güç ve Kondisyon,Bodyweight,3,20.57,PPL_SPLIT
+30,1,152.0,61.6,1.725,Diz,0.0,1,Güç ve Kondisyon,Full Gym,3,26.66,PPL_SPLIT
+32,0,157.0,73.0,1.55,Diz,1.4092637872418556,7,Kilo Verme,Full Gym,3,29.62,REHABILITASYON
+30,1,172.4,79.0,1.55,Diz,0.7,1,Güç ve Kondisyon,Bodyweight,3,26.58,PPL_SPLIT
+41,1,192.0,79.0,1.55,Bel,0.9171487589767264,8,Kas Kazanımı,Bodyweight,4,21.43,PPL_SPLIT
+29,0,198.0,80.8,1.375,Bel,0.0,2,Güç ve Kondisyon,Full Gym,3,20.61,PPL_SPLIT
+42,1,152.0,98.0,1.725,Ayak Bileği,4.71795123049979,6,Kas Kazanımı,Bodyweight,4,42.42,REHABILITASYON
+58,1,169.0,74.8,1.9,Diz,0.0,10,Güç ve Kondisyon,Full Gym,4,26.19,PPL_SPLIT
+28,0,160.0,95.0,1.725,Diz,0.2772501070064948,4,Sakatlık Sonrası,Bodyweight,3,37.11,PPL_SPLIT
+38,1,177.0,105.0,1.725,Omuz,3.868101581531733,2,Sakatlık Sonrası,Bodyweight,5,33.52,YAG_YAKIMI
+35,0,173.0,63.0,1.9,Omuz,4.3248013405896994,8,Kas Kazanımı,Bodyweight,3,21.05,PPL_SPLIT
+49,0,191.0,115.3,1.9,Yok,0.0,9,Kilo Verme,Dumbbell Only,5,31.61,YAG_YAKIMI
+53,1,179.0,44.7,1.9,Bel,0.0,9,Kas Kazanımı,Bodyweight,4,13.95,KILO_ALMA
+29,1,186.0,80.0,1.725,Yok,1.0717149140738251,7,Kilo Verme,Bodyweight,5,23.12,REHABILITASYON
+21,1,191.0,60.0,1.55,Diz,1.6297639325369315,5,Güç ve Kondisyon,Full Gym,4,16.45,YAG_YAKIMI
+31,1,189.0,100.0,1.375,Ayak Bileği,1.326012089097065,12,Güç ve Kondisyon,Bodyweight,3,27.99,KILO_ALMA
+27,0,161.5,55.0,1.725,Yok,0.1,0,Güç ve Kondisyon,Dumbbell Only,4,21.09,PPL_SPLIT
+36,0,156.1,51.8,1.2,Omuz,0.9,0,Güç ve Kondisyon,Full Gym,3,21.26,PPL_SPLIT
+35,1,159.0,64.2,1.725,Omuz,0.0,12,Güç ve Kondisyon,Bodyweight,3,25.39,PPL_SPLIT
+32,0,163.9,45.0,1.725,Diz,0.8,2,Kas Kazanımı,Dumbbell Only,3,16.75,KILO_ALMA
+18,1,175.0,57.2,1.9,Bel,0.0,6,Kas Kazanımı,Bodyweight,5,18.68,KILO_ALMA
+29,1,169.9,68.0,1.725,Bel,0.1,5,Güç ve Kondisyon,Bodyweight,5,23.56,PPL_SPLIT
+29,0,155.1,47.8,1.725,Ayak Bileği,0.3,11,Güç ve Kondisyon,Bodyweight,3,19.87,PPL_SPLIT
+28,1,181.0,77.0,1.55,Diz,0.30437775364130615,11,Güç ve Kondisyon,Bodyweight,3,23.5,KILO_ALMA
+19,1,153.0,64.0,1.9,Omuz,0.0,0,Güç ve Kondisyon,Dumbbell Only,3,27.34,PPL_SPLIT
+42,0,169.0,107.0,1.2,Omuz,0.9957792742680964,1,Kilo Verme,Full Gym,5,37.46,PPL_SPLIT
+42,1,174.0,42.7,1.375,Omuz,0.0,10,Kas Kazanımı,Full Gym,5,14.1,KILO_ALMA
+64,0,155.0,88.0,1.55,Omuz,3.0930819384300614,8,Sakatlık Sonrası,Full Gym,5,36.63,KILO_ALMA
+30,0,163.7,56.9,1.375,Bel,4.7,2,Sakatlık Sonrası,Dumbbell Only,4,21.23,REHABILITASYON
+49,0,187.0,61.0,1.9,Bel,0.0,8,Kas Kazanımı,Bodyweight,4,17.44,KILO_ALMA
+31,1,165.8,78.4,1.55,Bel,0.3,4,Kilo Verme,Bodyweight,3,28.52,YAG_YAKIMI
+33,0,192.0,61.0,1.2,Yok,1.7781816490621505,8,Sakatlık Sonrası,Full Gym,5,16.55,YAG_YAKIMI
+42,0,177.0,86.3,1.375,Bel,0.0,11,Güç ve Kondisyon,Bodyweight,4,27.55,PPL_SPLIT
+56,0,166.0,93.6,1.55,Omuz,0.0,8,Kilo Verme,Dumbbell Only,4,33.97,YAG_YAKIMI
+32,0,164.0,85.3,1.9,Diz,0.0,10,Kilo Verme,Full Gym,5,31.71,YAG_YAKIMI
+39,0,166.9,64.0,1.725,Bel,0.1,13,Güç ve Kondisyon,Dumbbell Only,4,22.98,PPL_SPLIT
+46,0,164.0,108.8,1.55,Yok,0.0,12,Kilo Verme,Bodyweight,3,40.45,YAG_YAKIMI
+43,0,193.0,62.0,1.55,Omuz,3.1999090670258052,13,Güç ve Kondisyon,Bodyweight,5,16.64,YAG_YAKIMI
+37,1,170.0,98.0,1.725,Yok,4.757263888288535,5,Sakatlık Sonrası,Full Gym,4,33.91,KILO_ALMA
+24,0,155.1,58.1,1.375,Diz,0.7,14,Güç ve Kondisyon,Dumbbell Only,5,24.15,PPL_SPLIT
+39,1,177.9,82.1,1.725,Yok,4.9,2,Sakatlık Sonrası,Full Gym,5,25.94,REHABILITASYON
+37,0,188.0,60.0,1.55,Diz,3.633004548510357,6,Kas Kazanımı,Full Gym,3,16.98,REHABILITASYON
+31,1,162.0,62.5,1.55,Diz,0.0,9,Güç ve Kondisyon,Bodyweight,3,23.81,PPL_SPLIT
+23,0,160.0,114.8,1.9,Ayak Bileği,0.0,14,Kilo Verme,Dumbbell Only,4,44.84,YAG_YAKIMI
+27,0,158.7,61.1,1.55,Ayak Bileği,0.7,7,Güç ve Kondisyon,Bodyweight,4,24.26,PPL_SPLIT
+18,0,174.0,92.4,1.725,Ayak Bileği,0.0,10,Kilo Verme,Dumbbell Only,3,30.52,YAG_YAKIMI
+59,0,176.0,88.1,1.9,Omuz,0.0,3,Güç ve Kondisyon,Dumbbell Only,5,28.44,PPL_SPLIT
+26,0,169.0,85.0,1.375,Diz,3.4108147621793794,1,Sakatlık Sonrası,Full Gym,3,29.76,PPL_SPLIT
+53,0,163.0,61.0,1.2,Omuz,0.0,7,Güç ve Kondisyon,Full Gym,4,22.96,PPL_SPLIT
+37,0,159.9,46.0,1.55,Yok,0.4,4,Kas Kazanımı,Bodyweight,5,17.99,KILO_ALMA
+36,1,179.0,78.0,1.2,Diz,2.78837636897594,2,Kas Kazanımı,Bodyweight,5,24.34,PPL_SPLIT
+34,1,178.0,64.5,1.375,Omuz,0.0,1,Güç ve Kondisyon,Full Gym,3,20.36,PPL_SPLIT
+28,1,174.9,59.5,1.9,Bel,0.4,6,Güç ve Kondisyon,Bodyweight,5,19.45,PPL_SPLIT
+35,1,185.0,77.0,1.9,Diz,2.218496255527599,1,Güç ve Kondisyon,Bodyweight,5,22.5,YAG_YAKIMI
+48,0,163.0,60.0,1.9,Omuz,1.78402773832449,7,Kas Kazanımı,Bodyweight,5,22.58,REHABILITASYON
+25,1,174.6,54.2,1.9,Ayak Bileği,0.2,5,Kas Kazanımı,Full Gym,5,17.78,KILO_ALMA
+25,0,161.0,66.6,1.2,Diz,0.0,9,Güç ve Kondisyon,Full Gym,4,25.69,PPL_SPLIT
+52,1,168.0,60.3,1.55,Yok,0.0,10,Güç ve Kondisyon,Bodyweight,3,21.36,PPL_SPLIT
+48,0,186.0,114.9,1.725,Diz,0.0,6,Kilo Verme,Bodyweight,3,33.21,YAG_YAKIMI
+21,0,190.0,80.9,1.55,Ayak Bileği,0.0,5,Güç ve Kondisyon,Bodyweight,4,22.41,PPL_SPLIT
+49,0,184.0,82.3,1.55,Diz,0.0,0,Güç ve Kondisyon,Full Gym,3,24.31,PPL_SPLIT
+29,0,170.0,68.0,1.55,Yok,0.0,3,Güç ve Kondisyon,Full Gym,3,23.53,PPL_SPLIT
+57,1,152.0,61.9,1.2,Ayak Bileği,0.0,8,Güç ve Kondisyon,Dumbbell Only,5,26.79,PPL_SPLIT
+55,0,162.0,102.0,1.55,Omuz,2.991746763526939,4,Kas Kazanımı,Bodyweight,3,38.87,YAG_YAKIMI
+52,0,198.0,109.0,1.375,Diz,3.8879560213154383,1,Kilo Verme,Bodyweight,2,27.8,REHABILITASYON
+21,1,189.0,60.0,1.9,Diz,3.642368575936371,9,Kilo Verme,Full Gym,5,16.8,REHABILITASYON
+22,1,176.0,48.7,1.9,Omuz,0.0,13,Kas Kazanımı,Bodyweight,3,15.72,KILO_ALMA
+29,0,167.0,83.0,1.55,Omuz,1.959046257854804,4,Kas Kazanımı,Bodyweight,3,29.76,YAG_YAKIMI
+35,0,165.2,53.1,1.2,Ayak Bileği,0.4,14,Güç ve Kondisyon,Full Gym,5,19.46,PPL_SPLIT
+21,0,162.2,45.0,1.375,Bel,0.6,1,Kas Kazanımı,Bodyweight,4,17.1,KILO_ALMA
+47,0,184.0,89.1,1.55,Ayak Bileği,0.0,8,Güç ve Kondisyon,Dumbbell Only,5,26.32,PPL_SPLIT
+25,0,164.9,58.5,1.375,Omuz,0.8,5,Güç ve Kondisyon,Full Gym,4,21.51,PPL_SPLIT
+56,0,186.0,58.7,1.55,Omuz,0.0,5,Kas Kazanımı,Full Gym,5,16.97,KILO_ALMA
+32,1,163.0,62.6,1.55,Ayak Bileği,0.0,6,Güç ve Kondisyon,Full Gym,4,23.56,PPL_SPLIT
+40,0,156.7,58.2,1.375,Ayak Bileği,4.8,11,Sakatlık Sonrası,Full Gym,3,23.7,REHABILITASYON
+41,0,167.0,120.8,1.375,Omuz,0.0,5,Kilo Verme,Full Gym,4,43.31,YAG_YAKIMI
+18,1,155.0,65.3,1.55,Omuz,0.0,13,Güç ve Kondisyon,Dumbbell Only,5,27.18,PPL_SPLIT
+28,1,169.4,87.1,1.375,Yok,0.5,3,Kilo Verme,Full Gym,3,30.35,YAG_YAKIMI
+23,0,164.6,63.8,1.375,Yok,0.4,0,Güç ve Kondisyon,Bodyweight,4,23.55,PPL_SPLIT
+34,0,163.0,124.6,1.55,Yok,0.0,13,Kilo Verme,Full Gym,3,46.9,YAG_YAKIMI
+33,1,180.2,82.4,1.375,Bel,4.4,8,Sakatlık Sonrası,Dumbbell Only,3,25.38,REHABILITASYON
+32,1,156.0,99.0,1.55,Omuz,1.866424745659598,5,Kilo Verme,Bodyweight,3,40.68,KILO_ALMA
+43,0,188.0,73.2,1.725,Yok,0.0,3,Güç ve Kondisyon,Full Gym,4,20.71,PPL_SPLIT
+29,1,164.6,70.3,1.375,Yok,0.6,0,Güç ve Kondisyon,Full Gym,3,25.95,PPL_SPLIT
+29,0,170.7,51.0,1.725,Ayak Bileği,0.9,0,Kas Kazanımı,Full Gym,4,17.5,KILO_ALMA
+58,0,174.0,85.0,1.55,Bel,1.3332771687031295,0,Sakatlık Sonrası,Full Gym,5,28.08,KILO_ALMA
+28,1,159.0,79.6,1.9,Yok,0.0,9,Kilo Verme,Dumbbell Only,3,31.49,YAG_YAKIMI
+31,1,183.0,56.0,1.9,Yok,0.9690602890239276,0,Sakatlık Sonrası,Full Gym,3,16.72,PPL_SPLIT
+50,1,168.0,69.3,1.2,Ayak Bileği,0.0,10,Güç ve Kondisyon,Dumbbell Only,4,24.55,PPL_SPLIT
+20,1,177.0,81.0,1.2,Bel,2.271290407900961,3,Kilo Verme,Bodyweight,4,25.85,KILO_ALMA
+28,1,167.0,84.8,1.55,Diz,4.2,5,Sakatlık Sonrası,Dumbbell Only,3,30.41,REHABILITASYON
+21,0,172.0,46.8,1.55,Ayak Bileği,4.9,12,Sakatlık Sonrası,Bodyweight,5,15.82,REHABILITASYON
+52,0,183.0,66.0,1.725,Bel,1.675051936324139,3,Kas Kazanımı,Bodyweight,5,19.71,REHABILITASYON
+51,1,151.0,78.1,1.9,Bel,0.0,7,Kilo Verme,Dumbbell Only,3,34.25,YAG_YAKIMI
+30,0,166.6,58.8,1.725,Ayak Bileği,0.1,12,Güç ve Kondisyon,Full Gym,5,21.18,PPL_SPLIT
+19,1,157.0,59.1,1.725,Yok,0.0,4,Güç ve Kondisyon,Bodyweight,5,23.98,PPL_SPLIT
+38,0,183.0,80.0,1.725,Ayak Bileği,0.9503617101426542,0,Güç ve Kondisyon,Bodyweight,5,23.89,KILO_ALMA
+20,0,180.0,83.0,1.55,Diz,0.0,11,Güç ve Kondisyon,Dumbbell Only,5,25.62,PPL_SPLIT
+50,1,166.0,118.0,1.375,Diz,3.804694018738336,3,Güç ve Kondisyon,Bodyweight,4,42.82,KILO_ALMA
+44,1,179.0,77.7,1.55,Omuz,0.0,6,Güç ve Kondisyon,Full Gym,4,24.25,PPL_SPLIT
+51,1,160.0,64.9,1.375,Bel,0.0,8,Güç ve Kondisyon,Bodyweight,5,25.35,PPL_SPLIT
+52,0,163.0,74.0,1.55,Bel,0.0,12,Güç ve Kondisyon,Dumbbell Only,5,27.85,PPL_SPLIT
+39,0,161.4,50.7,1.55,Yok,1.0,11,Güç ve Kondisyon,Dumbbell Only,4,19.46,PPL_SPLIT
+46,0,191.0,80.0,1.2,Bel,4.235543769362213,3,Kilo Verme,Full Gym,5,21.93,KILO_ALMA
+35,1,178.2,72.0,1.725,Yok,0.9,9,Güç ve Kondisyon,Dumbbell Only,4,22.67,PPL_SPLIT
+50,1,170.0,93.0,1.375,Ayak Bileği,4.534325409814945,3,Güç ve Kondisyon,Bodyweight,5,32.18,REHABILITASYON
+21,1,172.7,66.4,1.9,Ayak Bileği,0.3,13,Güç ve Kondisyon,Dumbbell Only,5,22.26,PPL_SPLIT
+37,1,180.0,76.3,1.9,Yok,0.6,4,Güç ve Kondisyon,Bodyweight,4,23.55,PPL_SPLIT
+19,1,180.0,91.0,1.375,Yok,1.388697164115278,3,Kas Kazanımı,Bodyweight,4,28.09,PPL_SPLIT
+27,0,164.2,64.4,1.55,Yok,0.6,9,Güç ve Kondisyon,Dumbbell Only,3,23.89,PPL_SPLIT
+18,1,179.0,60.9,1.375,Ayak Bileği,0.0,4,Güç ve Kondisyon,Full Gym,4,19.01,PPL_SPLIT
+36,1,177.0,57.7,1.9,Bel,0.0,12,Kas Kazanımı,Bodyweight,3,18.42,KILO_ALMA
+36,0,165.0,69.2,1.725,Yok,0.0,4,Güç ve Kondisyon,Dumbbell Only,5,25.42,PPL_SPLIT
+19,1,160.0,69.2,1.2,Ayak Bileği,0.0,10,Güç ve Kondisyon,Dumbbell Only,4,27.03,PPL_SPLIT
+27,0,159.3,48.3,1.725,Yok,0.3,3,Güç ve Kondisyon,Bodyweight,4,19.03,PPL_SPLIT
+42,0,193.0,88.4,1.55,Diz,0.0,9,Güç ve Kondisyon,Dumbbell Only,4,23.73,PPL_SPLIT
+54,0,164.0,88.0,1.55,Bel,2.181657197580644,7,Sakatlık Sonrası,Bodyweight,5,32.72,KILO_ALMA
+31,0,162.0,49.3,1.725,Bel,0.0,9,Kas Kazanımı,Full Gym,3,18.79,KILO_ALMA
+36,0,157.0,48.6,1.55,Omuz,0.3,2,Güç ve Kondisyon,Bodyweight,4,19.72,PPL_SPLIT
+21,1,181.0,55.0,1.55,Omuz,2.271999659760731,3,Güç ve Kondisyon,Full Gym,4,16.79,REHABILITASYON
+23,1,169.7,81.3,1.9,Ayak Bileği,4.2,0,Sakatlık Sonrası,Full Gym,3,28.23,REHABILITASYON
+35,0,171.0,96.9,1.375,Ayak Bileği,0.0,14,Kilo Verme,Full Gym,3,33.14,YAG_YAKIMI
+30,0,154.6,54.0,1.9,Yok,0.1,4,Güç ve Kondisyon,Dumbbell Only,3,22.59,PPL_SPLIT
+24,1,175.0,42.0,1.55,Diz,0.0,1,Kas Kazanımı,Dumbbell Only,5,13.71,KILO_ALMA
+23,0,155.5,57.2,1.55,Bel,4.5,3,Sakatlık Sonrası,Bodyweight,5,23.66,REHABILITASYON
+25,0,159.9,55.2,1.725,Diz,0.5,13,Güç ve Kondisyon,Bodyweight,3,21.59,PPL_SPLIT
+59,0,162.0,89.0,1.55,Bel,4.445660925339321,6,Kas Kazanımı,Bodyweight,4,33.91,YAG_YAKIMI
+27,1,171.7,68.1,1.725,Omuz,0.2,11,Güç ve Kondisyon,Bodyweight,5,23.1,PPL_SPLIT
+53,1,194.0,96.0,1.375,Yok,1.5366055151681923,2,Güç ve Kondisyon,Bodyweight,4,25.51,REHABILITASYON
+24,1,158.0,83.0,1.2,Bel,0.4069154040334694,6,Kas Kazanımı,Bodyweight,4,33.25,REHABILITASYON
+36,0,162.0,109.8,1.9,Yok,0.0,2,Kilo Verme,Full Gym,4,41.84,YAG_YAKIMI
+21,0,166.1,70.4,1.375,Yok,0.8,7,Güç ve Kondisyon,Dumbbell Only,3,25.52,PPL_SPLIT
+35,0,176.0,101.4,1.375,Ayak Bileği,0.0,14,Kilo Verme,Dumbbell Only,3,32.74,YAG_YAKIMI
+38,1,174.3,61.5,1.375,Omuz,4.8,8,Sakatlık Sonrası,Full Gym,4,20.24,REHABILITASYON
+49,0,170.0,108.0,1.55,Yok,2.81737430075386,5,Güç ve Kondisyon,Bodyweight,5,37.37,KILO_ALMA
+35,0,159.8,77.2,1.725,Yok,0.2,13,Kilo Verme,Bodyweight,3,30.23,YAG_YAKIMI
+34,1,177.0,56.2,1.2,Omuz,0.0,9,Kas Kazanımı,Dumbbell Only,5,17.94,KILO_ALMA
+58,1,157.0,44.2,1.55,Ayak Bileği,0.0,6,Kas Kazanımı,Full Gym,4,17.93,KILO_ALMA
+55,0,173.0,129.9,1.55,Ayak Bileği,0.0,10,Kilo Verme,Dumbbell Only,3,43.4,YAG_YAKIMI
+37,0,150.0,45.0,1.55,Bel,0.9,7,Güç ve Kondisyon,Full Gym,4,20.0,PPL_SPLIT
+22,1,175.0,76.9,1.2,Yok,0.5,1,Güç ve Kondisyon,Dumbbell Only,3,25.11,PPL_SPLIT
+44,0,183.0,98.0,1.725,Diz,0.0,13,Kilo Verme,Dumbbell Only,3,29.26,YAG_YAKIMI
+34,0,168.0,63.0,1.9,Omuz,2.496177672167732,9,Güç ve Kondisyon,Full Gym,5,22.32,REHABILITASYON
+53,1,179.0,56.3,1.725,Bel,0.0,10,Kas Kazanımı,Full Gym,4,17.57,KILO_ALMA
+59,1,157.0,54.6,1.2,Yok,0.0,10,Güç ve Kondisyon,Dumbbell Only,5,22.15,PPL_SPLIT
+41,1,159.0,63.4,1.375,Yok,0.0,4,Güç ve Kondisyon,Full Gym,5,25.08,PPL_SPLIT
+52,1,186.0,60.0,1.2,Bel,3.184024022958955,5,Sakatlık Sonrası,Bodyweight,4,17.34,YAG_YAKIMI
+39,1,179.1,70.5,1.725,Diz,0.7,11,Güç ve Kondisyon,Bodyweight,4,21.98,PPL_SPLIT
+45,0,178.0,88.5,1.375,Bel,0.0,10,Güç ve Kondisyon,Dumbbell Only,5,27.93,PPL_SPLIT
+37,0,170.2,60.7,1.9,Omuz,4.3,13,Sakatlık Sonrası,Dumbbell Only,3,20.95,REHABILITASYON
+48,0,164.0,58.0,1.375,Diz,4.7882531648162185,6,Kilo Verme,Bodyweight,5,21.56,PPL_SPLIT
+45,1,165.0,44.5,1.2,Diz,0.0,3,Kas Kazanımı,Bodyweight,4,16.35,KILO_ALMA
+39,1,167.9,78.6,1.725,Ayak Bileği,0.3,1,Güç ve Kondisyon,Bodyweight,5,27.88,PPL_SPLIT
+20,0,158.3,63.2,1.375,Ayak Bileği,0.5,11,Güç ve Kondisyon,Full Gym,5,25.22,PPL_SPLIT
+51,0,161.0,49.3,1.9,Yok,0.0,11,Güç ve Kondisyon,Full Gym,5,19.02,PPL_SPLIT
+38,0,156.7,45.0,1.725,Diz,4.6,2,Sakatlık Sonrası,Dumbbell Only,4,18.33,REHABILITASYON
+40,0,176.0,80.3,1.2,Ayak Bileği,0.0,5,Güç ve Kondisyon,Bodyweight,3,25.92,PPL_SPLIT
+19,0,165.6,63.3,1.55,Diz,4.5,8,Sakatlık Sonrası,Full Gym,5,23.08,REHABILITASYON
+23,1,160.0,47.4,1.375,Omuz,0.0,1,Kas Kazanımı,Full Gym,5,18.52,KILO_ALMA
+26,0,163.1,71.0,1.2,Yok,0.3,11,Güç ve Kondisyon,Bodyweight,3,26.69,PPL_SPLIT
+32,1,172.9,74.8,1.9,Ayak Bileği,0.2,13,Güç ve Kondisyon,Full Gym,4,25.02,PPL_SPLIT
+39,0,163.7,45.0,1.375,Yok,4.6,9,Sakatlık Sonrası,Dumbbell Only,5,16.79,REHABILITASYON
+23,0,163.2,59.8,1.55,Diz,0.3,11,Güç ve Kondisyon,Bodyweight,4,22.45,PPL_SPLIT
+38,1,154.0,61.4,1.9,Ayak Bileği,0.0,13,Güç ve Kondisyon,Dumbbell Only,4,25.89,PPL_SPLIT
+27,1,171.0,71.0,1.55,Bel,0.6949855007649147,1,Kas Kazanımı,Dumbbell Only,4,24.28,YAG_YAKIMI
+56,1,150.0,81.0,1.55,Bel,0.5070659432533975,2,Güç ve Kondisyon,Full Gym,5,36.0,YAG_YAKIMI
+52,0,162.0,111.0,1.725,Diz,4.608020582454824,3,Sakatlık Sonrası,Bodyweight,5,42.3,KILO_ALMA
+31,1,176.0,42.7,1.9,Ayak Bileği,0.0,13,Kas Kazanımı,Bodyweight,4,13.78,KILO_ALMA
+35,0,162.4,63.0,1.2,Bel,4.5,9,Sakatlık Sonrası,Full Gym,4,23.89,REHABILITASYON
+58,0,175.0,74.6,1.9,Omuz,0.0,5,Güç ve Kondisyon,Full Gym,3,24.36,PPL_SPLIT
+47,1,154.0,61.9,1.55,Ayak Bileği,0.0,10,Güç ve Kondisyon,Bodyweight,4,26.1,PPL_SPLIT
+19,0,194.0,72.0,1.725,Bel,0.0,8,Güç ve Kondisyon,Full Gym,3,19.13,PPL_SPLIT
+50,0,184.0,84.0,1.725,Bel,0.6209931275323743,9,Güç ve Kondisyon,Bodyweight,5,24.81,REHABILITASYON
+19,1,162.0,84.0,1.55,Yok,0.3406043609219922,6,Sakatlık Sonrası,Bodyweight,5,32.01,KILO_ALMA
+39,0,166.7,51.2,1.2,Diz,0.4,4,Kas Kazanımı,Bodyweight,4,18.42,KILO_ALMA
+28,1,171.2,61.4,1.9,Ayak Bileği,0.6,8,Güç ve Kondisyon,Bodyweight,5,20.95,PPL_SPLIT
+52,0,169.0,116.5,1.9,Omuz,0.0,12,Kilo Verme,Full Gym,4,40.79,YAG_YAKIMI
+40,0,155.0,62.0,1.2,Diz,4.01347603036213,0,Sakatlık Sonrası,Bodyweight,3,25.81,KILO_ALMA
+27,1,176.4,63.2,1.9,Ayak Bileği,0.2,11,Güç ve Kondisyon,Full Gym,4,20.31,PPL_SPLIT
+49,1,155.0,81.0,1.375,Diz,0.2725863578016646,4,Kas Kazanımı,Bodyweight,5,33.71,REHABILITASYON
+33,1,163.0,64.1,1.55,Diz,0.0,4,Güç ve Kondisyon,Bodyweight,4,24.13,PPL_SPLIT
+43,1,152.0,68.6,1.55,Omuz,0.0,2,Kilo Verme,Dumbbell Only,4,29.69,YAG_YAKIMI
+26,0,179.0,76.4,1.2,Yok,0.0,0,Güç ve Kondisyon,Bodyweight,5,23.84,PPL_SPLIT
+39,0,165.5,60.2,1.375,Yok,0.8,11,Güç ve Kondisyon,Dumbbell Only,3,21.98,PPL_SPLIT
+24,0,160.2,57.2,1.725,Omuz,0.9,13,Güç ve Kondisyon,Dumbbell Only,3,22.29,PPL_SPLIT
+49,0,161.0,77.7,1.55,Omuz,0.0,1,Kilo Verme,Full Gym,3,29.98,YAG_YAKIMI
+31,1,190.0,74.0,1.375,Omuz,1.6422037864739498,3,Güç ve Kondisyon,Full Gym,4,20.5,KILO_ALMA
+19,1,174.3,51.1,1.2,Bel,0.7,6,Kas Kazanımı,Dumbbell Only,3,16.82,KILO_ALMA
+46,0,180.0,106.0,1.725,Omuz,0.2132792021604879,5,Kas Kazanımı,Full Gym,3,32.72,REHABILITASYON
+23,0,155.9,52.3,1.375,Omuz,0.8,3,Güç ve Kondisyon,Dumbbell Only,5,21.52,PPL_SPLIT
+36,0,194.0,84.0,1.9,Omuz,0.0,2,Güç ve Kondisyon,Bodyweight,3,22.32,PPL_SPLIT
+34,0,155.0,69.0,1.55,Diz,3.105542186919425,1,Sakatlık Sonrası,Full Gym,5,28.72,KILO_ALMA
+53,0,176.0,84.2,1.725,Ayak Bileği,0.0,0,Güç ve Kondisyon,Bodyweight,3,27.18,PPL_SPLIT
+29,0,185.0,88.0,1.375,Omuz,3.921081106632154,5,Sakatlık Sonrası,Full Gym,3,25.71,PPL_SPLIT
+18,0,157.2,54.7,1.375,Bel,0.4,12,Güç ve Kondisyon,Full Gym,4,22.14,PPL_SPLIT
+22,1,161.0,55.1,1.375,Yok,0.0,1,Güç ve Kondisyon,Dumbbell Only,3,21.26,PPL_SPLIT
+30,1,165.0,66.0,1.375,Yok,1.9383854046850924,2,Sakatlık Sonrası,Bodyweight,3,24.24,YAG_YAKIMI
+18,0,185.0,62.0,1.375,Yok,0.0,3,Kas Kazanımı,Bodyweight,3,18.12,KILO_ALMA
+29,0,178.0,120.9,1.55,Omuz,0.0,4,Kilo Verme,Dumbbell Only,4,38.16,YAG_YAKIMI
+48,0,163.0,82.0,1.375,Omuz,2.350394736552861,9,Kas Kazanımı,Full Gym,4,30.86,YAG_YAKIMI
+31,0,158.8,53.8,1.725,Ayak Bileği,4.3,9,Sakatlık Sonrası,Bodyweight,5,21.33,REHABILITASYON
+23,1,161.0,67.8,1.375,Yok,0.0,12,Güç ve Kondisyon,Dumbbell Only,4,26.16,PPL_SPLIT
+56,0,195.0,129.5,1.9,Omuz,0.0,3,Kilo Verme,Dumbbell Only,3,34.06,YAG_YAKIMI
+34,1,150.0,68.4,1.725,Diz,0.0,1,Kilo Verme,Dumbbell Only,5,30.4,YAG_YAKIMI
+23,0,172.0,61.2,1.375,Omuz,0.1,7,Güç ve Kondisyon,Bodyweight,5,20.69,PPL_SPLIT
+42,1,171.0,63.7,1.55,Diz,0.0,8,Güç ve Kondisyon,Dumbbell Only,3,21.78,PPL_SPLIT
+19,1,190.0,94.0,1.55,Diz,3.9983106036061895,5,Kas Kazanımı,Full Gym,5,26.04,YAG_YAKIMI
+22,1,156.0,42.8,1.725,Diz,0.0,10,Kas Kazanımı,Full Gym,5,17.59,KILO_ALMA
+35,1,180.0,85.3,1.375,Yok,0.5,10,Güç ve Kondisyon,Full Gym,5,26.33,PPL_SPLIT
+57,1,194.0,74.0,1.725,Omuz,0.5202505313664085,10,Kas Kazanımı,Dumbbell Only,3,19.66,YAG_YAKIMI
+50,1,160.0,56.5,1.2,Diz,0.0,1,Güç ve Kondisyon,Full Gym,4,22.07,PPL_SPLIT
+57,0,192.0,66.0,1.375,Yok,0.6329343865094678,3,Sakatlık Sonrası,Bodyweight,4,17.9,YAG_YAKIMI
+34,0,184.0,55.0,1.375,Bel,0.4600573146310127,0,Kas Kazanımı,Bodyweight,3,16.25,YAG_YAKIMI
+21,1,165.0,76.3,1.9,Bel,0.0,14,Güç ve Kondisyon,Bodyweight,4,28.03,PPL_SPLIT
+34,0,168.7,60.9,1.2,Ayak Bileği,0.2,10,Güç ve Kondisyon,Full Gym,3,21.4,PPL_SPLIT
+34,1,152.0,61.0,1.725,Bel,0.8911790818600884,4,Kas Kazanımı,Full Gym,4,26.4,PPL_SPLIT
+49,0,187.0,83.7,1.9,Yok,0.0,10,Güç ve Kondisyon,Bodyweight,3,23.94,PPL_SPLIT
+64,0,166.0,92.0,1.725,Yok,1.2300798529639356,0,Kas Kazanımı,Dumbbell Only,3,33.39,PPL_SPLIT
+53,1,167.0,94.0,1.9,Yok,3.68338816080485,8,Kilo Verme,Full Gym,4,33.71,KILO_ALMA
+18,0,181.0,56.0,1.375,Yok,2.7377946315321178,8,Güç ve Kondisyon,Bodyweight,3,17.09,YAG_YAKIMI
+35,1,162.0,44.6,1.55,Ayak Bileği,0.0,10,Kas Kazanımı,Dumbbell Only,5,16.99,KILO_ALMA
+20,0,172.0,82.0,1.9,Omuz,4.006302863923824,4,Kilo Verme,Full Gym,4,27.72,REHABILITASYON
+29,0,165.0,86.1,1.2,Omuz,0.0,13,Kilo Verme,Full Gym,5,31.63,YAG_YAKIMI
+48,0,171.0,78.0,1.2,Yok,2.170391117164525,8,Güç ve Kondisyon,Bodyweight,3,26.67,YAG_YAKIMI
+43,0,176.0,100.0,1.55,Diz,3.008983868801551,8,Kilo Verme,Full Gym,3,32.28,REHABILITASYON
+55,0,175.0,98.0,1.375,Yok,0.7419336769500873,0,Güç ve Kondisyon,Bodyweight,4,32.0,KILO_ALMA
+58,0,172.0,90.2,1.9,Omuz,0.0,13,Kilo Verme,Full Gym,3,30.49,YAG_YAKIMI
+24,1,164.0,40.4,1.725,Ayak Bileği,0.0,6,Kas Kazanımı,Dumbbell Only,5,15.02,KILO_ALMA
+40,0,151.6,68.2,1.375,Diz,4.7,3,Sakatlık Sonrası,Dumbbell Only,5,29.67,REHABILITASYON
+19,0,168.6,62.7,1.725,Yok,4.7,4,Sakatlık Sonrası,Full Gym,3,22.06,REHABILITASYON
+20,0,194.0,111.0,1.725,Ayak Bileği,0.0,14,Kilo Verme,Bodyweight,4,29.49,YAG_YAKIMI
+21,0,161.7,63.8,1.55,Bel,4.1,4,Sakatlık Sonrası,Bodyweight,4,24.4,REHABILITASYON
+40,1,153.0,62.6,1.2,Omuz,0.0,7,Güç ve Kondisyon,Dumbbell Only,3,26.74,PPL_SPLIT
+34,0,164.4,57.2,1.2,Diz,0.2,7,Güç ve Kondisyon,Dumbbell Only,4,21.16,PPL_SPLIT
+50,1,187.0,58.0,1.725,Yok,4.94824032721089,2,Kas Kazanımı,Bodyweight,5,16.59,PPL_SPLIT
+28,0,175.0,87.0,1.2,Omuz,0.6945745390913888,0,Güç ve Kondisyon,Full Gym,3,28.41,YAG_YAKIMI
+26,1,150.0,64.1,1.725,Ayak Bileği,0.0,10,Güç ve Kondisyon,Dumbbell Only,4,28.49,PPL_SPLIT
+29,1,166.8,75.1,1.55,Diz,0.3,8,Güç ve Kondisyon,Dumbbell Only,5,26.99,PPL_SPLIT
+30,1,177.0,77.9,1.9,Diz,0.0,2,Güç ve Kondisyon,Full Gym,5,24.87,PPL_SPLIT
+24,1,175.2,68.0,1.375,Omuz,0.5,5,Güç ve Kondisyon,Full Gym,5,22.15,PPL_SPLIT
+21,1,174.7,72.0,1.9,Ayak Bileği,0.0,10,Güç ve Kondisyon,Bodyweight,3,23.59,PPL_SPLIT
+23,0,185.0,121.3,1.9,Ayak Bileği,0.0,7,Kilo Verme,Full Gym,3,35.44,YAG_YAKIMI
+19,0,169.0,76.0,1.55,Bel,0.9640378885465272,9,Kas Kazanımı,Bodyweight,5,26.61,REHABILITASYON
+19,0,170.0,98.6,1.375,Bel,0.0,12,Kilo Verme,Full Gym,3,34.12,YAG_YAKIMI
+36,0,184.0,64.0,1.375,Omuz,2.5935124710368163,4,Güç ve Kondisyon,Bodyweight,4,18.9,KILO_ALMA
+45,0,196.0,78.3,1.9,Diz,0.0,2,Güç ve Kondisyon,Dumbbell Only,5,20.38,PPL_SPLIT
+30,0,191.0,113.4,1.725,Yok,0.0,4,Kilo Verme,Bodyweight,5,31.08,YAG_YAKIMI
+29,1,172.0,68.7,1.375,Omuz,0.0,12,Güç ve Kondisyon,Bodyweight,3,23.22,PPL_SPLIT
+23,1,180.9,95.0,1.725,Omuz,0.2,2,Kilo Verme,Bodyweight,5,29.03,YAG_YAKIMI
+18,1,169.6,83.9,1.375,Diz,0.7,1,Kilo Verme,Dumbbell Only,3,29.17,YAG_YAKIMI
+38,0,174.0,83.6,1.375,Bel,0.0,8,Güç ve Kondisyon,Bodyweight,3,27.61,PPL_SPLIT
+23,0,169.0,61.0,1.9,Diz,4.892456798189231,0,Kilo Verme,Bodyweight,3,21.36,KILO_ALMA
+41,0,177.0,67.0,1.55,Diz,0.0,9,Güç ve Kondisyon,Bodyweight,4,21.39,PPL_SPLIT
+37,0,164.0,65.8,1.2,Diz,0.3,13,Güç ve Kondisyon,Bodyweight,4,24.46,PPL_SPLIT
+24,0,199.0,87.0,1.9,Yok,3.819112440960396,11,Kas Kazanımı,Full Gym,4,21.97,YAG_YAKIMI
+37,0,174.0,49.1,1.55,Omuz,0.0,4,Kas Kazanımı,Bodyweight,3,16.22,KILO_ALMA
+28,0,153.6,58.7,1.2,Ayak Bileği,4.6,6,Sakatlık Sonrası,Full Gym,5,24.88,REHABILITASYON
+21,0,193.0,74.2,1.2,Bel,0.0,8,Güç ve Kondisyon,Full Gym,4,19.92,PPL_SPLIT
+19,0,159.7,55.4,1.725,Bel,0.5,10,Güç ve Kondisyon,Bodyweight,4,21.72,PPL_SPLIT
+54,0,176.0,86.5,1.725,Omuz,0.0,3,Güç ve Kondisyon,Dumbbell Only,3,27.92,PPL_SPLIT
+19,0,192.0,95.0,1.55,Omuz,2.2062653378528823,0,Kilo Verme,Full Gym,3,25.77,PPL_SPLIT
+31,1,167.9,69.6,1.55,Diz,1.0,14,Güç ve Kondisyon,Full Gym,3,24.69,PPL_SPLIT
+59,0,188.0,123.3,1.375,Omuz,0.0,13,Kilo Verme,Bodyweight,3,34.89,YAG_YAKIMI
+51,1,193.0,102.0,1.2,Yok,2.4369933123203493,9,Sakatlık Sonrası,Bodyweight,3,27.38,YAG_YAKIMI
+24,1,179.0,60.1,1.55,Omuz,0.0,6,Kas Kazanımı,Dumbbell Only,5,18.76,KILO_ALMA
+21,1,171.0,51.0,1.2,Omuz,0.0,1,Kas Kazanımı,Dumbbell Only,5,17.44,KILO_ALMA
+46,1,153.0,74.9,1.725,Omuz,0.0,6,Kilo Verme,Full Gym,3,32.0,YAG_YAKIMI
+44,0,163.0,102.3,1.2,Bel,0.0,10,Kilo Verme,Dumbbell Only,5,38.5,YAG_YAKIMI
+26,0,166.0,73.7,1.375,Diz,0.0,11,Güç ve Kondisyon,Bodyweight,4,26.75,PPL_SPLIT
+42,0,161.0,83.0,1.55,Omuz,2.470372664501017,2,Kilo Verme,Bodyweight,5,32.02,PPL_SPLIT
+53,1,176.0,47.8,1.9,Yok,0.0,2,Kas Kazanımı,Dumbbell Only,3,15.43,KILO_ALMA
+59,0,180.0,75.0,1.375,Ayak Bileği,1.461849422689976,13,Kilo Verme,Bodyweight,3,23.15,REHABILITASYON
+23,0,179.0,116.8,1.9,Yok,0.0,3,Kilo Verme,Dumbbell Only,5,36.45,YAG_YAKIMI
+31,0,172.0,87.0,1.9,Yok,2.19731564138253,2,Kilo Verme,Full Gym,5,29.41,REHABILITASYON
+20,1,188.4,56.8,1.9,Diz,5.0,9,Sakatlık Sonrası,Full Gym,4,16.0,REHABILITASYON
+38,0,192.0,68.7,1.2,Yok,0.0,9,Kas Kazanımı,Bodyweight,3,18.64,KILO_ALMA
+19,0,187.0,56.9,1.725,Bel,0.0,7,Kas Kazanımı,Full Gym,3,16.27,KILO_ALMA
+54,0,176.0,54.6,1.9,Diz,0.0,11,Kas Kazanımı,Full Gym,5,17.63,KILO_ALMA
+36,0,177.0,110.2,1.375,Diz,0.0,5,Kilo Verme,Full Gym,3,35.18,YAG_YAKIMI
+22,0,170.0,99.0,1.9,Diz,3.181068945526872,7,Kilo Verme,Full Gym,4,34.26,REHABILITASYON
+25,0,188.0,105.0,1.375,Omuz,0.0,3,Kilo Verme,Dumbbell Only,3,29.71,YAG_YAKIMI
+53,0,176.0,73.4,1.55,Ayak Bileği,0.0,12,Güç ve Kondisyon,Dumbbell Only,5,23.7,PPL_SPLIT
+26,1,163.0,76.7,1.375,Ayak Bileği,0.0,10,Kilo Verme,Dumbbell Only,3,28.87,YAG_YAKIMI
+56,0,159.0,104.0,1.9,Diz,4.718008272221288,12,Güç ve Kondisyon,Full Gym,4,41.14,REHABILITASYON
+60,1,185.0,119.0,1.55,Yok,1.55196104863483,8,Güç ve Kondisyon,Bodyweight,4,34.77,YAG_YAKIMI
+21,0,172.0,96.7,1.375,Omuz,0.0,10,Kilo Verme,Bodyweight,3,32.69,YAG_YAKIMI
+59,0,171.0,96.7,1.725,Omuz,0.0,14,Kilo Verme,Bodyweight,4,33.07,YAG_YAKIMI
+22,0,168.2,50.0,1.9,Bel,4.2,0,Sakatlık Sonrası,Dumbbell Only,4,17.67,REHABILITASYON
+37,0,163.9,45.0,1.55,Ayak Bileği,0.2,0,Kas Kazanımı,Dumbbell Only,4,16.75,KILO_ALMA
+39,0,177.0,61.9,1.55,Diz,0.0,1,Güç ve Kondisyon,Bodyweight,4,19.76,PPL_SPLIT
+43,0,179.0,94.0,1.725,Bel,0.0,3,Kilo Verme,Dumbbell Only,4,29.34,YAG_YAKIMI
+23,0,199.0,83.8,1.9,Omuz,0.0,10,Güç ve Kondisyon,Dumbbell Only,3,21.16,PPL_SPLIT
+28,0,186.0,128.4,1.55,Yok,0.0,10,Kilo Verme,Bodyweight,5,37.11,YAG_YAKIMI
+42,0,164.0,55.0,1.9,Omuz,0.918581226769295,9,Sakatlık Sonrası,Full Gym,3,20.45,YAG_YAKIMI
+54,0,171.0,55.2,1.375,Ayak Bileği,0.0,13,Kas Kazanımı,Dumbbell Only,5,18.88,KILO_ALMA
+29,0,186.0,87.0,1.725,Diz,0.0,13,Güç ve Kondisyon,Dumbbell Only,3,25.15,PPL_SPLIT
+35,0,164.0,111.0,1.9,Diz,1.5175624600779813,5,Sakatlık Sonrası,Dumbbell Only,4,41.27,KILO_ALMA
+18,1,153.0,50.7,1.2,Bel,0.0,14,Güç ve Kondisyon,Full Gym,5,21.66,PPL_SPLIT
+28,0,161.3,57.6,1.2,Diz,4.9,4,Sakatlık Sonrası,Dumbbell Only,5,22.14,REHABILITASYON
+45,1,171.0,55.0,1.9,Bel,1.280345167333627,0,Kilo Verme,Bodyweight,4,18.81,REHABILITASYON
+34,1,173.3,61.5,1.9,Diz,0.8,8,Güç ve Kondisyon,Dumbbell Only,3,20.48,PPL_SPLIT
+43,1,176.0,103.0,1.55,Omuz,0.1863035544980118,4,Güç ve Kondisyon,Full Gym,3,33.25,REHABILITASYON
+21,0,181.0,62.6,1.2,Yok,0.0,2,Güç ve Kondisyon,Full Gym,4,19.11,PPL_SPLIT
+55,1,166.0,79.7,1.2,Ayak Bileği,0.0,7,Kilo Verme,Bodyweight,3,28.92,YAG_YAKIMI
+31,1,181.0,91.0,1.2,Yok,0.0883327371858605,1,Kas Kazanımı,Full Gym,3,27.78,PPL_SPLIT
+25,0,193.0,108.0,1.9,Omuz,3.6520096247290734,7,Kilo Verme,Full Gym,3,28.99,REHABILITASYON
+30,0,195.0,85.3,1.375,Ayak Bileği,0.0,2,Güç ve Kondisyon,Bodyweight,4,22.43,PPL_SPLIT
+18,0,172.0,99.0,1.725,Bel,0.10343859852351256,3,Güç ve Kondisyon,Bodyweight,3,33.46,YAG_YAKIMI
+33,0,164.0,54.9,1.375,Bel,4.7,9,Sakatlık Sonrası,Full Gym,4,20.41,REHABILITASYON
+28,1,163.0,78.7,1.55,Omuz,0.0,7,Kilo Verme,Dumbbell Only,4,29.62,YAG_YAKIMI
+20,0,166.5,50.3,1.2,Diz,0.4,14,Kas Kazanımı,Full Gym,3,18.14,KILO_ALMA
+33,1,168.1,71.9,1.375,Omuz,0.7,12,Güç ve Kondisyon,Dumbbell Only,3,25.44,PPL_SPLIT
+19,1,163.0,64.3,1.725,Ayak Bileği,0.0,1,Güç ve Kondisyon,Dumbbell Only,3,24.2,PPL_SPLIT
+54,1,157.0,70.7,1.9,Diz,0.0,14,Kilo Verme,Dumbbell Only,3,28.68,YAG_YAKIMI
+55,0,178.0,91.8,1.55,Yok,0.0,10,Kilo Verme,Dumbbell Only,5,28.97,YAG_YAKIMI
+26,1,180.0,100.0,1.9,Diz,1.496326374019354,5,Güç ve Kondisyon,Full Gym,5,30.86,KILO_ALMA
+28,1,167.0,71.3,1.2,Bel,0.0,8,Güç ve Kondisyon,Full Gym,4,25.57,PPL_SPLIT
+28,0,178.0,86.9,1.9,Yok,0.0,1,Güç ve Kondisyon,Full Gym,5,27.43,PPL_SPLIT
+26,1,174.0,108.0,1.55,Bel,4.997443643933947,4,Sakatlık Sonrası,Full Gym,4,35.67,PPL_SPLIT
+31,0,169.0,100.0,1.55,Diz,0.1073847305774439,2,Sakatlık Sonrası,Bodyweight,3,35.01,KILO_ALMA
+24,1,184.0,106.0,1.725,Diz,4.214976336507073,3,Kilo Verme,Bodyweight,4,31.31,PPL_SPLIT
+32,0,166.6,67.0,1.2,Yok,0.1,1,Güç ve Kondisyon,Dumbbell Only,5,24.14,PPL_SPLIT
+25,1,166.0,86.0,1.9,Yok,0.6562566678074805,7,Kilo Verme,Bodyweight,3,31.21,PPL_SPLIT
+49,1,174.0,45.2,1.55,Bel,0.0,9,Kas Kazanımı,Bodyweight,4,14.93,KILO_ALMA
+36,1,175.0,59.3,1.55,Yok,0.0,1,Güç ve Kondisyon,Bodyweight,3,19.36,PPL_SPLIT
+56,0,184.0,90.0,1.9,Diz,2.9843853484050458,9,Kas Kazanımı,Bodyweight,5,26.58,REHABILITASYON
+50,0,191.0,57.1,1.375,Yok,0.0,2,Kas Kazanımı,Bodyweight,3,15.65,KILO_ALMA
+57,0,185.0,64.0,1.725,Yok,0.09598795679795158,5,Güç ve Kondisyon,Dumbbell Only,2,18.7,KILO_ALMA
+51,1,164.0,82.0,1.375,Yok,0.1336995654165573,6,Sakatlık Sonrası,Bodyweight,4,30.49,KILO_ALMA
+29,1,157.0,70.0,1.375,Bel,2.4333079957733883,5,Güç ve Kondisyon,Bodyweight,5,28.4,REHABILITASYON
+46,1,177.0,88.0,1.725,Omuz,3.132067228965081,12,Kilo Verme,Dumbbell Only,5,28.09,PPL_SPLIT
+18,1,178.6,85.4,1.2,Omuz,4.7,5,Sakatlık Sonrası,Dumbbell Only,3,26.77,REHABILITASYON
+37,1,169.0,107.0,1.725,Diz,0.0036608023888867,3,Kas Kazanımı,Bodyweight,3,37.46,PPL_SPLIT
+29,0,164.7,54.3,1.375,Diz,0.8,5,Güç ve Kondisyon,Dumbbell Only,4,20.02,PPL_SPLIT
+40,0,161.0,52.1,1.55,Yok,0.0,13,Güç ve Kondisyon,Dumbbell Only,4,20.1,PPL_SPLIT
+34,1,157.0,74.2,1.55,Diz,0.0,4,Kilo Verme,Full Gym,3,30.1,YAG_YAKIMI
+53,0,174.0,51.8,1.9,Ayak Bileği,0.0,1,Kas Kazanımı,Dumbbell Only,3,17.11,KILO_ALMA
+27,1,179.0,58.0,1.375,Omuz,0.0,2,Kas Kazanımı,Full Gym,5,18.1,KILO_ALMA
+27,0,163.0,87.5,1.9,Yok,0.0,6,Kilo Verme,Full Gym,3,32.93,YAG_YAKIMI
+28,1,162.0,63.0,1.2,Diz,0.0,6,Güç ve Kondisyon,Bodyweight,5,24.01,PPL_SPLIT
+21,0,159.9,53.7,1.2,Ayak Bileği,5.0,4,Sakatlık Sonrası,Bodyweight,3,21.0,REHABILITASYON
+53,0,184.0,105.1,1.375,Yok,0.0,5,Kilo Verme,Full Gym,3,31.04,YAG_YAKIMI
+19,1,157.0,60.0,1.2,Omuz,1.223502540710208,1,Kilo Verme,Full Gym,4,24.34,REHABILITASYON
+39,1,169.0,64.3,1.2,Yok,0.0,14,Güç ve Kondisyon,Full Gym,4,22.51,PPL_SPLIT
+24,1,179.0,62.9,1.55,Omuz,0.0,8,Güç ve Kondisyon,Full Gym,4,19.63,PPL_SPLIT
+36,1,178.0,65.0,1.55,Diz,3.595501230392171,1,Güç ve Kondisyon,Full Gym,4,20.52,REHABILITASYON
+42,1,175.0,50.7,1.55,Diz,0.0,8,Kas Kazanımı,Full Gym,5,16.56,KILO_ALMA
+56,0,178.0,129.0,1.55,Omuz,0.0,1,Kilo Verme,Bodyweight,4,40.71,YAG_YAKIMI
+59,1,168.0,70.7,1.375,Bel,0.0,5,Güç ve Kondisyon,Dumbbell Only,5,25.05,PPL_SPLIT
+57,0,186.0,96.3,1.55,Yok,0.0,5,Güç ve Kondisyon,Full Gym,5,27.84,PPL_SPLIT
+40,1,174.4,56.8,1.2,Bel,4.6,10,Sakatlık Sonrası,Full Gym,3,18.67,REHABILITASYON
+56,0,168.0,89.0,1.9,Ayak Bileği,0.0,13,Kilo Verme,Full Gym,5,31.53,YAG_YAKIMI
+28,1,161.0,52.0,1.2,Diz,0.0,8,Güç ve Kondisyon,Dumbbell Only,5,20.06,PPL_SPLIT
+28,0,161.1,64.4,1.725,Yok,0.8,4,Güç ve Kondisyon,Dumbbell Only,4,24.81,PPL_SPLIT
+41,0,183.0,101.1,1.55,Bel,0.0,14,Kilo Verme,Bodyweight,5,30.19,YAG_YAKIMI
+43,0,172.0,67.0,1.2,Diz,3.365525675074666,9,Kas Kazanımı,Bodyweight,4,22.65,PPL_SPLIT
+22,0,177.0,45.7,1.9,Ayak Bileği,0.0,6,Kas Kazanımı,Bodyweight,5,14.59,KILO_ALMA
+31,1,187.0,60.0,1.9,Yok,2.410126835413732,3,Sakatlık Sonrası,Bodyweight,4,17.16,YAG_YAKIMI
+63,1,181.0,81.0,1.375,Ayak Bileği,4.272629597790707,9,Güç ve Kondisyon,Dumbbell Only,5,24.72,REHABILITASYON
+54,0,193.0,86.0,1.725,Diz,0.0,10,Güç ve Kondisyon,Full Gym,4,23.09,PPL_SPLIT
+20,0,173.0,120.5,1.55,Bel,0.0,3,Kilo Verme,Dumbbell Only,5,40.26,YAG_YAKIMI
+25,1,199.0,95.0,1.9,Yok,3.512561374352252,2,Güç ve Kondisyon,Bodyweight,4,23.99,REHABILITASYON
+26,1,161.0,62.4,1.9,Yok,0.0,1,Güç ve Kondisyon,Full Gym,3,24.07,PPL_SPLIT
+23,0,174.1,47.1,1.725,Omuz,0.7,10,Kas Kazanımı,Full Gym,5,15.54,KILO_ALMA
+55,0,175.0,89.0,1.9,Omuz,0.0500775544301818,3,Kilo Verme,Bodyweight,4,29.06,KILO_ALMA
+21,1,175.5,58.0,1.2,Ayak Bileği,0.5,14,Kas Kazanımı,Dumbbell Only,4,18.83,KILO_ALMA
+45,1,161.0,97.0,1.725,Omuz,4.415370115215757,3,Güç ve Kondisyon,Full Gym,3,37.42,REHABILITASYON
+25,0,168.4,50.4,1.55,Omuz,0.9,2,Kas Kazanımı,Dumbbell Only,3,17.77,KILO_ALMA
+39,0,176.0,85.0,1.2,Ayak Bileği,0.35832339527971657,7,Kas Kazanımı,Bodyweight,3,27.44,PPL_SPLIT
+37,0,195.0,88.8,1.55,Omuz,0.0,2,Güç ve Kondisyon,Dumbbell Only,4,23.35,PPL_SPLIT
+27,1,168.0,64.0,1.725,Yok,2.7967880706874544,5,Sakatlık Sonrası,Bodyweight,5,22.68,KILO_ALMA
+50,1,158.0,58.1,1.9,Bel,0.0,14,Güç ve Kondisyon,Full Gym,5,23.27,PPL_SPLIT
+27,0,197.0,76.5,1.725,Ayak Bileği,0.0,5,Güç ve Kondisyon,Dumbbell Only,4,19.71,PPL_SPLIT
+22,0,162.2,52.4,1.9,Ayak Bileği,0.6,3,Güç ve Kondisyon,Full Gym,5,19.92,PPL_SPLIT
+19,1,172.8,66.1,1.2,Bel,0.6,11,Güç ve Kondisyon,Full Gym,4,22.14,PPL_SPLIT
+53,0,163.0,86.0,1.725,Bel,4.890221938832947,8,Sakatlık Sonrası,Bodyweight,4,32.37,PPL_SPLIT
+54,1,174.0,66.9,1.375,Diz,0.0,8,Güç ve Kondisyon,Bodyweight,3,22.1,PPL_SPLIT
+37,1,150.0,69.5,1.725,Yok,0.0,5,Kilo Verme,Full Gym,5,30.89,YAG_YAKIMI
+30,0,157.8,58.6,1.725,Yok,0.9,9,Güç ve Kondisyon,Dumbbell Only,3,23.53,PPL_SPLIT
+48,0,176.0,87.1,1.9,Diz,0.0,6,Güç ve Kondisyon,Bodyweight,5,28.12,PPL_SPLIT
+24,1,180.4,60.2,1.9,Ayak Bileği,0.8,1,Kas Kazanımı,Full Gym,3,18.5,KILO_ALMA
+40,1,189.0,85.0,1.55,Diz,0.5784594454622966,3,Kilo Verme,Full Gym,4,23.8,PPL_SPLIT
+25,0,198.0,49.9,1.375,Diz,0.0,8,Kas Kazanımı,Dumbbell Only,3,12.73,KILO_ALMA
+36,1,157.0,82.0,1.375,Omuz,0.6365199301144225,9,Sakatlık Sonrası,Bodyweight,3,33.27,PPL_SPLIT
+26,1,162.0,88.0,1.375,Yok,3.1022061702105104,4,Kilo Verme,Bodyweight,5,33.53,KILO_ALMA
+40,1,169.0,57.7,1.375,Bel,0.0,6,Güç ve Kondisyon,Dumbbell Only,4,20.2,PPL_SPLIT
+46,1,153.0,58.0,1.725,Ayak Bileği,0.0,11,Güç ve Kondisyon,Full Gym,5,24.78,PPL_SPLIT
+40,1,193.0,65.0,1.9,Yok,4.250681646951724,2,Kilo Verme,Bodyweight,4,17.45,KILO_ALMA
+44,0,188.0,94.0,1.2,Bel,0.8966028530806558,4,Sakatlık Sonrası,Bodyweight,3,26.6,PPL_SPLIT
+59,1,179.0,73.0,1.725,Omuz,2.622484668824161,7,Kas Kazanımı,Full Gym,3,22.78,PPL_SPLIT
+59,0,186.0,100.0,1.9,Bel,0.23272735639017217,2,Kas Kazanımı,Full Gym,5,28.91,PPL_SPLIT
+45,1,165.0,50.9,1.375,Diz,0.0,4,Kas Kazanımı,Bodyweight,3,18.7,KILO_ALMA
+40,1,176.2,74.1,1.375,Omuz,0.7,10,Güç ve Kondisyon,Full Gym,3,23.87,PPL_SPLIT
+54,0,168.0,67.0,1.2,Yok,0.0,1,Güç ve Kondisyon,Full Gym,4,23.74,PPL_SPLIT
+39,1,167.0,89.0,1.9,Diz,1.1508451874836774,3,Kas Kazanımı,Full Gym,4,31.91,PPL_SPLIT
+18,1,155.0,72.7,1.725,Omuz,0.0,1,Kilo Verme,Full Gym,3,30.26,YAG_YAKIMI
+50,1,155.0,70.4,1.375,Omuz,0.0,10,Kilo Verme,Bodyweight,5,29.3,YAG_YAKIMI
+46,1,171.0,61.0,1.375,Yok,0.0,1,Güç ve Kondisyon,Full Gym,3,20.86,PPL_SPLIT
+26,1,172.5,91.9,1.55,Diz,4.6,12,Sakatlık Sonrası,Dumbbell Only,5,30.88,REHABILITASYON
+29,1,176.0,90.0,1.9,Diz,3.370997744638069,5,Kilo Verme,Full Gym,3,29.05,PPL_SPLIT
+23,0,185.0,81.4,1.375,Bel,0.0,4,Güç ve Kondisyon,Full Gym,3,23.78,PPL_SPLIT
+36,0,179.0,84.0,1.725,Yok,0.529050515303458,2,Güç ve Kondisyon,Full Gym,5,26.22,YAG_YAKIMI
+35,0,164.0,54.6,1.375,Bel,0.9,9,Güç ve Kondisyon,Dumbbell Only,3,20.3,PPL_SPLIT
+26,1,177.3,73.3,1.375,Bel,0.7,14,Güç ve Kondisyon,Bodyweight,4,23.32,PPL_SPLIT
+57,0,161.0,112.5,1.725,Ayak Bileği,0.0,5,Kilo Verme,Full Gym,4,43.4,YAG_YAKIMI
+58,1,167.0,46.1,1.725,Bel,0.0,9,Kas Kazanımı,Full Gym,3,16.53,KILO_ALMA
+34,0,161.6,56.5,1.55,Bel,0.2,14,Güç ve Kondisyon,Bodyweight,4,21.64,PPL_SPLIT
+52,1,184.0,114.0,1.375,Yok,3.436748067019837,6,Güç ve Kondisyon,Bodyweight,5,33.67,REHABILITASYON
+30,0,161.5,45.0,1.55,Omuz,4.0,0,Sakatlık Sonrası,Dumbbell Only,5,17.25,REHABILITASYON
+31,1,180.9,78.3,1.725,Diz,0.3,13,Güç ve Kondisyon,Full Gym,3,23.93,PPL_SPLIT
+25,0,194.0,75.0,1.9,Omuz,3.050207523386208,8,Sakatlık Sonrası,Bodyweight,5,19.93,KILO_ALMA
+59,0,176.0,86.9,1.55,Ayak Bileği,0.0,7,Güç ve Kondisyon,Dumbbell Only,4,28.05,PPL_SPLIT
+48,1,166.0,52.3,1.725,Omuz,0.0,0,Kas Kazanımı,Bodyweight,4,18.98,KILO_ALMA
+27,1,180.5,78.1,1.55,Omuz,0.3,10,Güç ve Kondisyon,Dumbbell Only,4,23.97,PPL_SPLIT
+21,1,155.0,55.2,1.375,Diz,0.0,14,Güç ve Kondisyon,Bodyweight,4,22.98,PPL_SPLIT
+31,0,173.0,76.0,1.2,Omuz,4.716221660719047,3,Güç ve Kondisyon,Bodyweight,4,25.39,YAG_YAKIMI
+31,0,189.0,107.0,1.375,Diz,3.575226383962016,2,Kas Kazanımı,Full Gym,5,29.95,YAG_YAKIMI
+49,1,171.0,115.0,1.55,Yok,4.277437506671839,6,Güç ve Kondisyon,Full Gym,3,39.33,YAG_YAKIMI
+29,0,159.9,51.7,1.55,Omuz,0.1,7,Güç ve Kondisyon,Dumbbell Only,5,20.22,PPL_SPLIT
+25,1,171.0,74.3,1.2,Yok,0.0,6,Güç ve Kondisyon,Full Gym,3,25.41,PPL_SPLIT
+51,0,194.0,96.0,1.9,Yok,3.7558592770096273,4,Sakatlık Sonrası,Bodyweight,5,25.51,YAG_YAKIMI
+41,0,175.0,94.0,1.375,Diz,4.331821809197674,7,Kas Kazanımı,Full Gym,5,30.69,REHABILITASYON
+39,0,182.0,127.5,1.55,Yok,0.0,14,Kilo Verme,Bodyweight,5,38.49,YAG_YAKIMI
+51,1,177.0,57.4,1.2,Omuz,0.0,11,Kas Kazanımı,Bodyweight,4,18.32,KILO_ALMA
+43,1,186.0,89.0,1.55,Yok,0.3651494106666048,4,Sakatlık Sonrası,Bodyweight,5,25.73,YAG_YAKIMI
+20,0,189.0,98.0,1.375,Yok,2.4186375754141967,8,Sakatlık Sonrası,Bodyweight,3,27.43,PPL_SPLIT
+46,0,200.0,84.3,1.55,Bel,0.0,7,Güç ve Kondisyon,Full Gym,3,21.08,PPL_SPLIT
+24,1,188.4,61.1,1.375,Ayak Bileği,0.6,1,Kas Kazanımı,Bodyweight,5,17.21,KILO_ALMA
+54,0,195.0,86.1,1.2,Omuz,0.0,0,Güç ve Kondisyon,Full Gym,3,22.64,PPL_SPLIT
+48,0,183.0,73.1,1.9,Bel,0.0,4,Güç ve Kondisyon,Dumbbell Only,5,21.83,PPL_SPLIT
+50,0,163.0,86.7,1.55,Omuz,0.0,6,Kilo Verme,Dumbbell Only,4,32.63,YAG_YAKIMI
+54,1,152.0,70.1,1.55,Omuz,0.0,11,Kilo Verme,Bodyweight,4,30.34,YAG_YAKIMI
+23,1,172.0,71.4,1.55,Diz,0.0,2,Güç ve Kondisyon,Bodyweight,3,24.13,PPL_SPLIT
+50,1,175.0,67.1,1.55,Bel,0.0,11,Güç ve Kondisyon,Dumbbell Only,4,21.91,PPL_SPLIT
+54,0,176.0,79.0,1.725,Bel,0.4195575862715089,7,Güç ve Kondisyon,Bodyweight,5,25.5,YAG_YAKIMI
+24,0,158.5,57.1,1.2,Omuz,0.2,2,Güç ve Kondisyon,Full Gym,5,22.73,PPL_SPLIT
+22,1,166.0,66.0,1.9,Bel,4.046433621483497,8,Kas Kazanımı,Bodyweight,4,23.95,YAG_YAKIMI
+32,0,186.0,74.0,1.2,Diz,2.513253536588323,7,Güç ve Kondisyon,Bodyweight,3,21.39,KILO_ALMA
+20,0,158.8,55.8,1.725,Bel,4.1,13,Sakatlık Sonrası,Dumbbell Only,4,22.13,REHABILITASYON
+45,0,176.0,80.8,1.725,Yok,0.0,8,Güç ve Kondisyon,Bodyweight,3,26.08,PPL_SPLIT
+23,0,157.0,96.0,1.55,Omuz,0.5614481414882755,9,Sakatlık Sonrası,Bodyweight,3,38.95,YAG_YAKIMI
+32,1,157.0,56.6,1.55,Ayak Bileği,0.0,6,Güç ve Kondisyon,Bodyweight,3,22.96,PPL_SPLIT
+58,0,166.0,103.5,1.55,Omuz,0.0,5,Kilo Verme,Bodyweight,4,37.56,YAG_YAKIMI
+24,0,169.0,65.0,1.9,Omuz,1.0032583435321496,3,Kilo Verme,Full Gym,5,22.76,REHABILITASYON
+31,0,161.7,63.7,1.725,Diz,5.0,1,Sakatlık Sonrası,Full Gym,4,24.36,REHABILITASYON
+28,1,176.0,96.0,1.2,Omuz,1.239271959043529,7,Sakatlık Sonrası,Full Gym,3,30.99,YAG_YAKIMI
+30,0,190.0,74.0,1.725,Diz,4.007137583071466,4,Kilo Verme,Bodyweight,3,20.5,REHABILITASYON
+54,0,186.0,71.6,1.9,Yok,0.0,7,Güç ve Kondisyon,Dumbbell Only,3,20.7,PPL_SPLIT
+34,0,162.6,45.0,1.725,Omuz,0.7,8,Kas Kazanımı,Full Gym,4,17.02,KILO_ALMA
+28,0,166.0,94.0,1.725,Omuz,3.0447512817295284,7,Güç ve Kondisyon,Full Gym,3,34.11,KILO_ALMA
+37,1,191.0,79.0,1.55,Omuz,2.8523898105481216,9,Sakatlık Sonrası,Bodyweight,2,21.66,KILO_ALMA
+56,0,187.0,67.0,1.55,Diz,2.710887619150439,3,Kilo Verme,Bodyweight,4,19.16,REHABILITASYON
+18,0,180.0,68.1,1.55,Omuz,0.0,5,Güç ve Kondisyon,Full Gym,3,21.02,PPL_SPLIT
+25,1,175.9,79.1,1.375,Yok,0.3,11,Güç ve Kondisyon,Full Gym,5,25.56,PPL_SPLIT
+23,1,155.0,63.0,1.55,Bel,1.5754703323401524,0,Kilo Verme,Full Gym,4,26.22,PPL_SPLIT
+53,1,158.0,102.0,1.2,Ayak Bileği,3.557451129135824,12,Güç ve Kondisyon,Dumbbell Only,2,40.86,KILO_ALMA
+47,0,168.0,103.0,1.725,Omuz,2.507543773925949,1,Güç ve Kondisyon,Full Gym,4,36.49,KILO_ALMA
+39,0,189.0,85.3,1.55,Ayak Bileği,0.0,2,Güç ve Kondisyon,Bodyweight,5,23.88,PPL_SPLIT
+26,0,169.9,60.3,1.9,Omuz,0.0,1,Güç ve Kondisyon,Dumbbell Only,4,20.89,PPL_SPLIT
+26,1,165.0,54.2,1.2,Yok,0.0,8,Güç ve Kondisyon,Dumbbell Only,5,19.91,PPL_SPLIT
+28,0,162.0,76.3,1.725,Diz,0.0,1,Kilo Verme,Full Gym,4,29.07,YAG_YAKIMI
+44,0,197.0,86.6,1.725,Diz,0.0,2,Güç ve Kondisyon,Full Gym,3,22.31,PPL_SPLIT
+48,0,156.0,56.0,1.9,Diz,4.695616390823572,1,Sakatlık Sonrası,Full Gym,5,23.01,YAG_YAKIMI
+38,0,163.4,48.4,1.55,Yok,4.6,12,Sakatlık Sonrası,Bodyweight,5,18.13,REHABILITASYON
+55,1,176.0,62.0,1.725,Bel,3.2114907746546484,7,Kas Kazanımı,Bodyweight,3,20.02,REHABILITASYON
+24,0,167.0,51.0,1.725,Bel,0.0,10,Kas Kazanımı,Bodyweight,4,18.29,KILO_ALMA
+42,0,198.0,62.9,1.55,Ayak Bileği,0.0,4,Kas Kazanımı,Bodyweight,4,16.04,KILO_ALMA
+56,1,158.0,67.7,1.725,Yok,0.0,12,Güç ve Kondisyon,Bodyweight,3,27.12,PPL_SPLIT
+52,0,183.0,86.0,1.55,Bel,3.3858403273946323,8,Sakatlık Sonrası,Bodyweight,5,25.68,PPL_SPLIT
+27,1,182.0,102.0,1.375,Diz,4.589889934117984,6,Kilo Verme,Full Gym,5,30.79,PPL_SPLIT
+35,0,158.0,81.0,1.9,Bel,2.217426964510931,0,Kas Kazanımı,Full Gym,5,32.45,PPL_SPLIT
+46,0,180.0,69.0,1.9,Omuz,1.0440035227775173,4,Kas Kazanımı,Full Gym,4,21.3,YAG_YAKIMI
+25,1,171.0,64.4,1.725,Bel,0.0,9,Güç ve Kondisyon,Dumbbell Only,4,22.02,PPL_SPLIT
+25,1,175.0,63.0,1.725,Diz,0.1848109726850355,2,Kilo Verme,Full Gym,4,20.57,KILO_ALMA
+57,0,174.0,96.1,1.375,Ayak Bileği,0.0,9,Kilo Verme,Bodyweight,3,31.74,YAG_YAKIMI
+46,0,187.0,72.6,1.55,Ayak Bileği,0.0,7,Güç ve Kondisyon,Bodyweight,3,20.76,PPL_SPLIT
+48,0,195.0,117.0,1.375,Ayak Bileği,2.767136167027087,7,Güç ve Kondisyon,Dumbbell Only,2,30.77,REHABILITASYON
+49,1,173.0,78.9,1.725,Bel,0.0,5,Güç ve Kondisyon,Full Gym,3,26.36,PPL_SPLIT
+36,0,174.5,48.7,1.725,Diz,4.7,8,Sakatlık Sonrası,Full Gym,4,15.99,REHABILITASYON
+43,0,182.0,55.5,1.2,Omuz,0.0,1,Kas Kazanımı,Full Gym,3,16.76,KILO_ALMA
+52,1,163.0,78.0,1.55,Yok,3.46495625667112,9,Kas Kazanımı,Full Gym,5,29.36,REHABILITASYON
+32,0,192.0,81.0,1.9,Diz,0.5633049301623855,0,Güç ve Kondisyon,Bodyweight,4,21.97,KILO_ALMA
+29,0,166.2,54.0,1.375,Omuz,0.1,10,Güç ve Kondisyon,Bodyweight,4,19.55,PPL_SPLIT
+20,0,194.0,92.3,1.9,Diz,0.0,13,Güç ve Kondisyon,Full Gym,4,24.52,PPL_SPLIT
+35,0,192.0,87.0,1.9,Diz,4.264847910935451,7,Kilo Verme,Bodyweight,5,23.6,PPL_SPLIT
+39,1,164.0,68.6,1.55,Omuz,0.0,13,Güç ve Kondisyon,Bodyweight,4,25.51,PPL_SPLIT
+34,1,185.0,87.0,1.9,Diz,1.3219161835651294,6,Kilo Verme,Full Gym,3,25.42,KILO_ALMA
+26,1,178.8,63.8,1.9,Bel,0.5,3,Güç ve Kondisyon,Full Gym,3,19.96,PPL_SPLIT
+39,0,199.0,105.5,1.375,Yok,0.0,7,Güç ve Kondisyon,Bodyweight,5,26.64,PPL_SPLIT
+23,1,178.0,59.0,1.55,Ayak Bileği,0.0,5,Kas Kazanımı,Full Gym,5,18.62,KILO_ALMA
+51,0,184.0,77.0,1.375,Omuz,1.6357536477242425,2,Güç ve Kondisyon,Bodyweight,4,22.74,YAG_YAKIMI
+28,0,157.2,63.9,1.375,Ayak Bileği,0.9,11,Güç ve Kondisyon,Bodyweight,5,25.86,PPL_SPLIT
+47,0,171.0,66.2,1.55,Omuz,0.0,1,Güç ve Kondisyon,Bodyweight,5,22.64,PPL_SPLIT
+29,0,169.6,56.9,1.9,Yok,0.8,3,Güç ve Kondisyon,Bodyweight,4,19.78,PPL_SPLIT
+27,0,163.7,45.0,1.9,Ayak Bileği,0.9,0,Kas Kazanımı,Full Gym,4,16.79,KILO_ALMA
+28,0,190.0,66.0,1.55,Ayak Bileği,0.0,4,Kas Kazanımı,Dumbbell Only,3,18.28,KILO_ALMA
+45,1,193.0,60.0,1.2,Bel,2.681600448363195,9,Sakatlık Sonrası,Full Gym,3,16.11,YAG_YAKIMI
+45,0,158.0,56.0,1.55,Yok,2.391106494911193,2,Güç ve Kondisyon,Bodyweight,4,22.43,KILO_ALMA
+40,0,162.0,109.0,1.55,Omuz,0.2817449647010245,5,Kilo Verme,Bodyweight,3,41.53,PPL_SPLIT
+41,0,162.0,94.1,1.2,Diz,0.0,12,Kilo Verme,Full Gym,5,35.86,YAG_YAKIMI
+59,1,181.0,79.0,1.2,Bel,3.5819414207296365,8,Sakatlık Sonrası,Bodyweight,4,24.11,PPL_SPLIT
+57,1,156.0,64.4,1.725,Ayak Bileği,0.0,13,Güç ve Kondisyon,Full Gym,3,26.46,PPL_SPLIT
+43,1,172.0,53.8,1.375,Omuz,0.0,1,Kas Kazanımı,Dumbbell Only,3,18.19,KILO_ALMA
+19,0,185.0,85.9,1.375,Omuz,0.0,4,Güç ve Kondisyon,Full Gym,4,25.1,PPL_SPLIT
+37,1,158.0,73.0,1.375,Yok,3.323655146370572,0,Kas Kazanımı,Bodyweight,4,29.24,REHABILITASYON
+50,0,168.0,89.6,1.2,Omuz,0.0,5,Kilo Verme,Full Gym,4,31.75,YAG_YAKIMI
+27,0,158.0,68.0,1.375,Bel,1.0556176855875528,1,Kas Kazanımı,Bodyweight,5,27.24,YAG_YAKIMI
+22,0,159.7,45.0,1.725,Diz,0.8,14,Kas Kazanımı,Bodyweight,4,17.64,KILO_ALMA
+30,1,179.7,71.7,1.9,Ayak Bileği,0.1,10,Güç ve Kondisyon,Bodyweight,3,22.2,PPL_SPLIT
+23,1,162.0,65.2,1.375,Ayak Bileği,0.0,12,Güç ve Kondisyon,Bodyweight,4,24.84,PPL_SPLIT
+24,0,174.0,54.7,1.9,Diz,0.0,7,Kas Kazanımı,Full Gym,5,18.07,KILO_ALMA
+20,1,162.7,84.6,1.375,Yok,0.8,14,Kilo Verme,Full Gym,3,31.96,YAG_YAKIMI
+32,0,189.0,59.0,1.725,Omuz,2.0906035272648182,6,Kilo Verme,Full Gym,4,16.52,REHABILITASYON
+53,1,174.0,53.3,1.725,Bel,0.0,5,Kas Kazanımı,Dumbbell Only,5,17.6,KILO_ALMA
+24,0,158.1,51.4,1.375,Diz,0.3,2,Güç ve Kondisyon,Dumbbell Only,5,20.56,PPL_SPLIT
+50,1,150.0,51.8,1.9,Omuz,0.0,7,Güç ve Kondisyon,Bodyweight,4,23.02,PPL_SPLIT
+46,1,165.0,60.1,1.375,Yok,0.0,1,Güç ve Kondisyon,Bodyweight,4,22.08,PPL_SPLIT
+46,1,174.0,93.0,1.2,Yok,2.9890075998538963,3,Sakatlık Sonrası,Bodyweight,5,30.72,PPL_SPLIT
+48,0,161.0,129.2,1.2,Ayak Bileği,0.0,14,Kilo Verme,Full Gym,5,49.84,YAG_YAKIMI
+58,1,159.0,61.0,1.375,Diz,1.9516628258799629,2,Güç ve Kondisyon,Full Gym,4,24.13,KILO_ALMA
+31,1,171.0,77.4,1.2,Omuz,0.0,9,Güç ve Kondisyon,Bodyweight,3,26.47,PPL_SPLIT
+27,1,158.0,73.0,1.2,Omuz,1.607228632986322,7,Güç ve Kondisyon,Bodyweight,5,29.24,KILO_ALMA
+21,1,174.8,61.4,1.2,Ayak Bileği,0.7,9,Güç ve Kondisyon,Full Gym,4,20.09,PPL_SPLIT
+21,0,160.0,88.4,1.375,Yok,0.0,6,Kilo Verme,Bodyweight,4,34.53,YAG_YAKIMI
+23,1,158.0,41.9,1.55,Yok,0.0,5,Kas Kazanımı,Dumbbell Only,4,16.78,KILO_ALMA
+25,1,162.0,41.2,1.375,Bel,0.0,11,Kas Kazanımı,Dumbbell Only,4,15.7,KILO_ALMA
+18,0,164.0,85.0,1.375,Bel,1.4356206501792903,0,Sakatlık Sonrası,Bodyweight,4,31.6,PPL_SPLIT
+20,1,178.0,75.8,1.375,Bel,0.0,12,Güç ve Kondisyon,Bodyweight,4,23.92,PPL_SPLIT
+19,0,164.2,58.1,1.9,Omuz,4.2,11,Sakatlık Sonrası,Bodyweight,3,21.55,REHABILITASYON
+21,1,175.0,71.0,1.9,Omuz,3.474604474438295,0,Kas Kazanımı,Bodyweight,4,23.18,PPL_SPLIT
+47,0,184.0,88.0,1.55,Bel,3.018250303094373,6,Sakatlık Sonrası,Bodyweight,5,25.99,PPL_SPLIT
+28,0,161.7,47.1,1.2,Yok,4.4,13,Sakatlık Sonrası,Dumbbell Only,4,18.01,REHABILITASYON
+54,1,172.0,75.6,1.9,Yok,0.0,3,Güç ve Kondisyon,Dumbbell Only,5,25.55,PPL_SPLIT
+26,1,172.7,59.9,1.375,Ayak Bileği,0.5,8,Güç ve Kondisyon,Bodyweight,3,20.08,PPL_SPLIT
+57,1,175.0,43.8,1.2,Bel,0.0,13,Kas Kazanımı,Full Gym,4,14.3,KILO_ALMA
+37,1,177.3,67.2,1.725,Omuz,0.2,10,Güç ve Kondisyon,Dumbbell Only,5,21.38,PPL_SPLIT
+33,0,163.4,52.7,1.375,Diz,0.3,7,Güç ve Kondisyon,Dumbbell Only,4,19.74,PPL_SPLIT
+24,1,151.0,58.9,1.375,Diz,0.0,14,Güç ve Kondisyon,Dumbbell Only,3,25.83,PPL_SPLIT
+31,1,165.0,48.2,1.375,Omuz,0.0,6,Kas Kazanımı,Bodyweight,5,17.7,KILO_ALMA
+41,1,168.0,63.0,1.2,Bel,3.4511971605255787,4,Güç ve Kondisyon,Bodyweight,4,22.32,KILO_ALMA
+39,0,174.8,45.0,1.55,Bel,0.7,3,Kas Kazanımı,Dumbbell Only,3,14.73,KILO_ALMA
+52,1,152.0,65.9,1.9,Diz,0.0,8,Kilo Verme,Bodyweight,5,28.52,YAG_YAKIMI
+36,1,174.0,58.1,1.9,Diz,0.4,6,Güç ve Kondisyon,Dumbbell Only,4,19.19,PPL_SPLIT
+32,0,188.0,87.9,1.55,Diz,0.0,13,Güç ve Kondisyon,Full Gym,5,24.87,PPL_SPLIT
+54,0,190.0,78.4,1.9,Yok,0.0,2,Güç ve Kondisyon,Bodyweight,5,21.72,PPL_SPLIT
+55,0,155.0,116.0,1.375,Omuz,0.17123898507006186,13,Sakatlık Sonrası,Bodyweight,3,48.28,KILO_ALMA
+41,0,166.0,71.0,1.9,Bel,0.7738806615837746,7,Sakatlık Sonrası,Full Gym,5,25.77,PPL_SPLIT
+32,0,182.0,96.0,1.375,Yok,0.8131709468978554,8,Kilo Verme,Full Gym,3,28.98,REHABILITASYON
+50,1,177.0,67.9,1.9,Bel,0.0,10,Güç ve Kondisyon,Dumbbell Only,3,21.67,PPL_SPLIT
+22,0,162.0,88.5,1.2,Bel,0.0,14,Kilo Verme,Full Gym,4,33.72,YAG_YAKIMI
+39,0,163.5,50.7,1.9,Bel,0.5,1,Kas Kazanımı,Full Gym,5,18.97,KILO_ALMA
+26,0,150.1,45.0,1.55,Yok,0.9,1,Güç ve Kondisyon,Bodyweight,3,19.97,PPL_SPLIT
+22,0,163.4,57.2,1.9,Omuz,0.9,4,Güç ve Kondisyon,Full Gym,5,21.42,PPL_SPLIT
+31,1,167.0,66.0,1.725,Bel,2.7438617978810003,0,Kas Kazanımı,Full Gym,4,23.67,YAG_YAKIMI
+23,0,166.6,55.0,1.9,Diz,0.8,3,Güç ve Kondisyon,Bodyweight,5,19.82,PPL_SPLIT
+19,1,175.0,69.0,1.55,Diz,0.7840514785997987,7,Kilo Verme,Bodyweight,5,22.53,KILO_ALMA
+38,0,180.0,85.8,1.375,Bel,0.0,10,Güç ve Kondisyon,Bodyweight,3,26.48,PPL_SPLIT
+53,1,171.0,77.0,1.375,Yok,3.3672109294422112,5,Kilo Verme,Full Gym,5,26.33,PPL_SPLIT
+30,1,167.0,62.7,1.55,Diz,0.0,1,Güç ve Kondisyon,Full Gym,5,22.48,PPL_SPLIT
+25,1,176.0,55.3,1.2,Omuz,0.0,10,Kas Kazanımı,Full Gym,5,17.85,KILO_ALMA
+52,1,192.0,66.0,1.375,Bel,2.8999199948208614,6,Kilo Verme,Full Gym,3,17.9,PPL_SPLIT
+58,0,175.0,109.7,1.2,Diz,0.0,11,Kilo Verme,Dumbbell Only,5,35.82,YAG_YAKIMI
+25,0,184.0,91.0,1.725,Diz,2.5031416262921664,2,Kas Kazanımı,Bodyweight,4,26.88,YAG_YAKIMI
+23,1,163.0,115.0,1.725,Omuz,4.228992394572995,12,Kas Kazanımı,Dumbbell Only,5,43.28,YAG_YAKIMI
+29,0,161.0,55.7,1.2,Ayak Bileği,0.0,13,Güç ve Kondisyon,Bodyweight,4,21.49,PPL_SPLIT
+26,1,166.7,60.6,1.55,Ayak Bileği,1.0,10,Güç ve Kondisyon,Bodyweight,5,21.81,PPL_SPLIT
+28,0,189.0,84.0,1.2,Diz,0.1820916321151056,4,Kas Kazanımı,Full Gym,5,23.52,PPL_SPLIT
+27,0,176.0,75.7,1.2,Bel,0.0,4,Güç ve Kondisyon,Bodyweight,3,24.44,PPL_SPLIT
+57,0,183.0,83.0,1.9,Diz,2.431825328554554,9,Güç ve Kondisyon,Bodyweight,5,24.78,REHABILITASYON
+40,0,193.0,93.6,1.375,Ayak Bileği,0.0,9,Güç ve Kondisyon,Bodyweight,5,25.13,PPL_SPLIT
+55,0,168.0,128.4,1.725,Omuz,0.0,3,Kilo Verme,Dumbbell Only,5,45.49,YAG_YAKIMI
+41,0,181.0,73.0,1.725,Diz,3.93337167970176,8,Güç ve Kondisyon,Bodyweight,4,22.28,KILO_ALMA
+59,0,167.0,85.5,1.2,Diz,0.0,0,Kilo Verme,Bodyweight,3,30.66,YAG_YAKIMI
+39,1,160.0,55.4,1.375,Diz,0.0,3,Güç ve Kondisyon,Full Gym,4,21.64,PPL_SPLIT
+39,0,177.0,52.0,1.725,Omuz,0.6086666663348667,11,Güç ve Kondisyon,Bodyweight,2,16.6,KILO_ALMA
+42,0,164.0,50.3,1.2,Yok,0.0,6,Kas Kazanımı,Bodyweight,3,18.7,KILO_ALMA
+23,1,183.9,63.1,1.725,Diz,4.9,4,Sakatlık Sonrası,Full Gym,3,18.66,REHABILITASYON
+45,0,161.0,76.0,1.55,Bel,0.1899335591809864,3,Kas Kazanımı,Bodyweight,5,29.32,REHABILITASYON
+48,0,166.0,68.0,1.2,Yok,4.919276010735908,3,Kas Kazanımı,Full Gym,3,24.68,YAG_YAKIMI
+41,1,164.0,93.0,1.375,Yok,1.9485007610825704,6,Güç ve Kondisyon,Full Gym,3,34.58,KILO_ALMA
+50,1,173.0,71.0,1.2,Bel,4.211946136571956,6,Kilo Verme,Full Gym,5,23.72,REHABILITASYON
+51,0,168.0,70.0,1.9,Bel,4.596365887711587,3,Kas Kazanımı,Full Gym,4,24.8,PPL_SPLIT
+18,0,184.0,82.3,1.725,Diz,0.0,8,Güç ve Kondisyon,Full Gym,5,24.31,PPL_SPLIT
+50,0,196.0,69.6,1.375,Ayak Bileği,0.0,10,Kas Kazanımı,Bodyweight,3,18.12,KILO_ALMA
+39,1,174.9,80.0,1.375,Omuz,0.9,3,Güç ve Kondisyon,Dumbbell Only,5,26.15,PPL_SPLIT
+35,0,194.0,102.5,1.375,Omuz,0.0,5,Güç ve Kondisyon,Bodyweight,3,27.23,PPL_SPLIT
+43,1,180.0,72.7,1.375,Yok,0.0,2,Güç ve Kondisyon,Dumbbell Only,5,22.44,PPL_SPLIT
+28,1,191.0,65.0,1.375,Diz,3.053434498411567,6,Güç ve Kondisyon,Full Gym,5,17.82,REHABILITASYON
+42,0,198.0,63.7,1.2,Diz,0.0,3,Kas Kazanımı,Dumbbell Only,3,16.25,KILO_ALMA
+32,1,166.0,68.1,1.9,Diz,0.0,3,Güç ve Kondisyon,Dumbbell Only,5,24.71,PPL_SPLIT
+19,0,160.3,59.4,1.2,Omuz,0.5,3,Güç ve Kondisyon,Full Gym,4,23.12,PPL_SPLIT
+22,0,156.8,45.0,1.55,Yok,0.4,0,Kas Kazanımı,Full Gym,5,18.3,KILO_ALMA
+59,0,162.0,89.4,1.725,Omuz,0.0,11,Kilo Verme,Dumbbell Only,3,34.06,YAG_YAKIMI
+38,1,175.8,56.1,1.375,Yok,0.7,8,Kas Kazanımı,Dumbbell Only,4,18.15,KILO_ALMA
+45,0,179.0,46.6,1.2,Yok,0.0,8,Kas Kazanımı,Full Gym,3,14.54,KILO_ALMA
+50,0,167.0,101.7,1.725,Ayak Bileği,0.0,13,Kilo Verme,Full Gym,4,36.47,YAG_YAKIMI
+31,1,164.0,63.1,1.375,Diz,0.0,8,Güç ve Kondisyon,Full Gym,3,23.46,PPL_SPLIT
+35,1,162.0,65.8,1.55,Ayak Bileği,0.0,6,Güç ve Kondisyon,Bodyweight,4,25.07,PPL_SPLIT
+45,1,162.0,73.0,1.55,Bel,4.110210961383603,4,Kas Kazanımı,Full Gym,3,27.82,YAG_YAKIMI
+24,0,159.8,54.7,1.55,Bel,4.5,11,Sakatlık Sonrası,Full Gym,5,21.42,REHABILITASYON
+30,1,166.0,76.0,1.9,Yok,4.728182881985637,5,Kilo Verme,Bodyweight,5,27.58,PPL_SPLIT
+54,0,155.0,62.0,1.375,Diz,0.1425184840655563,0,Kas Kazanımı,Full Gym,4,25.81,YAG_YAKIMI
+18,0,191.0,104.0,1.55,Ayak Bileği,1.3927997753271093,0,Kas Kazanımı,Full Gym,3,28.51,YAG_YAKIMI
+19,0,177.0,89.0,1.725,Diz,0.0,14,Güç ve Kondisyon,Full Gym,5,28.41,PPL_SPLIT
+43,0,176.0,110.0,1.9,Bel,0.0,13,Kilo Verme,Dumbbell Only,4,35.51,YAG_YAKIMI
+30,1,174.8,79.4,1.2,Ayak Bileği,4.0,6,Sakatlık Sonrası,Bodyweight,5,25.99,REHABILITASYON
+44,0,185.0,124.8,1.375,Yok,0.0,12,Kilo Verme,Full Gym,4,36.46,YAG_YAKIMI
+36,0,176.0,74.0,1.2,Bel,2.7123247879963253,1,Sakatlık Sonrası,Full Gym,3,23.89,KILO_ALMA
+34,0,164.0,88.0,1.9,Diz,0.0,7,Kilo Verme,Bodyweight,5,32.72,YAG_YAKIMI
+48,0,174.0,69.0,1.375,Ayak Bileği,0.0,13,Güç ve Kondisyon,Dumbbell Only,3,22.79,PPL_SPLIT
+38,1,174.1,84.3,1.375,Bel,0.7,10,Güç ve Kondisyon,Bodyweight,4,27.81,PPL_SPLIT
+34,1,152.0,54.2,1.2,Diz,0.0,0,Güç ve Kondisyon,Bodyweight,3,23.46,PPL_SPLIT
+22,1,180.3,76.7,1.9,Ayak Bileği,0.2,3,Güç ve Kondisyon,Dumbbell Only,3,23.59,PPL_SPLIT
+43,1,165.0,42.2,1.55,Ayak Bileği,0.0,5,Kas Kazanımı,Dumbbell Only,5,15.5,KILO_ALMA
+62,1,185.0,76.0,1.725,Diz,3.255662740341971,4,Güç ve Kondisyon,Bodyweight,3,22.21,YAG_YAKIMI
+21,0,161.0,67.0,1.2,Omuz,0.0,2,Güç ve Kondisyon,Dumbbell Only,3,25.85,PPL_SPLIT
+42,1,174.0,77.0,1.9,Yok,4.320756656932563,0,Güç ve Kondisyon,Full Gym,4,25.43,KILO_ALMA
+36,1,176.0,65.0,1.2,Diz,1.0831277193589284,0,Kilo Verme,Full Gym,3,20.98,PPL_SPLIT
+47,0,184.0,82.1,1.55,Diz,0.0,11,Güç ve Kondisyon,Dumbbell Only,5,24.25,PPL_SPLIT
+50,1,169.0,75.0,1.725,Omuz,0.3166287585971922,4,Kas Kazanımı,Full Gym,3,26.26,REHABILITASYON
+54,0,180.0,97.0,1.9,Diz,0.1765798699952198,0,Kilo Verme,Full Gym,3,29.94,REHABILITASYON
+50,1,155.0,89.0,1.2,Bel,0.0352005138784566,9,Kas Kazanımı,Full Gym,4,37.04,REHABILITASYON
+20,0,192.0,85.7,1.725,Yok,0.0,12,Güç ve Kondisyon,Dumbbell Only,4,23.25,PPL_SPLIT
+55,1,169.0,42.9,1.9,Diz,0.0,2,Kas Kazanımı,Dumbbell Only,3,15.02,KILO_ALMA
+63,0,152.0,67.0,1.55,Diz,0.3689851514367187,10,Kilo Verme,Dumbbell Only,5,29.0,REHABILITASYON
+23,1,191.0,87.0,1.9,Bel,3.006982212232713,0,Kas Kazanımı,Full Gym,5,23.85,REHABILITASYON
+36,1,178.0,59.1,1.375,Ayak Bileği,0.0,3,Kas Kazanımı,Full Gym,5,18.65,KILO_ALMA
+25,0,183.0,120.6,1.2,Bel,0.0,7,Kilo Verme,Bodyweight,3,36.01,YAG_YAKIMI
+21,0,170.9,52.6,1.375,Yok,0.6,5,Kas Kazanımı,Dumbbell Only,3,18.01,KILO_ALMA
+54,1,165.0,43.8,1.55,Omuz,0.0,14,Kas Kazanımı,Bodyweight,4,16.09,KILO_ALMA
+35,1,164.0,78.9,1.2,Bel,0.0,9,Kilo Verme,Bodyweight,3,29.34,YAG_YAKIMI
+36,0,168.7,73.6,1.55,Diz,0.5,14,Güç ve Kondisyon,Bodyweight,4,25.86,PPL_SPLIT
+19,0,185.0,95.1,1.375,Diz,0.0,0,Güç ve Kondisyon,Bodyweight,4,27.79,PPL_SPLIT
+44,1,176.0,48.0,1.2,Diz,0.0,5,Kas Kazanımı,Full Gym,5,15.5,KILO_ALMA
+52,1,184.0,103.0,1.55,Yok,2.800598777542285,4,Kilo Verme,Bodyweight,3,30.42,REHABILITASYON
+30,1,175.7,72.4,1.2,Diz,0.4,6,Güç ve Kondisyon,Bodyweight,5,23.45,PPL_SPLIT
+28,0,164.0,49.1,1.725,Yok,0.3,14,Kas Kazanımı,Full Gym,5,18.26,KILO_ALMA
+36,0,171.0,88.0,1.55,Diz,0.0,14,Kilo Verme,Dumbbell Only,3,30.09,YAG_YAKIMI
+39,1,156.0,63.6,1.725,Ayak Bileği,0.0,13,Güç ve Kondisyon,Full Gym,4,26.13,PPL_SPLIT
+38,1,167.0,61.0,1.9,Diz,4.779597829639664,2,Kilo Verme,Full Gym,5,21.87,PPL_SPLIT
+33,0,167.3,58.1,1.375,Yok,0.0,0,Güç ve Kondisyon,Bodyweight,4,20.76,PPL_SPLIT
+20,1,178.0,64.3,1.2,Diz,0.0,3,Güç ve Kondisyon,Bodyweight,5,20.29,PPL_SPLIT
+38,0,169.1,63.8,1.2,Yok,4.6,4,Sakatlık Sonrası,Bodyweight,5,22.31,REHABILITASYON
+54,0,162.0,117.2,1.2,Diz,0.0,8,Kilo Verme,Dumbbell Only,4,44.66,YAG_YAKIMI
+25,1,174.3,74.1,1.725,Bel,0.3,2,Güç ve Kondisyon,Bodyweight,3,24.39,PPL_SPLIT
+21,0,165.0,79.0,1.2,Yok,2.1576461061252266,2,Kilo Verme,Bodyweight,3,29.02,PPL_SPLIT
+20,0,164.4,45.0,1.725,Ayak Bileği,0.1,11,Kas Kazanımı,Full Gym,5,16.65,KILO_ALMA
+37,0,177.0,76.3,1.725,Yok,0.0,6,Güç ve Kondisyon,Dumbbell Only,5,24.35,PPL_SPLIT
+27,1,161.0,61.0,1.55,Yok,1.0422283024629393,7,Güç ve Kondisyon,Full Gym,5,23.53,YAG_YAKIMI
+32,1,166.1,76.9,1.375,Yok,0.6,9,Güç ve Kondisyon,Full Gym,4,27.87,PPL_SPLIT
+47,0,193.0,45.9,1.2,Diz,0.0,6,Kas Kazanımı,Full Gym,5,12.32,KILO_ALMA
+19,0,155.9,53.1,1.2,Bel,0.3,5,Güç ve Kondisyon,Dumbbell Only,4,21.85,PPL_SPLIT
+18,1,168.0,68.1,1.2,Bel,4.9,2,Sakatlık Sonrası,Full Gym,5,24.13,REHABILITASYON
+51,1,155.0,74.6,1.375,Omuz,0.0,5,Kilo Verme,Full Gym,4,31.05,YAG_YAKIMI
+47,1,176.0,61.0,1.725,Diz,0.0,13,Güç ve Kondisyon,Bodyweight,5,19.69,PPL_SPLIT
+54,1,161.0,75.6,1.9,Diz,0.0,12,Kilo Verme,Full Gym,3,29.17,YAG_YAKIMI
+56,0,192.0,55.6,1.725,Ayak Bileği,0.0,7,Kas Kazanımı,Full Gym,4,15.08,KILO_ALMA
+22,0,186.0,75.0,1.375,Omuz,3.858849005159921,8,Güç ve Kondisyon,Full Gym,5,21.68,YAG_YAKIMI
+21,1,181.6,80.8,1.375,Ayak Bileği,4.6,9,Sakatlık Sonrası,Full Gym,3,24.5,REHABILITASYON
+18,0,164.0,118.6,1.375,Bel,0.0,5,Kilo Verme,Bodyweight,3,44.1,YAG_YAKIMI
+27,0,161.0,80.7,1.375,Yok,0.0,14,Kilo Verme,Dumbbell Only,4,31.13,YAG_YAKIMI
+35,0,168.4,52.4,1.2,Yok,0.0,11,Kas Kazanımı,Bodyweight,3,18.48,KILO_ALMA
+31,1,168.1,75.7,1.2,Omuz,4.7,9,Sakatlık Sonrası,Full Gym,4,26.79,REHABILITASYON
+22,1,154.0,63.2,1.375,Ayak Bileği,0.0,9,Güç ve Kondisyon,Bodyweight,4,26.65,PPL_SPLIT
+39,0,183.0,59.7,1.9,Ayak Bileği,0.0,12,Kas Kazanımı,Full Gym,4,17.83,KILO_ALMA
+20,1,162.0,75.0,1.55,Yok,0.9941072797631184,5,Güç ve Kondisyon,Full Gym,3,28.58,REHABILITASYON
+35,1,173.1,81.3,1.2,Yok,0.3,4,Güç ve Kondisyon,Full Gym,3,27.13,PPL_SPLIT
+37,0,182.0,76.9,1.725,Diz,0.0,1,Güç ve Kondisyon,Full Gym,5,23.22,PPL_SPLIT
+31,1,180.0,63.2,1.725,Yok,0.0,13,Güç ve Kondisyon,Full Gym,5,19.51,PPL_SPLIT
+33,0,155.5,59.7,1.375,Diz,0.3,4,Güç ve Kondisyon,Bodyweight,5,24.69,PPL_SPLIT
+34,1,174.0,107.0,1.375,Omuz,4.161164728544399,13,Güç ve Kondisyon,Full Gym,3,35.34,YAG_YAKIMI
+47,0,164.0,87.2,1.2,Yok,0.0,9,Kilo Verme,Full Gym,3,32.42,YAG_YAKIMI
+38,1,168.0,45.2,1.2,Bel,0.0,9,Kas Kazanımı,Full Gym,5,16.01,KILO_ALMA
+36,0,165.0,94.0,1.2,Bel,2.584701978497215,3,Kas Kazanımı,Full Gym,5,34.53,PPL_SPLIT
+38,1,169.2,65.2,1.2,Diz,4.2,3,Sakatlık Sonrası,Dumbbell Only,3,22.77,REHABILITASYON
+31,1,171.1,79.0,1.725,Diz,4.0,6,Sakatlık Sonrası,Dumbbell Only,4,26.99,REHABILITASYON
+18,1,156.0,57.0,1.9,Omuz,1.2846052583085454,3,Güç ve Kondisyon,Bodyweight,5,23.42,KILO_ALMA
+22,1,177.0,71.6,1.9,Diz,0.0,1,Güç ve Kondisyon,Dumbbell Only,4,22.85,PPL_SPLIT
+58,1,158.0,59.3,1.2,Omuz,0.0,4,Güç ve Kondisyon,Bodyweight,3,23.75,PPL_SPLIT
+43,0,178.0,69.0,1.725,Diz,2.7504518584993685,9,Kas Kazanımı,Full Gym,3,21.78,YAG_YAKIMI
+50,0,161.0,95.4,1.55,Ayak Bileği,0.0,10,Kilo Verme,Full Gym,5,36.8,YAG_YAKIMI
+22,0,160.7,45.8,1.725,Ayak Bileği,0.4,1,Kas Kazanımı,Bodyweight,5,17.74,KILO_ALMA
+27,0,168.5,51.0,1.375,Yok,0.3,11,Kas Kazanımı,Dumbbell Only,3,17.96,KILO_ALMA
+42,1,177.0,46.6,1.9,Ayak Bileği,0.0,1,Kas Kazanımı,Full Gym,4,14.87,KILO_ALMA
+45,1,175.0,109.0,1.725,Diz,2.209161291142401,9,Güç ve Kondisyon,Full Gym,3,35.59,KILO_ALMA
+29,0,157.0,95.0,1.375,Diz,2.510676316827682,6,Kas Kazanımı,Bodyweight,5,38.54,REHABILITASYON
+41,1,172.0,64.0,1.375,Bel,3.33948671266435,4,Sakatlık Sonrası,Bodyweight,5,21.63,YAG_YAKIMI
+21,0,193.0,86.0,1.55,Yok,4.788057657894796,0,Kilo Verme,Full Gym,4,23.09,PPL_SPLIT
+34,1,162.0,64.3,1.9,Ayak Bileği,0.0,8,Güç ve Kondisyon,Bodyweight,4,24.5,PPL_SPLIT
+44,0,179.0,76.0,1.55,Omuz,2.5903115769338534,7,Kilo Verme,Bodyweight,2,23.72,REHABILITASYON
+40,0,163.4,61.6,1.725,Bel,4.2,12,Sakatlık Sonrası,Full Gym,5,23.07,REHABILITASYON
+39,1,169.3,89.4,1.9,Bel,4.4,7,Sakatlık Sonrası,Bodyweight,5,31.19,REHABILITASYON
+49,0,189.0,57.2,1.9,Diz,0.0,10,Kas Kazanımı,Bodyweight,4,16.01,KILO_ALMA
+44,0,179.0,82.5,1.2,Diz,0.0,12,Güç ve Kondisyon,Bodyweight,3,25.75,PPL_SPLIT
+23,0,171.0,108.0,1.375,Yok,1.2741560094235478,4,Güç ve Kondisyon,Full Gym,3,36.93,REHABILITASYON
+32,0,192.0,108.0,1.9,Yok,2.600703474260708,3,Sakatlık Sonrası,Full Gym,3,29.3,PPL_SPLIT
+47,0,165.0,82.0,1.9,Omuz,4.835441384370755,0,Sakatlık Sonrası,Bodyweight,4,30.12,KILO_ALMA
+19,0,189.0,92.0,1.2,Yok,0.2632194870870502,8,Kilo Verme,Full Gym,4,25.76,REHABILITASYON
+32,0,165.0,116.0,1.9,Ayak Bileği,4.001616253060711,10,Sakatlık Sonrası,Dumbbell Only,2,42.61,KILO_ALMA
+29,0,166.6,59.8,1.9,Omuz,0.5,10,Güç ve Kondisyon,Full Gym,3,21.55,PPL_SPLIT
+27,0,162.3,51.8,1.2,Yok,4.9,10,Sakatlık Sonrası,Bodyweight,3,19.66,REHABILITASYON
+18,0,186.0,79.0,1.725,Bel,0.5371083621672301,3,Kas Kazanımı,Full Gym,5,22.84,YAG_YAKIMI
+49,1,181.0,109.0,1.2,Bel,2.2903853138595007,1,Kas Kazanımı,Bodyweight,4,33.27,PPL_SPLIT
+32,0,185.0,62.0,1.725,Diz,2.9497202928429185,3,Kas Kazanımı,Bodyweight,3,18.12,PPL_SPLIT
+40,0,164.0,48.4,1.375,Omuz,0.6,10,Kas Kazanımı,Dumbbell Only,4,18.0,KILO_ALMA
+25,1,151.0,59.4,1.725,Yok,0.0,2,Güç ve Kondisyon,Dumbbell Only,5,26.05,PPL_SPLIT
+25,1,168.0,63.8,1.9,Omuz,0.0,7,Güç ve Kondisyon,Full Gym,5,22.6,PPL_SPLIT
+50,0,171.0,90.8,1.9,Ayak Bileği,0.0,13,Kilo Verme,Full Gym,3,31.05,YAG_YAKIMI
+59,0,189.0,86.0,1.55,Yok,1.4019749711472185,9,Kilo Verme,Full Gym,4,24.08,PPL_SPLIT
+53,1,156.0,72.0,1.55,Bel,2.506919793976868,6,Güç ve Kondisyon,Full Gym,4,29.59,REHABILITASYON
+22,0,168.0,117.3,1.2,Omuz,0.0,14,Kilo Verme,Dumbbell Only,5,41.56,YAG_YAKIMI
+33,0,178.0,100.0,1.9,Bel,0.7561250398149238,3,Sakatlık Sonrası,Full Gym,5,31.56,PPL_SPLIT
+30,0,188.0,64.0,1.2,Diz,4.340662617181587,4,Kas Kazanımı,Bodyweight,3,18.11,REHABILITASYON
+37,0,189.0,107.0,1.9,Yok,4.2666618912315615,11,Kas Kazanımı,Bodyweight,4,29.95,YAG_YAKIMI
+50,1,168.0,71.0,1.9,Yok,0.0,12,Güç ve Kondisyon,Dumbbell Only,4,25.16,PPL_SPLIT
+18,0,156.2,51.2,1.2,Yok,0.9,14,Güç ve Kondisyon,Dumbbell Only,5,20.98,PPL_SPLIT
+45,0,181.0,73.0,1.375,Bel,3.538436716850927,4,Kas Kazanımı,Full Gym,4,22.28,YAG_YAKIMI
+30,0,166.0,90.0,1.55,Ayak Bileği,0.0,11,Kilo Verme,Bodyweight,5,32.66,YAG_YAKIMI
+39,1,180.0,73.0,1.375,Omuz,2.923310028088116,9,Kilo Verme,Full Gym,5,22.53,REHABILITASYON
+32,0,163.4,58.0,1.9,Diz,1.0,0,Güç ve Kondisyon,Dumbbell Only,3,21.72,PPL_SPLIT
+37,1,180.0,85.0,1.375,Diz,4.453954321577381,7,Güç ve Kondisyon,Full Gym,4,26.23,KILO_ALMA
+23,0,171.0,57.7,1.375,Diz,0.0,2,Güç ve Kondisyon,Full Gym,3,19.73,PPL_SPLIT
+28,1,175.2,72.2,1.725,Omuz,0.6,13,Güç ve Kondisyon,Full Gym,3,23.52,PPL_SPLIT
+58,0,168.0,96.0,1.55,Bel,4.472062171798259,10,Güç ve Kondisyon,Full Gym,2,34.01,REHABILITASYON
+18,1,163.9,83.6,1.55,Bel,4.2,2,Sakatlık Sonrası,Bodyweight,5,31.12,REHABILITASYON
+35,1,156.0,55.3,1.55,Diz,0.0,14,Güç ve Kondisyon,Dumbbell Only,5,22.72,PPL_SPLIT
+30,1,171.0,100.0,1.375,Bel,2.119036911610822,0,Güç ve Kondisyon,Full Gym,3,34.2,REHABILITASYON
+44,1,152.0,59.1,1.2,Diz,0.0,4,Güç ve Kondisyon,Dumbbell Only,4,25.58,PPL_SPLIT
+28,0,162.6,71.0,1.2,Diz,4.9,12,Sakatlık Sonrası,Dumbbell Only,4,26.85,REHABILITASYON
+22,1,184.2,64.4,1.725,Ayak Bileği,4.1,0,Sakatlık Sonrası,Bodyweight,3,18.98,REHABILITASYON
+47,1,162.0,43.4,1.725,Bel,0.0,7,Kas Kazanımı,Dumbbell Only,3,16.54,KILO_ALMA
+35,0,169.0,98.0,1.375,Diz,0.5989166211525732,0,Güç ve Kondisyon,Full Gym,3,34.31,KILO_ALMA
+51,1,158.0,77.3,1.9,Yok,0.0,9,Kilo Verme,Full Gym,3,30.96,YAG_YAKIMI
+25,0,158.9,69.6,1.2,Diz,0.0,4,Güç ve Kondisyon,Full Gym,5,27.57,PPL_SPLIT
+38,1,179.0,40.6,1.375,Diz,0.0,0,Kas Kazanımı,Bodyweight,3,12.67,KILO_ALMA
+29,1,152.0,54.9,1.375,Diz,0.0,11,Güç ve Kondisyon,Bodyweight,3,23.76,PPL_SPLIT
+63,1,150.0,105.0,1.725,Ayak Bileği,2.7066220286855005,14,Kilo Verme,Dumbbell Only,4,46.67,PPL_SPLIT
+44,1,155.0,61.7,1.9,Omuz,0.0,8,Güç ve Kondisyon,Full Gym,4,25.68,PPL_SPLIT
+47,0,177.0,80.0,1.725,Bel,0.0,14,Güç ve Kondisyon,Bodyweight,5,25.54,PPL_SPLIT
+33,0,189.0,45.9,1.55,Diz,0.0,11,Kas Kazanımı,Full Gym,4,12.85,KILO_ALMA
+54,0,162.0,58.0,1.375,Omuz,4.4256540445612345,0,Kas Kazanımı,Bodyweight,5,22.1,PPL_SPLIT
+33,1,181.1,76.6,1.9,Diz,0.5,1,Güç ve Kondisyon,Full Gym,5,23.36,PPL_SPLIT
+20,1,187.7,69.6,1.375,Bel,0.6,13,Güç ve Kondisyon,Dumbbell Only,4,19.76,PPL_SPLIT
+30,1,155.0,60.6,1.9,Bel,0.0,3,Güç ve Kondisyon,Full Gym,4,25.22,PPL_SPLIT
+57,0,172.0,75.0,1.375,Yok,0.0180474544763631,4,Kilo Verme,Bodyweight,3,25.35,PPL_SPLIT
+33,1,161.0,55.6,1.375,Bel,0.0,9,Güç ve Kondisyon,Dumbbell Only,5,21.45,PPL_SPLIT
+59,0,175.0,53.9,1.725,Diz,0.0,6,Kas Kazanımı,Full Gym,5,17.6,KILO_ALMA
+35,0,155.9,64.0,1.375,Ayak Bileği,4.2,2,Sakatlık Sonrası,Dumbbell Only,3,26.33,REHABILITASYON
+18,1,159.0,63.9,1.725,Yok,0.0,5,Güç ve Kondisyon,Dumbbell Only,4,25.28,PPL_SPLIT
+39,1,173.0,100.0,1.55,Bel,1.6136772343249772,5,Güç ve Kondisyon,Full Gym,3,33.41,REHABILITASYON
+43,1,161.0,48.4,1.725,Ayak Bileği,0.0,5,Kas Kazanımı,Bodyweight,4,18.67,KILO_ALMA
+40,0,192.0,76.9,1.55,Diz,0.0,4,Güç ve Kondisyon,Bodyweight,4,20.86,PPL_SPLIT
+37,1,169.4,70.9,1.375,Ayak Bileği,4.4,2,Sakatlık Sonrası,Bodyweight,4,24.71,REHABILITASYON
+22,0,191.0,71.0,1.55,Yok,2.233866974557604,2,Sakatlık Sonrası,Full Gym,5,19.46,PPL_SPLIT
+59,1,152.0,65.5,1.55,Diz,0.0,11,Güç ve Kondisyon,Dumbbell Only,3,28.35,PPL_SPLIT
+25,1,171.0,47.2,1.725,Omuz,0.0,2,Kas Kazanımı,Full Gym,3,16.14,KILO_ALMA
+36,0,193.0,121.9,1.725,Yok,0.0,6,Kilo Verme,Dumbbell Only,5,32.73,YAG_YAKIMI
+58,0,166.0,58.6,1.9,Yok,0.0,12,Güç ve Kondisyon,Dumbbell Only,5,21.27,PPL_SPLIT
+22,0,163.0,96.3,1.55,Ayak Bileği,0.0,4,Kilo Verme,Dumbbell Only,3,36.25,YAG_YAKIMI
+28,1,180.8,81.7,1.725,Bel,5.0,11,Sakatlık Sonrası,Full Gym,4,24.99,REHABILITASYON
+45,1,157.0,65.5,1.725,Diz,0.0,6,Güç ve Kondisyon,Full Gym,5,26.57,PPL_SPLIT
+21,1,174.7,87.9,1.375,Yok,0.9,10,Kilo Verme,Bodyweight,5,28.8,YAG_YAKIMI
+49,1,162.0,76.0,1.9,Diz,0.5109870030254304,4,Güç ve Kondisyon,Bodyweight,4,28.96,YAG_YAKIMI
+54,0,192.0,114.9,1.725,Diz,0.0,7,Kilo Verme,Dumbbell Only,3,31.17,YAG_YAKIMI
+22,0,174.0,107.4,1.55,Ayak Bileği,0.0,10,Kilo Verme,Dumbbell Only,5,35.47,YAG_YAKIMI
+33,1,167.0,59.0,1.725,Omuz,0.0,12,Güç ve Kondisyon,Dumbbell Only,3,21.16,PPL_SPLIT
+18,0,157.9,63.1,1.55,Yok,0.7,7,Güç ve Kondisyon,Bodyweight,3,25.31,PPL_SPLIT
+25,1,171.8,57.8,1.375,Ayak Bileği,0.0,2,Güç ve Kondisyon,Dumbbell Only,4,19.58,PPL_SPLIT
+42,0,160.0,45.5,1.55,Bel,0.0,4,Kas Kazanımı,Dumbbell Only,3,17.77,KILO_ALMA
+59,1,175.0,106.0,1.9,Diz,3.601665559562557,0,Güç ve Kondisyon,Bodyweight,5,34.61,YAG_YAKIMI
+20,0,192.0,128.4,1.725,Diz,0.0,2,Kilo Verme,Bodyweight,3,34.83,YAG_YAKIMI
+29,0,151.5,47.3,1.375,Omuz,0.9,0,Güç ve Kondisyon,Dumbbell Only,5,20.61,PPL_SPLIT
+55,1,176.0,49.3,1.2,Bel,0.0,7,Kas Kazanımı,Full Gym,3,15.92,KILO_ALMA
+51,0,171.0,60.7,1.725,Ayak Bileği,0.0,14,Güç ve Kondisyon,Full Gym,4,20.76,PPL_SPLIT
+37,1,157.0,54.6,1.55,Omuz,0.0,0,Güç ve Kondisyon,Dumbbell Only,5,22.15,PPL_SPLIT
+24,1,156.0,67.7,1.55,Omuz,0.0,0,Güç ve Kondisyon,Full Gym,3,27.82,PPL_SPLIT
+37,0,156.1,68.5,1.9,Yok,4.9,2,Sakatlık Sonrası,Dumbbell Only,5,28.11,REHABILITASYON
+25,1,177.0,65.4,1.375,Yok,0.0,9,Güç ve Kondisyon,Dumbbell Only,4,20.88,PPL_SPLIT
+57,0,165.0,83.4,1.55,Diz,0.0,11,Kilo Verme,Dumbbell Only,4,30.63,YAG_YAKIMI
+57,0,199.0,55.7,1.375,Bel,0.0,7,Kas Kazanımı,Dumbbell Only,3,14.07,KILO_ALMA
+40,1,169.0,95.0,1.9,Diz,3.427002889180502,0,Kilo Verme,Bodyweight,3,33.26,PPL_SPLIT
+46,1,165.0,64.0,1.375,Yok,3.904948352722603,2,Güç ve Kondisyon,Full Gym,4,23.51,REHABILITASYON
+29,0,163.0,55.3,1.9,Bel,0.6,7,Güç ve Kondisyon,Dumbbell Only,5,20.81,PPL_SPLIT
+32,1,180.6,75.7,1.375,Bel,0.4,12,Güç ve Kondisyon,Full Gym,5,23.21,PPL_SPLIT
+54,1,160.0,78.1,1.2,Omuz,0.0,8,Kilo Verme,Bodyweight,5,30.51,YAG_YAKIMI
+18,0,196.0,83.2,1.375,Ayak Bileği,0.0,4,Güç ve Kondisyon,Dumbbell Only,3,21.66,PPL_SPLIT
+45,1,158.0,41.2,1.55,Omuz,0.0,4,Kas Kazanımı,Bodyweight,3,16.5,KILO_ALMA
+27,1,166.0,66.0,1.55,Yok,2.14103772364904,3,Güç ve Kondisyon,Full Gym,3,23.95,YAG_YAKIMI
+41,0,179.0,82.5,1.9,Diz,0.0,5,Güç ve Kondisyon,Full Gym,3,25.75,PPL_SPLIT
+21,1,170.0,60.0,1.2,Ayak Bileği,0.0,7,Güç ve Kondisyon,Full Gym,5,20.76,PPL_SPLIT
+20,0,172.0,107.0,1.55,Bel,1.9384456063013733,6,Kilo Verme,Bodyweight,5,36.17,KILO_ALMA
+56,1,153.0,55.7,1.2,Bel,0.0,7,Güç ve Kondisyon,Dumbbell Only,5,23.79,PPL_SPLIT
+56,1,175.0,63.0,1.55,Bel,2.2298344667638537,9,Sakatlık Sonrası,Full Gym,3,20.57,PPL_SPLIT
+22,1,158.0,86.0,1.9,Bel,2.845225371527782,8,Kas Kazanımı,Bodyweight,5,34.45,YAG_YAKIMI
+21,1,157.0,61.3,1.55,Diz,0.0,13,Güç ve Kondisyon,Full Gym,4,24.87,PPL_SPLIT
+59,0,193.0,64.0,1.375,Bel,1.4048006163854936,3,Güç ve Kondisyon,Full Gym,5,17.18,YAG_YAKIMI
+24,0,179.0,88.2,1.725,Bel,0.0,13,Güç ve Kondisyon,Dumbbell Only,4,27.53,PPL_SPLIT
+48,0,162.0,75.0,1.9,Diz,0.6665136821007517,5,Sakatlık Sonrası,Full Gym,4,28.58,KILO_ALMA
+43,1,192.0,97.0,1.2,Bel,3.055350492951155,9,Kas Kazanımı,Bodyweight,4,26.31,REHABILITASYON
+34,0,178.0,52.0,1.55,Bel,0.0,0,Kas Kazanımı,Dumbbell Only,3,16.41,KILO_ALMA
+34,1,175.4,84.2,1.2,Bel,4.1,14,Sakatlık Sonrası,Bodyweight,5,27.37,REHABILITASYON
+26,0,176.0,125.5,1.725,Omuz,0.0,6,Kilo Verme,Bodyweight,5,40.52,YAG_YAKIMI
+36,1,175.6,68.5,1.725,Diz,0.6,2,Güç ve Kondisyon,Full Gym,3,22.21,PPL_SPLIT
+30,1,173.0,110.0,1.375,Diz,2.4404681750957673,7,Kas Kazanımı,Bodyweight,2,36.75,PPL_SPLIT
+36,0,169.0,123.7,1.2,Diz,0.0,11,Kilo Verme,Full Gym,5,43.31,YAG_YAKIMI
+40,0,159.8,68.6,1.375,Diz,0.4,7,Güç ve Kondisyon,Full Gym,4,26.86,PPL_SPLIT
+62,0,154.0,65.0,1.9,Diz,0.10705994165564003,6,Güç ve Kondisyon,Bodyweight,4,27.41,KILO_ALMA
+50,1,164.0,64.0,1.2,Bel,1.256785915434192,9,Kas Kazanımı,Bodyweight,5,23.8,PPL_SPLIT
+40,1,171.0,57.4,1.55,Bel,0.0,9,Güç ve Kondisyon,Dumbbell Only,3,19.63,PPL_SPLIT
+50,0,198.0,51.1,1.375,Ayak Bileği,0.0,8,Kas Kazanımı,Bodyweight,5,13.03,KILO_ALMA
+31,1,176.6,65.5,1.2,Ayak Bileği,4.4,11,Sakatlık Sonrası,Bodyweight,5,21.0,REHABILITASYON
+24,0,186.0,55.0,1.375,Yok,0.4094799708941854,10,Kilo Verme,Bodyweight,4,15.9,REHABILITASYON
+33,1,150.0,45.9,1.2,Diz,0.0,3,Güç ve Kondisyon,Dumbbell Only,5,20.4,PPL_SPLIT
+59,0,195.0,111.0,1.9,Omuz,1.2137590437333383,9,Kilo Verme,Bodyweight,4,29.19,REHABILITASYON
+22,1,176.0,88.0,1.375,Bel,4.7,10,Sakatlık Sonrası,Bodyweight,4,28.41,REHABILITASYON
+20,0,176.0,90.0,1.2,Bel,0.4780926239323196,1,Kilo Verme,Full Gym,3,29.05,KILO_ALMA
+41,0,167.0,75.0,1.9,Omuz,2.150350775765228,2,Kilo Verme,Bodyweight,5,26.89,REHABILITASYON
+20,0,157.9,61.3,1.375,Omuz,5.0,3,Sakatlık Sonrası,Full Gym,4,24.59,REHABILITASYON
+41,1,179.0,76.7,1.55,Bel,0.0,8,Güç ve Kondisyon,Bodyweight,5,23.94,PPL_SPLIT
+32,0,168.0,105.0,1.375,Ayak Bileği,1.8277749305633635,13,Sakatlık Sonrası,Full Gym,4,37.2,KILO_ALMA
+33,1,175.4,69.8,1.9,Diz,4.2,5,Sakatlık Sonrası,Dumbbell Only,5,22.69,REHABILITASYON
+32,0,174.0,84.0,1.725,Yok,0.0,3,Güç ve Kondisyon,Bodyweight,4,27.74,PPL_SPLIT
+46,1,176.0,76.0,1.375,Bel,2.305790307198726,8,Sakatlık Sonrası,Bodyweight,3,24.54,KILO_ALMA
+57,0,186.0,76.6,1.55,Ayak Bileği,0.0,0,Güç ve Kondisyon,Full Gym,4,22.14,PPL_SPLIT
+18,1,170.0,107.0,1.725,Bel,2.832889758140731,5,Sakatlık Sonrası,Full Gym,5,37.02,KILO_ALMA
+26,0,187.0,87.1,1.55,Ayak Bileği,0.0,3,Güç ve Kondisyon,Full Gym,4,24.91,PPL_SPLIT
+41,1,157.0,86.0,1.375,Yok,1.872857950413589,6,Güç ve Kondisyon,Bodyweight,5,34.89,KILO_ALMA
+47,1,179.0,58.5,1.9,Bel,0.0,7,Kas Kazanımı,Bodyweight,3,18.26,KILO_ALMA
+56,0,166.0,109.6,1.9,Diz,0.0,2,Kilo Verme,Bodyweight,4,39.77,YAG_YAKIMI
+25,0,158.1,45.0,1.375,Diz,0.6,13,Kas Kazanımı,Dumbbell Only,3,18.0,KILO_ALMA
+27,0,155.3,53.6,1.375,Bel,4.4,8,Sakatlık Sonrası,Full Gym,4,22.22,REHABILITASYON
+19,1,174.8,63.0,1.55,Omuz,4.1,8,Sakatlık Sonrası,Bodyweight,4,20.62,REHABILITASYON
+25,1,173.7,82.7,1.9,Yok,0.9,9,Güç ve Kondisyon,Bodyweight,3,27.41,PPL_SPLIT
+47,1,159.0,97.0,1.375,Diz,1.709178312827826,1,Sakatlık Sonrası,Bodyweight,5,38.37,KILO_ALMA
+30,1,168.2,79.0,1.55,Diz,0.2,5,Güç ve Kondisyon,Dumbbell Only,3,27.92,PPL_SPLIT
+52,1,163.0,68.2,1.375,Omuz,0.0,10,Güç ve Kondisyon,Full Gym,3,25.67,PPL_SPLIT
+37,0,177.0,100.0,1.2,Bel,1.581641689179064,4,Kas Kazanımı,Bodyweight,3,31.92,YAG_YAKIMI
+58,1,163.0,65.2,1.375,Yok,0.0,2,Güç ve Kondisyon,Full Gym,3,24.54,PPL_SPLIT
+45,0,162.0,55.0,1.2,Yok,0.9301726230586664,8,Sakatlık Sonrası,Bodyweight,5,20.96,YAG_YAKIMI
+33,0,171.6,54.8,1.55,Ayak Bileği,0.4,11,Kas Kazanımı,Full Gym,4,18.61,KILO_ALMA
+45,0,183.0,70.0,1.375,Bel,2.2636196636666925,9,Kilo Verme,Bodyweight,3,20.9,PPL_SPLIT
+44,0,184.0,90.0,1.725,Diz,0.3618229186107496,7,Kilo Verme,Full Gym,5,26.58,REHABILITASYON
+40,0,164.0,61.4,1.9,Diz,0.5,6,Güç ve Kondisyon,Dumbbell Only,4,22.83,PPL_SPLIT
+54,1,160.0,47.8,1.9,Diz,0.0,12,Kas Kazanımı,Dumbbell Only,3,18.67,KILO_ALMA
+28,1,167.0,57.3,1.725,Diz,0.8,11,Güç ve Kondisyon,Bodyweight,4,20.55,PPL_SPLIT
+51,0,177.0,102.6,1.725,Omuz,0.0,7,Kilo Verme,Full Gym,3,32.75,YAG_YAKIMI
+53,0,174.0,92.0,1.55,Ayak Bileği,3.615111107097369,8,Sakatlık Sonrası,Full Gym,3,30.39,KILO_ALMA
+40,1,160.0,72.2,1.725,Ayak Bileği,0.0,0,Güç ve Kondisyon,Dumbbell Only,4,28.2,PPL_SPLIT
+20,0,169.0,77.0,1.375,Yok,4.117681365959951,2,Kilo Verme,Full Gym,3,26.96,KILO_ALMA
+21,1,174.3,67.0,1.9,Omuz,0.9,8,Güç ve Kondisyon,Bodyweight,3,22.05,PPL_SPLIT
+24,1,168.8,83.2,1.9,Diz,4.9,3,Sakatlık Sonrası,Bodyweight,3,29.2,REHABILITASYON
+46,0,163.0,88.7,1.55,Yok,0.0,5,Kilo Verme,Full Gym,3,33.38,YAG_YAKIMI
+18,0,193.0,92.0,1.55,Yok,2.741852294874386,9,Kilo Verme,Bodyweight,5,24.7,PPL_SPLIT
+29,0,161.0,93.0,1.2,Bel,0.7464649079597779,7,Sakatlık Sonrası,Full Gym,5,35.88,PPL_SPLIT
+41,1,155.0,55.0,1.55,Diz,0.0,13,Güç ve Kondisyon,Bodyweight,5,22.89,PPL_SPLIT
+31,1,170.0,64.4,1.2,Bel,0.0,4,Güç ve Kondisyon,Bodyweight,4,22.28,PPL_SPLIT
+47,1,188.0,107.0,1.725,Yok,2.532173273323312,0,Sakatlık Sonrası,Bodyweight,5,30.27,YAG_YAKIMI
+25,0,167.0,64.0,1.725,Diz,4.83769707040723,8,Güç ve Kondisyon,Full Gym,5,22.95,REHABILITASYON
+32,0,169.0,70.0,1.55,Yok,3.364643670852436,6,Kilo Verme,Full Gym,4,24.51,PPL_SPLIT
+46,1,172.0,47.9,1.375,Yok,0.0,5,Kas Kazanımı,Full Gym,5,16.19,KILO_ALMA
+47,0,176.0,127.1,1.375,Bel,0.0,0,Kilo Verme,Full Gym,4,41.03,YAG_YAKIMI
+47,0,161.0,82.0,1.725,Omuz,3.469363746786562,3,Kas Kazanımı,Bodyweight,5,31.63,REHABILITASYON
+25,1,162.0,43.1,1.2,Ayak Bileği,0.0,0,Kas Kazanımı,Bodyweight,5,16.42,KILO_ALMA
+33,1,175.4,73.0,1.55,Diz,0.5,5,Güç ve Kondisyon,Full Gym,3,23.73,PPL_SPLIT
+24,0,171.6,45.0,1.725,Ayak Bileği,0.2,13,Kas Kazanımı,Dumbbell Only,4,15.28,KILO_ALMA
+47,0,180.0,73.9,1.9,Ayak Bileği,0.0,12,Güç ve Kondisyon,Dumbbell Only,3,22.81,PPL_SPLIT
+27,1,167.2,75.0,1.9,Omuz,0.8,5,Güç ve Kondisyon,Dumbbell Only,5,26.83,PPL_SPLIT
+38,1,158.0,76.6,1.375,Diz,0.0,9,Kilo Verme,Bodyweight,4,30.68,YAG_YAKIMI
+29,0,163.9,62.7,1.375,Ayak Bileği,0.6,10,Güç ve Kondisyon,Full Gym,4,23.34,PPL_SPLIT
+23,0,193.0,107.2,1.55,Omuz,0.0,14,Kilo Verme,Bodyweight,5,28.78,YAG_YAKIMI
+23,1,166.2,77.2,1.55,Diz,0.6,7,Güç ve Kondisyon,Dumbbell Only,4,27.95,PPL_SPLIT
+29,1,178.8,70.3,1.375,Omuz,0.8,1,Güç ve Kondisyon,Bodyweight,5,21.99,PPL_SPLIT
+32,0,161.0,86.0,1.55,Omuz,1.85967333120104,0,Kas Kazanımı,Bodyweight,4,33.18,YAG_YAKIMI
+21,0,195.0,101.5,1.2,Yok,0.0,8,Güç ve Kondisyon,Dumbbell Only,4,26.69,PPL_SPLIT
+29,0,163.4,68.0,1.725,Bel,0.5,9,Güç ve Kondisyon,Bodyweight,4,25.47,PPL_SPLIT
+41,1,191.0,89.0,1.725,Yok,3.3900078738217108,8,Kas Kazanımı,Bodyweight,5,24.4,YAG_YAKIMI
+38,0,197.0,61.3,1.2,Ayak Bileği,0.0,12,Kas Kazanımı,Dumbbell Only,3,15.8,KILO_ALMA
+23,1,188.0,62.0,1.725,Diz,3.8640611374203058,8,Güç ve Kondisyon,Bodyweight,3,17.54,YAG_YAKIMI
+19,1,163.0,46.8,1.55,Ayak Bileği,0.0,0,Kas Kazanımı,Bodyweight,4,17.61,KILO_ALMA
+45,1,164.0,48.2,1.55,Diz,0.0,8,Kas Kazanımı,Full Gym,3,17.92,KILO_ALMA
+18,0,167.0,125.9,1.375,Bel,0.0,8,Kilo Verme,Dumbbell Only,5,45.14,YAG_YAKIMI
+24,1,179.2,75.0,1.725,Omuz,0.9,13,Güç ve Kondisyon,Bodyweight,4,23.36,PPL_SPLIT
+34,0,181.0,115.3,1.55,Ayak Bileği,0.0,12,Kilo Verme,Dumbbell Only,4,35.19,YAG_YAKIMI
+29,1,185.7,70.2,1.375,Ayak Bileği,4.9,1,Sakatlık Sonrası,Dumbbell Only,5,20.36,REHABILITASYON
+40,0,165.8,61.7,1.9,Omuz,4.2,3,Sakatlık Sonrası,Bodyweight,4,22.44,REHABILITASYON
+29,1,177.0,56.2,1.2,Ayak Bileği,0.0,8,Kas Kazanımı,Dumbbell Only,4,17.94,KILO_ALMA
+53,1,155.0,68.1,1.55,Ayak Bileği,0.0,7,Güç ve Kondisyon,Dumbbell Only,4,28.35,PPL_SPLIT
+31,1,166.0,64.0,1.2,Omuz,0.3507869936623803,4,Güç ve Kondisyon,Bodyweight,4,23.23,KILO_ALMA
+39,0,188.0,71.7,1.55,Omuz,0.0,13,Güç ve Kondisyon,Dumbbell Only,3,20.29,PPL_SPLIT
+26,0,190.0,111.5,1.9,Bel,0.0,9,Kilo Verme,Bodyweight,5,30.89,YAG_YAKIMI
+62,0,197.0,80.0,1.375,Bel,2.043727955755608,12,Kas Kazanımı,Full Gym,4,20.61,PPL_SPLIT
+39,1,188.0,73.0,1.9,Omuz,3.6336695327034025,8,Sakatlık Sonrası,Full Gym,3,20.65,PPL_SPLIT
+40,1,161.0,63.5,1.2,Ayak Bileği,0.0,9,Güç ve Kondisyon,Bodyweight,5,24.5,PPL_SPLIT
+23,1,192.0,74.0,1.2,Diz,1.7733599589412896,0,Sakatlık Sonrası,Full Gym,5,20.07,YAG_YAKIMI
+20,1,173.0,75.9,1.2,Diz,0.0,13,Güç ve Kondisyon,Bodyweight,3,25.36,PPL_SPLIT
+54,0,165.0,91.0,1.375,Omuz,1.877620416242656,0,Sakatlık Sonrası,Dumbbell Only,2,33.43,KILO_ALMA
+55,0,179.0,84.7,1.55,Yok,0.0,3,Güç ve Kondisyon,Full Gym,3,26.43,PPL_SPLIT
+46,1,165.0,55.0,1.725,Yok,1.8159590714776992,8,Sakatlık Sonrası,Bodyweight,4,20.2,KILO_ALMA
+29,0,172.0,84.9,1.9,Omuz,0.0,11,Kilo Verme,Dumbbell Only,4,28.7,YAG_YAKIMI
+34,0,159.2,48.8,1.375,Bel,0.9,3,Güç ve Kondisyon,Full Gym,4,19.25,PPL_SPLIT
+31,1,177.3,69.7,1.725,Yok,4.9,4,Sakatlık Sonrası,Bodyweight,5,22.17,REHABILITASYON
+46,0,168.0,59.4,1.55,Ayak Bileği,0.0,5,Güç ve Kondisyon,Bodyweight,5,21.05,PPL_SPLIT
+21,1,188.0,109.0,1.375,Omuz,0.34533854987824186,9,Sakatlık Sonrası,Bodyweight,4,30.84,KILO_ALMA
+21,0,173.0,93.7,1.55,Omuz,0.0,6,Kilo Verme,Full Gym,5,31.31,YAG_YAKIMI
+54,1,177.0,68.0,1.375,Diz,0.4356399896619406,4,Güç ve Kondisyon,Bodyweight,4,21.71,YAG_YAKIMI
+52,1,171.0,71.0,1.9,Bel,4.315614729980638,7,Kilo Verme,Bodyweight,5,24.28,KILO_ALMA
+35,0,170.6,57.6,1.55,Yok,4.2,0,Sakatlık Sonrası,Full Gym,5,19.79,REHABILITASYON
+36,0,169.7,57.1,1.725,Bel,1.0,4,Güç ve Kondisyon,Full Gym,5,19.83,PPL_SPLIT
+54,1,178.0,72.3,1.55,Ayak Bileği,0.0,0,Güç ve Kondisyon,Bodyweight,3,22.82,PPL_SPLIT
+35,1,186.0,103.0,1.725,Yok,4.357629848860421,3,Kilo Verme,Bodyweight,3,29.77,PPL_SPLIT
+33,0,160.0,106.5,1.375,Bel,0.0,11,Kilo Verme,Dumbbell Only,3,41.6,YAG_YAKIMI
+52,0,182.0,95.0,1.55,Diz,4.644673974610055,7,Kilo Verme,Bodyweight,3,28.68,REHABILITASYON
+18,0,160.8,53.1,1.375,Bel,0.3,14,Güç ve Kondisyon,Dumbbell Only,3,20.54,PPL_SPLIT
+20,1,183.8,68.7,1.55,Omuz,0.1,13,Güç ve Kondisyon,Full Gym,3,20.34,PPL_SPLIT
+35,1,179.0,67.0,1.2,Diz,2.3644391554538413,12,Güç ve Kondisyon,Bodyweight,5,20.91,REHABILITASYON
+40,0,199.0,68.9,1.375,Ayak Bileği,0.0,7,Kas Kazanımı,Dumbbell Only,4,17.4,KILO_ALMA
+39,0,151.4,59.8,1.9,Diz,0.6,11,Güç ve Kondisyon,Full Gym,5,26.09,PPL_SPLIT
+20,0,184.0,99.0,1.55,Omuz,4.320829000821897,6,Kilo Verme,Full Gym,5,29.24,PPL_SPLIT
+40,1,173.9,81.4,1.55,Yok,4.5,10,Sakatlık Sonrası,Bodyweight,3,26.92,REHABILITASYON
+43,0,185.0,82.7,1.2,Yok,0.0,11,Güç ve Kondisyon,Bodyweight,5,24.16,PPL_SPLIT
+25,1,182.1,61.2,1.375,Diz,4.6,10,Sakatlık Sonrası,Full Gym,4,18.46,REHABILITASYON
+19,1,158.0,65.7,1.9,Bel,0.0,6,Güç ve Kondisyon,Bodyweight,3,26.32,PPL_SPLIT
+59,1,173.0,60.7,1.375,Omuz,0.0,9,Güç ve Kondisyon,Dumbbell Only,3,20.28,PPL_SPLIT
+44,0,189.0,73.0,1.2,Bel,1.3770219638305186,2,Kas Kazanımı,Full Gym,4,20.44,PPL_SPLIT
+22,1,169.0,75.0,1.55,Diz,4.981882093295856,5,Kilo Verme,Full Gym,5,26.26,PPL_SPLIT
+35,0,159.0,111.0,1.375,Yok,0.7631205616896719,5,Sakatlık Sonrası,Dumbbell Only,3,43.91,KILO_ALMA
+53,1,165.0,78.3,1.55,Diz,0.0,1,Kilo Verme,Full Gym,4,28.76,YAG_YAKIMI
+52,1,156.0,55.0,1.9,Bel,1.2776795420418374,1,Güç ve Kondisyon,Full Gym,4,22.6,REHABILITASYON
+45,1,170.0,58.2,1.9,Omuz,0.0,12,Güç ve Kondisyon,Full Gym,4,20.14,PPL_SPLIT
+18,0,154.2,65.3,1.55,Yok,0.4,8,Güç ve Kondisyon,Dumbbell Only,5,27.46,PPL_SPLIT
+46,1,160.0,56.9,1.725,Bel,0.0,5,Güç ve Kondisyon,Bodyweight,3,22.23,PPL_SPLIT
+21,0,168.3,55.4,1.2,Omuz,0.8,12,Güç ve Kondisyon,Full Gym,5,19.56,PPL_SPLIT
+43,1,165.0,98.0,1.55,Yok,2.4031808811035216,14,Güç ve Kondisyon,Full Gym,4,36.0,YAG_YAKIMI
+27,0,183.0,102.6,1.55,Omuz,0.0,13,Kilo Verme,Bodyweight,5,30.64,YAG_YAKIMI
+36,1,167.0,103.0,1.55,Bel,3.510788283069654,3,Kilo Verme,Full Gym,5,36.93,KILO_ALMA
+31,1,180.1,79.8,1.375,Yok,0.5,4,Güç ve Kondisyon,Full Gym,3,24.6,PPL_SPLIT
+41,0,161.0,74.3,1.375,Bel,0.0,12,Kilo Verme,Dumbbell Only,3,28.66,YAG_YAKIMI
+39,0,171.0,90.0,1.2,Diz,3.915925139294,2,Sakatlık Sonrası,Bodyweight,4,30.78,YAG_YAKIMI
+32,0,181.0,102.0,1.725,Bel,1.3545273392892914,8,Güç ve Kondisyon,Bodyweight,4,31.13,REHABILITASYON
+40,1,155.0,70.0,1.375,Omuz,0.0,9,Kilo Verme,Full Gym,4,29.14,YAG_YAKIMI
+36,0,186.0,57.0,1.9,Omuz,2.1263554646752514,4,Kilo Verme,Full Gym,4,16.48,REHABILITASYON
+52,1,154.0,47.8,1.2,Diz,0.0,5,Güç ve Kondisyon,Bodyweight,3,20.16,PPL_SPLIT
+35,1,174.0,82.0,1.55,Bel,0.028794981808794,7,Güç ve Kondisyon,Full Gym,5,27.08,KILO_ALMA
+20,1,179.1,74.8,1.375,Bel,4.1,2,Sakatlık Sonrası,Bodyweight,5,23.32,REHABILITASYON
+55,1,160.0,57.0,1.725,Yok,1.5511459215987462,8,Kilo Verme,Dumbbell Only,3,22.27,REHABILITASYON
+21,0,163.4,55.8,1.9,Bel,0.6,13,Güç ve Kondisyon,Bodyweight,3,20.9,PPL_SPLIT
+45,0,177.0,67.0,1.375,Diz,0.2915493232516364,0,Sakatlık Sonrası,Bodyweight,4,21.39,KILO_ALMA
+59,0,171.0,107.0,1.2,Bel,4.744819375224456,5,Güç ve Kondisyon,Dumbbell Only,5,36.59,KILO_ALMA
+26,0,177.0,47.7,1.375,Diz,0.0,13,Kas Kazanımı,Dumbbell Only,3,15.23,KILO_ALMA
+54,1,159.0,58.4,1.9,Bel,0.0,8,Güç ve Kondisyon,Bodyweight,5,23.1,PPL_SPLIT
+19,1,152.0,48.3,1.55,Bel,0.0,1,Güç ve Kondisyon,Full Gym,3,20.91,PPL_SPLIT
+22,0,178.0,54.0,1.2,Omuz,4.330033472120522,5,Güç ve Kondisyon,Full Gym,5,17.04,REHABILITASYON
+19,0,191.0,110.8,1.9,Bel,0.0,13,Kilo Verme,Full Gym,5,30.37,YAG_YAKIMI
+27,0,181.0,84.0,1.375,Diz,0.5737370807642256,8,Kilo Verme,Bodyweight,4,25.64,PPL_SPLIT
+22,0,184.0,62.2,1.55,Omuz,0.0,0,Kas Kazanımı,Dumbbell Only,5,18.37,KILO_ALMA
+54,0,161.0,62.0,1.9,Diz,3.826614899614752,1,Kas Kazanımı,Full Gym,3,23.92,PPL_SPLIT
+34,0,158.7,55.9,1.55,Bel,4.7,12,Sakatlık Sonrası,Full Gym,4,22.2,REHABILITASYON
+30,1,162.0,79.2,1.375,Yok,0.0,8,Kilo Verme,Dumbbell Only,5,30.18,YAG_YAKIMI
+22,1,176.2,95.0,1.725,Ayak Bileği,4.6,4,Sakatlık Sonrası,Bodyweight,5,30.6,REHABILITASYON
+60,0,173.0,90.0,1.725,Ayak Bileği,2.24690606403315,1,Güç ve Kondisyon,Dumbbell Only,2,30.07,YAG_YAKIMI
+52,1,188.0,102.0,1.375,Yok,2.397574371910139,4,Sakatlık Sonrası,Full Gym,4,28.86,KILO_ALMA
+38,0,166.0,88.0,1.375,Bel,0.3345746998064125,7,Güç ve Kondisyon,Full Gym,5,31.93,YAG_YAKIMI
+47,0,159.0,86.0,1.725,Diz,1.0566079944235305,1,Güç ve Kondisyon,Bodyweight,4,34.02,REHABILITASYON
+52,1,159.0,79.4,1.55,Bel,0.0,7,Kilo Verme,Full Gym,5,31.41,YAG_YAKIMI
+59,1,177.0,75.8,1.725,Yok,0.0,6,Güç ve Kondisyon,Full Gym,3,24.19,PPL_SPLIT
+23,0,196.0,102.0,1.55,Omuz,2.9518747567178987,3,Kas Kazanımı,Full Gym,3,26.55,PPL_SPLIT
+50,1,155.0,55.4,1.375,Yok,0.0,10,Güç ve Kondisyon,Full Gym,3,23.06,PPL_SPLIT
+41,0,172.0,78.8,1.375,Yok,0.0,6,Güç ve Kondisyon,Bodyweight,3,26.64,PPL_SPLIT
+24,0,174.0,87.1,1.9,Omuz,0.0,4,Kilo Verme,Bodyweight,5,28.77,YAG_YAKIMI
+30,1,189.0,97.0,1.2,Bel,0.1778541056094468,6,Güç ve Kondisyon,Bodyweight,5,27.15,KILO_ALMA
+18,1,197.0,52.0,1.55,Omuz,4.377798919618127,0,Kilo Verme,Bodyweight,5,13.4,PPL_SPLIT
+26,1,170.8,72.3,1.55,Diz,4.0,11,Sakatlık Sonrası,Bodyweight,4,24.78,REHABILITASYON
+34,1,159.0,94.0,1.55,Diz,1.030847562176831,3,Güç ve Kondisyon,Bodyweight,4,37.18,REHABILITASYON
+33,1,152.0,53.6,1.375,Omuz,0.0,1,Güç ve Kondisyon,Full Gym,3,23.2,PPL_SPLIT
+52,0,161.0,61.0,1.375,Omuz,2.681351873628304,6,Kilo Verme,Bodyweight,3,23.53,KILO_ALMA
+28,1,187.0,106.0,1.55,Yok,4.11329284421713,6,Sakatlık Sonrası,Bodyweight,4,30.31,YAG_YAKIMI
+49,1,187.0,70.0,1.725,Diz,1.3976040514043495,4,Kas Kazanımı,Bodyweight,4,20.02,REHABILITASYON
+34,0,165.0,79.0,1.2,Bel,1.2276066149753797,1,Kas Kazanımı,Bodyweight,3,29.02,YAG_YAKIMI
+53,0,192.0,91.0,1.2,Yok,4.293527345002401,4,Kilo Verme,Full Gym,5,24.69,KILO_ALMA
+54,1,167.0,74.0,1.375,Diz,3.073795538443162,1,Kas Kazanımı,Full Gym,5,26.53,PPL_SPLIT
+53,0,197.0,68.5,1.55,Ayak Bileği,0.0,0,Kas Kazanımı,Dumbbell Only,4,17.65,KILO_ALMA
+50,0,171.0,51.5,1.55,Diz,0.0,5,Kas Kazanımı,Bodyweight,3,17.61,KILO_ALMA
+50,1,159.0,56.4,1.9,Bel,0.0,13,Güç ve Kondisyon,Bodyweight,4,22.31,PPL_SPLIT
+54,0,191.0,78.0,1.9,Bel,3.166753588647995,3,Sakatlık Sonrası,Bodyweight,3,21.38,PPL_SPLIT
+58,1,157.0,80.0,1.2,Bel,4.010700520036885,6,Kas Kazanımı,Full Gym,5,32.46,PPL_SPLIT
+56,0,161.0,95.0,1.9,Bel,3.518135255670699,2,Sakatlık Sonrası,Full Gym,4,36.65,YAG_YAKIMI
+57,1,156.0,68.5,1.9,Bel,0.0,14,Güç ve Kondisyon,Dumbbell Only,3,28.15,PPL_SPLIT
+45,1,168.0,85.0,1.375,Bel,3.50503332989284,9,Kilo Verme,Full Gym,3,30.12,KILO_ALMA
+34,0,190.0,92.0,1.2,Omuz,0.1016046502260969,0,Kas Kazanımı,Bodyweight,5,25.48,PPL_SPLIT
+46,1,165.0,52.0,1.725,Yok,0.0,14,Güç ve Kondisyon,Full Gym,5,19.1,PPL_SPLIT
+35,0,163.0,62.8,1.375,Yok,0.0,6,Güç ve Kondisyon,Full Gym,3,23.64,PPL_SPLIT
+45,1,151.0,59.4,1.725,Diz,0.0,10,Güç ve Kondisyon,Bodyweight,3,26.05,PPL_SPLIT
+39,0,170.0,93.4,1.725,Omuz,0.0,8,Kilo Verme,Bodyweight,5,32.32,YAG_YAKIMI
+31,1,178.0,79.0,1.9,Omuz,0.0,13,Güç ve Kondisyon,Dumbbell Only,5,24.93,PPL_SPLIT
+36,0,169.3,56.2,1.9,Omuz,0.5,12,Güç ve Kondisyon,Full Gym,3,19.61,PPL_SPLIT
+24,0,186.0,81.0,1.2,Diz,3.466672366267715,3,Kas Kazanımı,Full Gym,5,23.41,PPL_SPLIT
+31,1,151.0,48.8,1.2,Yok,0.0,11,Güç ve Kondisyon,Full Gym,3,21.4,PPL_SPLIT
+50,1,179.0,58.4,1.55,Bel,0.0,10,Kas Kazanımı,Full Gym,4,18.23,KILO_ALMA
+37,1,175.5,84.1,1.375,Yok,0.2,1,Güç ve Kondisyon,Full Gym,4,27.3,PPL_SPLIT
+30,1,175.0,90.0,1.55,Omuz,1.9599800559835407,8,Güç ve Kondisyon,Full Gym,3,29.39,KILO_ALMA
+64,0,191.0,77.0,1.2,Diz,4.0310845828597905,1,Güç ve Kondisyon,Full Gym,4,21.11,YAG_YAKIMI
+47,1,171.0,102.0,1.2,Bel,4.762795751860934,5,Güç ve Kondisyon,Bodyweight,4,34.88,REHABILITASYON
+18,1,174.3,74.8,1.55,Ayak Bileği,0.9,7,Güç ve Kondisyon,Bodyweight,3,24.62,PPL_SPLIT
+32,0,162.0,78.6,1.2,Diz,0.0,5,Kilo Verme,Dumbbell Only,5,29.95,YAG_YAKIMI
+31,1,154.0,79.7,1.2,Omuz,0.0,3,Kilo Verme,Full Gym,3,33.61,YAG_YAKIMI
+27,0,166.1,60.7,1.55,Yok,4.9,3,Sakatlık Sonrası,Bodyweight,5,22.0,REHABILITASYON
+43,1,174.0,40.5,1.375,Bel,0.0,13,Kas Kazanımı,Dumbbell Only,5,13.38,KILO_ALMA
+44,1,158.0,107.0,1.9,Bel,4.260839758884897,4,Kas Kazanımı,Full Gym,3,42.86,REHABILITASYON
+58,0,161.0,105.0,1.9,Bel,3.553954012127983,0,Güç ve Kondisyon,Full Gym,4,40.51,REHABILITASYON
+43,0,188.0,51.0,1.9,Omuz,0.1129990265351965,13,Güç ve Kondisyon,Full Gym,3,14.43,REHABILITASYON
+26,0,186.0,79.0,1.375,Yok,4.055324059015327,5,Güç ve Kondisyon,Bodyweight,4,22.84,YAG_YAKIMI
+58,0,174.0,68.0,1.2,Bel,0.2549234437786163,3,Kas Kazanımı,Full Gym,4,22.46,PPL_SPLIT
+25,1,172.9,71.3,1.9,Ayak Bileği,0.5,2,Güç ve Kondisyon,Bodyweight,5,23.85,PPL_SPLIT
+33,1,166.0,78.5,1.55,Ayak Bileği,0.0,12,Güç ve Kondisyon,Bodyweight,5,28.49,PPL_SPLIT
+55,0,188.0,87.5,1.55,Diz,0.0,1,Güç ve Kondisyon,Full Gym,4,24.76,PPL_SPLIT
+26,0,176.0,65.0,1.2,Diz,1.2820273332241676,5,Güç ve Kondisyon,Full Gym,3,20.98,YAG_YAKIMI
+18,1,175.0,66.9,1.2,Yok,0.0,3,Güç ve Kondisyon,Dumbbell Only,5,21.84,PPL_SPLIT
+33,1,175.0,68.2,1.55,Diz,0.0,4,Güç ve Kondisyon,Dumbbell Only,4,22.27,PPL_SPLIT
+20,0,171.0,62.0,1.725,Diz,1.294917398160726,2,Kas Kazanımı,Full Gym,5,21.2,PPL_SPLIT
+29,0,158.1,62.2,1.2,Diz,0.6,12,Güç ve Kondisyon,Dumbbell Only,3,24.88,PPL_SPLIT
+32,0,178.0,107.0,1.2,Omuz,2.195354015906752,4,Sakatlık Sonrası,Bodyweight,3,33.77,YAG_YAKIMI
+22,1,152.0,61.8,1.9,Ayak Bileği,0.0,3,Güç ve Kondisyon,Full Gym,3,26.75,PPL_SPLIT
+25,0,185.0,93.0,1.375,Bel,1.294730833406907,8,Kas Kazanımı,Full Gym,5,27.17,REHABILITASYON
+37,1,182.4,82.2,1.9,Yok,0.8,4,Güç ve Kondisyon,Dumbbell Only,5,24.71,PPL_SPLIT
+27,0,170.0,82.0,1.55,Diz,1.4977469892063904,8,Kas Kazanımı,Full Gym,5,28.37,REHABILITASYON
+35,1,184.7,70.0,1.2,Omuz,0.8,10,Güç ve Kondisyon,Bodyweight,4,20.52,PPL_SPLIT
+26,1,188.0,89.0,1.55,Yok,1.5301665029912233,13,Kilo Verme,Bodyweight,4,25.18,REHABILITASYON
+25,0,195.0,81.7,1.55,Yok,0.0,0,Güç ve Kondisyon,Bodyweight,5,21.49,PPL_SPLIT
+31,1,172.0,60.0,1.725,Diz,4.76557192644774,1,Kas Kazanımı,Full Gym,5,20.28,PPL_SPLIT
+50,0,197.0,110.0,1.9,Yok,2.308850128909988,14,Kilo Verme,Full Gym,5,28.34,PPL_SPLIT
+38,1,181.3,61.4,1.2,Yok,4.5,12,Sakatlık Sonrası,Dumbbell Only,3,18.68,REHABILITASYON
+30,0,156.4,56.1,1.9,Ayak Bileği,0.5,9,Güç ve Kondisyon,Bodyweight,3,22.93,PPL_SPLIT
+53,1,155.0,64.4,1.725,Omuz,0.0,4,Güç ve Kondisyon,Full Gym,4,26.81,PPL_SPLIT
+41,0,196.0,71.7,1.55,Yok,0.0,7,Kas Kazanımı,Bodyweight,4,18.66,KILO_ALMA
+33,1,176.1,59.5,1.9,Yok,0.2,8,Güç ve Kondisyon,Full Gym,5,19.19,PPL_SPLIT
+22,0,184.0,102.6,1.725,Ayak Bileği,0.0,2,Kilo Verme,Bodyweight,4,30.3,YAG_YAKIMI
+55,0,178.0,67.0,1.2,Yok,0.8688319062739097,3,Kilo Verme,Full Gym,3,21.15,KILO_ALMA
+49,0,156.0,91.0,1.375,Diz,1.919104785439455,1,Sakatlık Sonrası,Bodyweight,4,37.39,KILO_ALMA
+21,1,191.0,83.0,1.55,Omuz,3.2822904862483067,3,Güç ve Kondisyon,Full Gym,5,22.75,KILO_ALMA
+39,1,185.0,107.0,1.2,Diz,3.0790219023135474,8,Kas Kazanımı,Bodyweight,5,31.26,YAG_YAKIMI
+57,1,161.0,84.0,1.725,Bel,2.6565017996999614,9,Kas Kazanımı,Bodyweight,4,32.41,PPL_SPLIT
+35,1,187.0,69.0,1.55,Omuz,3.060360501941064,0,Kas Kazanımı,Bodyweight,5,19.73,REHABILITASYON
+32,0,165.6,45.0,1.55,Diz,0.2,9,Kas Kazanımı,Dumbbell Only,5,16.41,KILO_ALMA
+39,0,158.4,57.7,1.9,Yok,0.6,13,Güç ve Kondisyon,Dumbbell Only,5,23.0,PPL_SPLIT
+30,1,168.0,65.0,1.2,Ayak Bileği,0.21311618148309,7,Güç ve Kondisyon,Full Gym,2,23.03,REHABILITASYON
+33,1,156.0,83.0,1.375,Diz,1.1992465793449492,5,Güç ve Kondisyon,Bodyweight,4,34.11,YAG_YAKIMI
+41,0,166.0,82.8,1.725,Omuz,0.0,8,Kilo Verme,Dumbbell Only,5,30.05,YAG_YAKIMI
+32,1,175.8,65.3,1.2,Yok,0.1,7,Güç ve Kondisyon,Dumbbell Only,4,21.13,PPL_SPLIT
+21,0,180.0,101.0,1.2,Bel,4.2867124042246525,5,Kilo Verme,Bodyweight,3,31.17,KILO_ALMA
+51,1,158.0,98.0,1.9,Yok,4.002975183779467,0,Güç ve Kondisyon,Full Gym,4,39.26,KILO_ALMA
+19,0,162.3,63.6,1.9,Ayak Bileği,0.4,4,Güç ve Kondisyon,Dumbbell Only,3,24.14,PPL_SPLIT
+41,0,177.0,72.0,1.725,Yok,0.7935151342925684,6,Kas Kazanımı,Full Gym,3,22.98,REHABILITASYON
+28,1,193.0,92.0,1.725,Yok,2.00965625164982,4,Sakatlık Sonrası,Bodyweight,4,24.7,YAG_YAKIMI
+42,1,167.0,94.0,1.2,Omuz,4.365717013416707,1,Kas Kazanımı,Bodyweight,3,33.71,PPL_SPLIT
+57,1,155.0,66.0,1.9,Diz,0.4423274408302047,2,Kilo Verme,Full Gym,4,27.47,PPL_SPLIT
+23,1,182.0,60.0,1.2,Yok,2.195036120765399,9,Sakatlık Sonrası,Full Gym,5,18.11,PPL_SPLIT
+42,0,175.0,56.0,1.2,Omuz,0.0734265561667713,2,Kas Kazanımı,Full Gym,5,18.29,REHABILITASYON
+40,0,162.6,54.4,1.375,Omuz,0.7,0,Güç ve Kondisyon,Bodyweight,4,20.58,PPL_SPLIT
+20,1,158.0,71.3,1.375,Yok,0.0,7,Kilo Verme,Full Gym,4,28.56,YAG_YAKIMI
+54,1,180.0,102.0,1.725,Ayak Bileği,4.123669215753097,9,Güç ve Kondisyon,Full Gym,3,31.48,KILO_ALMA
+25,0,170.3,66.7,1.55,Yok,4.9,1,Sakatlık Sonrası,Dumbbell Only,5,23.0,REHABILITASYON
+18,0,168.0,89.0,1.375,Bel,1.833235601357281,9,Güç ve Kondisyon,Full Gym,4,31.53,YAG_YAKIMI
+31,0,193.0,75.5,1.2,Ayak Bileği,0.0,0,Güç ve Kondisyon,Full Gym,3,20.27,PPL_SPLIT
+23,0,190.0,89.0,1.9,Omuz,4.088782698870582,7,Kas Kazanımı,Bodyweight,4,24.65,YAG_YAKIMI
+50,0,161.0,89.0,1.55,Yok,3.837717120108255,1,Sakatlık Sonrası,Full Gym,4,34.34,YAG_YAKIMI
+27,0,159.4,60.0,1.375,Yok,0.8,11,Güç ve Kondisyon,Bodyweight,5,23.61,PPL_SPLIT
+32,0,188.0,102.0,1.9,Diz,1.27945024064473,7,Kas Kazanımı,Bodyweight,3,28.86,PPL_SPLIT
+27,1,160.0,88.0,1.375,Diz,4.988972603348056,3,Kilo Verme,Full Gym,5,34.37,PPL_SPLIT
+44,1,166.0,72.1,1.725,Ayak Bileği,0.0,10,Güç ve Kondisyon,Dumbbell Only,5,26.16,PPL_SPLIT
+54,1,150.0,46.6,1.725,Omuz,0.0,11,Güç ve Kondisyon,Dumbbell Only,3,20.71,PPL_SPLIT
+41,0,169.0,66.1,1.375,Ayak Bileği,0.0,11,Güç ve Kondisyon,Dumbbell Only,4,23.14,PPL_SPLIT
+23,1,170.0,64.5,1.55,Yok,0.0,5,Güç ve Kondisyon,Full Gym,5,22.32,PPL_SPLIT
+49,0,156.0,90.0,1.2,Diz,3.4748636833231843,4,Sakatlık Sonrası,Bodyweight,5,36.98,KILO_ALMA
+43,0,192.0,76.8,1.9,Omuz,0.0,3,Güç ve Kondisyon,Bodyweight,3,20.83,PPL_SPLIT
+59,1,165.0,42.1,1.9,Diz,0.0,8,Kas Kazanımı,Dumbbell Only,3,15.46,KILO_ALMA
+36,0,199.0,99.9,1.2,Ayak Bileği,0.0,6,Güç ve Kondisyon,Bodyweight,3,25.23,PPL_SPLIT
+48,1,161.0,67.1,1.375,Bel,0.0,12,Güç ve Kondisyon,Dumbbell Only,3,25.89,PPL_SPLIT
+55,1,173.0,62.0,1.725,Yok,4.469101089229569,9,Kilo Verme,Bodyweight,3,20.72,REHABILITASYON
+59,1,175.0,78.0,1.2,Diz,4.868464917602145,1,Sakatlık Sonrası,Bodyweight,3,25.47,PPL_SPLIT
+25,1,172.8,60.8,1.725,Yok,0.4,7,Güç ve Kondisyon,Dumbbell Only,5,20.36,PPL_SPLIT
+54,1,175.0,58.0,1.375,Omuz,0.9635023634237884,9,Kilo Verme,Full Gym,4,18.94,PPL_SPLIT
+20,1,189.0,78.0,1.55,Yok,3.829085954295929,8,Kilo Verme,Full Gym,5,21.84,PPL_SPLIT
+36,0,165.9,63.7,1.725,Omuz,0.4,13,Güç ve Kondisyon,Dumbbell Only,5,23.14,PPL_SPLIT
+51,1,150.0,56.3,1.2,Bel,0.0,1,Güç ve Kondisyon,Dumbbell Only,4,25.02,PPL_SPLIT
+20,1,188.0,78.0,1.2,Omuz,4.621414768612124,7,Kilo Verme,Full Gym,4,22.07,REHABILITASYON
+31,0,179.0,75.0,1.375,Bel,4.324431831763142,3,Kas Kazanımı,Bodyweight,3,23.41,YAG_YAKIMI
+38,0,162.0,123.3,1.375,Yok,0.0,11,Kilo Verme,Dumbbell Only,5,46.98,YAG_YAKIMI
+46,1,173.0,66.5,1.55,Yok,0.0,4,Güç ve Kondisyon,Full Gym,5,22.22,PPL_SPLIT
+56,0,187.0,48.3,1.725,Diz,0.0,4,Kas Kazanımı,Bodyweight,3,13.81,KILO_ALMA
+58,1,175.0,66.1,1.725,Yok,0.0,6,Güç ve Kondisyon,Full Gym,5,21.58,PPL_SPLIT
+24,1,157.0,52.6,1.2,Diz,0.0,11,Güç ve Kondisyon,Full Gym,5,21.34,PPL_SPLIT
+51,0,177.0,48.6,1.725,Yok,0.0,8,Kas Kazanımı,Dumbbell Only,3,15.51,KILO_ALMA
+30,0,154.4,48.0,1.2,Yok,4.1,4,Sakatlık Sonrası,Dumbbell Only,5,20.13,REHABILITASYON
+19,1,176.6,73.7,1.2,Omuz,0.3,6,Güç ve Kondisyon,Bodyweight,4,23.63,PPL_SPLIT
+47,0,190.0,98.2,1.725,Ayak Bileği,0.0,5,Güç ve Kondisyon,Dumbbell Only,3,27.2,PPL_SPLIT
+29,0,187.0,121.1,1.375,Ayak Bileği,0.0,0,Kilo Verme,Full Gym,3,34.63,YAG_YAKIMI
+40,1,171.0,67.5,1.725,Yok,0.7,10,Güç ve Kondisyon,Dumbbell Only,5,23.08,PPL_SPLIT
+19,0,177.0,87.0,1.375,Omuz,1.7459319613336457,2,Güç ve Kondisyon,Full Gym,5,27.77,YAG_YAKIMI
+34,0,159.2,59.7,1.725,Yok,0.9,10,Güç ve Kondisyon,Bodyweight,5,23.56,PPL_SPLIT
+58,1,178.0,75.4,1.2,Diz,0.0,0,Güç ve Kondisyon,Bodyweight,3,23.8,PPL_SPLIT
+24,1,175.9,74.3,1.375,Ayak Bileği,0.3,13,Güç ve Kondisyon,Dumbbell Only,4,24.01,PPL_SPLIT
+50,0,171.0,97.0,1.9,Bel,3.0416663680328853,0,Kas Kazanımı,Full Gym,5,33.17,REHABILITASYON
+23,0,151.8,54.6,1.725,Ayak Bileği,0.5,0,Güç ve Kondisyon,Dumbbell Only,3,23.69,PPL_SPLIT
+45,0,193.0,72.0,1.375,Yok,2.2682115321755285,7,Kas Kazanımı,Bodyweight,2,19.33,PPL_SPLIT
+28,1,179.0,55.1,1.55,Diz,0.0,7,Kas Kazanımı,Bodyweight,5,17.2,KILO_ALMA
+54,1,153.0,64.5,1.9,Ayak Bileği,0.0,6,Güç ve Kondisyon,Dumbbell Only,5,27.55,PPL_SPLIT
+58,1,167.0,49.7,1.55,Diz,0.0,2,Kas Kazanımı,Dumbbell Only,5,17.82,KILO_ALMA
+56,0,176.0,84.0,1.9,Omuz,2.5830147306162776,7,Kilo Verme,Bodyweight,3,27.12,KILO_ALMA
+44,1,181.0,83.0,1.9,Bel,3.895072020787208,8,Kas Kazanımı,Full Gym,4,25.34,REHABILITASYON
+56,0,161.0,90.2,1.375,Diz,0.0,5,Kilo Verme,Bodyweight,4,34.8,YAG_YAKIMI
+53,0,171.0,115.0,1.375,Omuz,4.306603587117897,13,Güç ve Kondisyon,Dumbbell Only,2,39.33,YAG_YAKIMI
+45,0,161.0,98.0,1.55,Diz,3.636454834604008,5,Güç ve Kondisyon,Bodyweight,4,37.81,REHABILITASYON
+31,0,159.8,61.5,1.55,Yok,0.6,12,Güç ve Kondisyon,Full Gym,4,24.08,PPL_SPLIT
+45,1,175.0,73.0,1.55,Yok,0.0,1,Güç ve Kondisyon,Full Gym,4,23.84,PPL_SPLIT
+33,0,175.0,102.6,1.9,Diz,0.0,11,Kilo Verme,Full Gym,3,33.5,YAG_YAKIMI
+25,0,196.0,112.4,1.55,Diz,0.0,7,Kilo Verme,Bodyweight,5,29.26,YAG_YAKIMI
+54,1,177.0,118.0,1.9,Omuz,0.8412942671760082,10,Güç ve Kondisyon,Full Gym,2,37.66,KILO_ALMA
+52,1,169.0,70.6,1.375,Omuz,0.0,10,Güç ve Kondisyon,Dumbbell Only,4,24.72,PPL_SPLIT
+20,1,168.0,46.5,1.55,Yok,0.0,8,Kas Kazanımı,Bodyweight,3,16.48,KILO_ALMA
+56,1,185.0,66.0,1.375,Bel,1.2384048677287356,8,Güç ve Kondisyon,Bodyweight,5,19.28,KILO_ALMA
+40,0,154.9,45.0,1.9,Bel,0.7,10,Kas Kazanımı,Dumbbell Only,5,18.75,KILO_ALMA
+20,1,161.0,44.2,1.55,Ayak Bileği,0.0,2,Kas Kazanımı,Full Gym,3,17.05,KILO_ALMA
+45,0,191.0,93.0,1.55,Diz,0.0,11,Güç ve Kondisyon,Full Gym,3,25.49,PPL_SPLIT
+21,1,159.7,73.1,1.2,Yok,0.1,11,Kilo Verme,Bodyweight,4,28.66,YAG_YAKIMI
+37,1,175.0,66.9,1.9,Ayak Bileği,0.0,3,Güç ve Kondisyon,Bodyweight,3,21.84,PPL_SPLIT
+37,1,171.7,62.8,1.725,Yok,0.7,4,Güç ve Kondisyon,Full Gym,5,21.3,PPL_SPLIT
+43,0,178.0,59.0,1.2,Bel,3.8896811413338814,3,Kilo Verme,Bodyweight,3,18.62,PPL_SPLIT
+18,0,193.0,94.0,1.2,Bel,1.321044192616177,0,Güç ve Kondisyon,Full Gym,3,25.24,YAG_YAKIMI
+42,1,157.0,57.7,1.375,Ayak Bileği,0.0,6,Güç ve Kondisyon,Bodyweight,5,23.41,PPL_SPLIT
+25,0,156.0,57.0,1.55,Bel,0.613096079699848,4,Kas Kazanımı,Full Gym,3,23.42,PPL_SPLIT
+57,0,174.0,51.0,1.2,Bel,0.11028835237630374,10,Güç ve Kondisyon,Bodyweight,3,16.85,YAG_YAKIMI
+27,0,162.3,45.0,1.725,Ayak Bileği,4.4,5,Sakatlık Sonrası,Dumbbell Only,4,17.08,REHABILITASYON
+27,0,186.0,106.4,1.725,Diz,0.0,7,Kilo Verme,Bodyweight,4,30.76,YAG_YAKIMI
+57,1,177.0,82.0,1.9,Bel,2.5169423102843105,7,Sakatlık Sonrası,Bodyweight,5,26.17,YAG_YAKIMI
+37,0,181.0,83.0,1.725,Ayak Bileği,1.930660587426004,10,Kas Kazanımı,Bodyweight,5,25.34,YAG_YAKIMI
+28,1,167.0,67.3,1.9,Bel,0.0,0,Güç ve Kondisyon,Bodyweight,5,24.13,PPL_SPLIT
+37,0,154.8,59.7,1.375,Bel,4.2,7,Sakatlık Sonrası,Bodyweight,4,24.91,REHABILITASYON
+27,0,198.0,88.5,1.9,Yok,0.0,7,Güç ve Kondisyon,Full Gym,4,22.57,PPL_SPLIT
+46,1,181.0,60.0,1.2,Diz,3.6516759830022014,8,Kilo Verme,Full Gym,3,18.31,REHABILITASYON
+49,1,190.0,84.0,1.375,Bel,4.9915871211852405,8,Kilo Verme,Bodyweight,3,23.27,KILO_ALMA
+60,0,186.0,65.0,1.9,Diz,2.943652391869364,1,Sakatlık Sonrası,Bodyweight,3,18.79,KILO_ALMA
+27,1,193.0,75.0,1.375,Bel,1.8513686276538863,9,Güç ve Kondisyon,Full Gym,4,20.13,KILO_ALMA
+27,0,170.0,76.7,1.375,Yok,0.0,13,Güç ve Kondisyon,Dumbbell Only,5,26.54,PPL_SPLIT
+18,1,172.0,78.0,1.9,Ayak Bileği,0.5,10,Güç ve Kondisyon,Dumbbell Only,4,26.37,PPL_SPLIT
+18,0,164.0,54.6,1.375,Yok,4.5,9,Sakatlık Sonrası,Dumbbell Only,5,20.3,REHABILITASYON
+55,1,179.0,81.0,1.725,Omuz,1.8568272679966813,7,Kas Kazanımı,Full Gym,4,25.28,PPL_SPLIT
+25,1,160.0,80.0,1.725,Omuz,3.135769586493347,5,Sakatlık Sonrası,Bodyweight,4,31.25,KILO_ALMA
+42,0,187.0,70.2,1.55,Yok,0.0,7,Güç ve Kondisyon,Bodyweight,4,20.07,PPL_SPLIT
+40,0,165.0,106.5,1.9,Diz,0.0,2,Kilo Verme,Bodyweight,4,39.12,YAG_YAKIMI
+34,1,153.0,69.2,1.9,Diz,0.0,1,Kilo Verme,Full Gym,5,29.56,YAG_YAKIMI
+26,0,173.0,127.6,1.725,Diz,0.0,4,Kilo Verme,Bodyweight,5,42.63,YAG_YAKIMI
+21,1,171.5,62.1,1.55,Bel,0.4,0,Güç ve Kondisyon,Dumbbell Only,3,21.11,PPL_SPLIT
+27,0,156.7,48.8,1.55,Yok,0.8,8,Güç ve Kondisyon,Bodyweight,3,19.87,PPL_SPLIT
+26,0,168.4,64.2,1.2,Yok,4.6,2,Sakatlık Sonrası,Full Gym,4,22.64,REHABILITASYON
+28,0,191.0,103.0,1.2,Omuz,1.5684627145177914,8,Güç ve Kondisyon,Bodyweight,5,28.23,KILO_ALMA
+18,0,188.0,62.0,1.725,Yok,1.647884903868727,5,Sakatlık Sonrası,Full Gym,4,17.54,YAG_YAKIMI
+47,0,168.0,70.0,1.375,Yok,4.40588926205168,9,Sakatlık Sonrası,Full Gym,3,24.8,PPL_SPLIT
+31,0,158.0,82.0,1.55,Diz,3.465057077200757,9,Sakatlık Sonrası,Full Gym,5,32.85,YAG_YAKIMI
+44,0,180.0,65.2,1.55,Omuz,0.0,6,Güç ve Kondisyon,Full Gym,4,20.12,PPL_SPLIT
+27,1,171.1,77.6,1.2,Omuz,0.1,2,Güç ve Kondisyon,Dumbbell Only,3,26.51,PPL_SPLIT
+23,0,163.0,108.0,1.9,Yok,2.1996888811209248,5,Sakatlık Sonrası,Full Gym,4,40.65,KILO_ALMA
+22,0,159.7,56.6,1.2,Ayak Bileği,4.4,6,Sakatlık Sonrası,Dumbbell Only,4,22.19,REHABILITASYON
+39,1,171.0,55.9,1.9,Diz,0.0,11,Güç ve Kondisyon,Bodyweight,5,19.12,PPL_SPLIT
+23,1,175.8,52.9,1.2,Bel,4.9,7,Sakatlık Sonrası,Bodyweight,5,17.12,REHABILITASYON
+25,1,158.0,57.7,1.2,Bel,0.0,6,Güç ve Kondisyon,Full Gym,3,23.11,PPL_SPLIT
+18,0,165.9,57.4,1.55,Yok,0.8,8,Güç ve Kondisyon,Full Gym,4,20.86,PPL_SPLIT
+28,1,176.4,75.8,1.2,Bel,0.9,14,Güç ve Kondisyon,Full Gym,3,24.36,PPL_SPLIT
+39,1,166.9,66.3,1.2,Diz,0.8,7,Güç ve Kondisyon,Dumbbell Only,5,23.8,PPL_SPLIT
+22,1,170.6,56.7,1.9,Bel,4.3,7,Sakatlık Sonrası,Full Gym,5,19.48,REHABILITASYON
+32,1,173.5,72.5,1.725,Bel,0.2,2,Güç ve Kondisyon,Dumbbell Only,4,24.08,PPL_SPLIT
+51,0,165.0,59.0,1.375,Bel,0.0,5,Güç ve Kondisyon,Full Gym,3,21.67,PPL_SPLIT
+26,1,150.0,71.2,1.55,Diz,0.0,8,Kilo Verme,Dumbbell Only,5,31.64,YAG_YAKIMI
+27,1,183.8,83.7,1.55,Diz,0.2,10,Güç ve Kondisyon,Full Gym,4,24.78,PPL_SPLIT
+52,1,176.0,78.0,1.55,Diz,2.31412117145067,0,Sakatlık Sonrası,Full Gym,4,25.18,YAG_YAKIMI
+43,1,166.0,64.7,1.2,Ayak Bileği,0.0,2,Güç ve Kondisyon,Bodyweight,4,23.48,PPL_SPLIT
+40,1,169.5,72.6,1.9,Yok,4.6,11,Sakatlık Sonrası,Dumbbell Only,3,25.27,REHABILITASYON
+40,0,186.0,95.0,1.55,Ayak Bileği,2.13233461005513,10,Kas Kazanımı,Full Gym,2,27.46,PPL_SPLIT
+34,1,179.5,78.0,1.2,Bel,0.7,1,Güç ve Kondisyon,Bodyweight,5,24.21,PPL_SPLIT
+20,1,158.0,74.7,1.9,Yok,0.0,1,Kilo Verme,Dumbbell Only,5,29.92,YAG_YAKIMI
+36,0,186.0,95.8,1.2,Yok,0.0,10,Güç ve Kondisyon,Bodyweight,4,27.69,PPL_SPLIT
+35,0,170.0,56.0,1.725,Omuz,4.885666229693317,2,Kas Kazanımı,Bodyweight,4,19.38,PPL_SPLIT
+27,1,165.7,92.1,1.55,Ayak Bileği,0.1,10,Kilo Verme,Full Gym,4,33.54,YAG_YAKIMI
+29,0,191.0,95.0,1.375,Bel,2.5142185593186186,6,Güç ve Kondisyon,Bodyweight,3,26.04,KILO_ALMA
+56,1,187.0,105.0,1.9,Diz,0.0590776870000187,7,Kilo Verme,Full Gym,4,30.03,REHABILITASYON
+40,1,177.0,100.0,1.375,Yok,2.36054864579856,4,Sakatlık Sonrası,Bodyweight,5,31.92,PPL_SPLIT
+28,0,156.1,51.4,1.375,Diz,0.7,7,Güç ve Kondisyon,Dumbbell Only,5,21.09,PPL_SPLIT
+22,0,182.0,106.8,1.55,Diz,0.0,2,Kilo Verme,Bodyweight,5,32.24,YAG_YAKIMI
+36,0,168.1,51.0,1.375,Ayak Bileği,4.2,7,Sakatlık Sonrası,Bodyweight,5,18.05,REHABILITASYON
+28,0,165.0,68.0,1.2,Omuz,0.6109025767322362,8,Kas Kazanımı,Full Gym,5,24.98,REHABILITASYON
+22,0,158.6,54.0,1.725,Bel,0.6,1,Güç ve Kondisyon,Bodyweight,5,21.47,PPL_SPLIT
+33,0,153.8,66.5,1.55,Diz,0.9,8,Güç ve Kondisyon,Bodyweight,3,28.11,PPL_SPLIT
+59,0,169.0,126.4,1.725,Bel,0.0,4,Kilo Verme,Full Gym,3,44.26,YAG_YAKIMI
+31,0,160.9,61.8,1.9,Bel,4.7,5,Sakatlık Sonrası,Full Gym,3,23.87,REHABILITASYON
+27,0,164.0,89.3,1.2,Yok,0.0,12,Kilo Verme,Bodyweight,3,33.2,YAG_YAKIMI
+32,0,160.0,85.9,1.375,Omuz,0.0,10,Kilo Verme,Dumbbell Only,5,33.55,YAG_YAKIMI
+34,0,189.0,76.0,1.2,Bel,3.95163029819946,6,Sakatlık Sonrası,Bodyweight,3,21.28,PPL_SPLIT
+26,0,181.0,69.0,1.55,Diz,1.454211778206428,9,Güç ve Kondisyon,Full Gym,4,21.06,KILO_ALMA
+40,0,166.4,50.5,1.9,Ayak Bileği,4.1,13,Sakatlık Sonrası,Full Gym,3,18.24,REHABILITASYON
+22,1,170.0,78.5,1.725,Diz,0.0,1,Güç ve Kondisyon,Dumbbell Only,3,27.16,PPL_SPLIT
+45,0,177.0,81.0,1.2,Diz,3.8720044015184873,0,Kas Kazanımı,Full Gym,3,25.85,PPL_SPLIT
+45,1,186.0,87.0,1.725,Yok,3.534398753952657,11,Güç ve Kondisyon,Dumbbell Only,4,25.15,KILO_ALMA
+42,0,173.0,106.0,1.725,Omuz,3.3361345747266675,4,Güç ve Kondisyon,Full Gym,3,35.42,REHABILITASYON
+18,0,167.2,51.9,1.725,Yok,1.0,12,Kas Kazanımı,Bodyweight,5,18.56,KILO_ALMA
+26,1,178.0,112.0,1.55,Diz,0.10964238639081525,14,Kas Kazanımı,Dumbbell Only,5,35.35,REHABILITASYON
+26,0,168.0,56.0,1.375,Diz,4.213994339630871,8,Kilo Verme,Full Gym,5,19.84,REHABILITASYON
+26,1,166.0,70.9,1.725,Omuz,0.0,10,Güç ve Kondisyon,Dumbbell Only,3,25.73,PPL_SPLIT
+47,0,165.0,127.8,1.725,Omuz,0.0,7,Kilo Verme,Dumbbell Only,4,46.94,YAG_YAKIMI
+23,0,180.0,80.9,1.9,Omuz,0.0,3,Güç ve Kondisyon,Dumbbell Only,5,24.97,PPL_SPLIT
+38,1,159.6,55.8,1.375,Diz,0.2,11,Güç ve Kondisyon,Full Gym,3,21.91,PPL_SPLIT
+18,1,165.0,101.0,1.9,Diz,2.670531923169311,5,Kilo Verme,Full Gym,5,37.1,KILO_ALMA
+38,0,157.0,45.0,1.375,Diz,4.8,10,Sakatlık Sonrası,Dumbbell Only,3,18.26,REHABILITASYON
+29,1,183.6,57.1,1.9,Omuz,0.9,5,Kas Kazanımı,Full Gym,5,16.94,KILO_ALMA
+39,0,162.3,52.0,1.2,Diz,0.7,11,Güç ve Kondisyon,Full Gym,3,19.74,PPL_SPLIT
+38,0,174.0,46.9,1.9,Ayak Bileği,0.0,0,Kas Kazanımı,Dumbbell Only,3,15.49,KILO_ALMA
+53,1,155.0,55.8,1.9,Ayak Bileği,0.0,2,Güç ve Kondisyon,Bodyweight,3,23.23,PPL_SPLIT
+56,1,171.0,93.0,1.725,Omuz,1.0724524390677437,9,Kas Kazanımı,Full Gym,5,31.8,REHABILITASYON
+55,0,168.0,52.1,1.2,Yok,0.0,6,Kas Kazanımı,Dumbbell Only,5,18.46,KILO_ALMA
+34,0,194.0,75.7,1.9,Ayak Bileği,0.0,7,Güç ve Kondisyon,Bodyweight,5,20.11,PPL_SPLIT
+34,1,162.0,51.0,1.2,Omuz,0.0,6,Güç ve Kondisyon,Dumbbell Only,4,19.43,PPL_SPLIT
+32,0,192.0,77.4,1.9,Omuz,0.0,11,Güç ve Kondisyon,Bodyweight,4,21.0,PPL_SPLIT
+31,1,168.9,68.7,1.55,Yok,4.2,2,Sakatlık Sonrası,Full Gym,3,24.08,REHABILITASYON
+25,0,168.5,58.1,1.725,Omuz,0.8,7,Güç ve Kondisyon,Full Gym,4,20.46,PPL_SPLIT
+33,1,165.0,79.0,1.725,Diz,1.7740009494630056,5,Kas Kazanımı,Full Gym,3,29.02,YAG_YAKIMI
+33,1,171.0,82.9,1.9,Ayak Bileği,0.6,1,Güç ve Kondisyon,Dumbbell Only,4,28.35,PPL_SPLIT
+33,1,171.6,48.4,1.9,Omuz,0.1,6,Kas Kazanımı,Bodyweight,5,16.44,KILO_ALMA
+58,1,178.0,63.0,1.375,Bel,0.0,10,Güç ve Kondisyon,Bodyweight,5,19.88,PPL_SPLIT
+50,1,156.0,87.0,1.2,Bel,4.133672862332939,1,Sakatlık Sonrası,Full Gym,4,35.75,PPL_SPLIT
+46,1,161.0,63.1,1.9,Omuz,0.0,4,Güç ve Kondisyon,Bodyweight,4,24.34,PPL_SPLIT
+36,1,193.0,93.0,1.375,Diz,3.1491054783853074,6,Kas Kazanımı,Full Gym,4,24.97,YAG_YAKIMI
+20,1,169.0,71.3,1.725,Ayak Bileği,0.0,1,Güç ve Kondisyon,Dumbbell Only,4,24.96,PPL_SPLIT
+52,1,171.0,59.7,1.55,Ayak Bileği,0.0,1,Güç ve Kondisyon,Bodyweight,3,20.42,PPL_SPLIT
+36,0,192.0,90.0,1.375,Yok,4.32527595528671,9,Güç ve Kondisyon,Bodyweight,4,24.41,YAG_YAKIMI
+21,0,166.0,125.2,1.2,Bel,0.0,2,Kilo Verme,Bodyweight,4,45.43,YAG_YAKIMI
+28,1,150.0,56.0,1.725,Ayak Bileği,0.0,3,Güç ve Kondisyon,Bodyweight,4,24.89,PPL_SPLIT
+36,0,188.0,85.4,1.55,Omuz,0.0,14,Güç ve Kondisyon,Bodyweight,3,24.16,PPL_SPLIT
+19,1,177.0,58.8,1.725,Ayak Bileği,0.0,4,Kas Kazanımı,Dumbbell Only,5,18.77,KILO_ALMA
+20,1,183.0,95.0,1.2,Diz,2.67779211782815,3,Güç ve Kondisyon,Bodyweight,3,28.37,KILO_ALMA
+22,1,188.2,66.4,1.375,Diz,0.2,7,Kas Kazanımı,Full Gym,4,18.75,KILO_ALMA
+33,1,171.5,71.4,1.2,Bel,0.6,13,Güç ve Kondisyon,Bodyweight,5,24.28,PPL_SPLIT
+28,0,161.9,52.7,1.2,Diz,0.9,14,Güç ve Kondisyon,Bodyweight,3,20.11,PPL_SPLIT
+53,0,166.0,103.0,1.375,Yok,1.744159385585093,2,Güç ve Kondisyon,Bodyweight,5,37.38,YAG_YAKIMI
+31,0,193.0,60.0,1.725,Diz,4.801320714009643,9,Kas Kazanımı,Bodyweight,4,16.11,PPL_SPLIT
+41,0,180.0,51.5,1.725,Omuz,0.0,2,Kas Kazanımı,Bodyweight,5,15.9,KILO_ALMA
+45,0,186.0,84.9,1.725,Omuz,0.0,0,Güç ve Kondisyon,Full Gym,4,24.54,PPL_SPLIT
+55,1,173.0,76.3,1.2,Yok,0.0,11,Güç ve Kondisyon,Bodyweight,5,25.49,PPL_SPLIT
+34,0,187.0,71.0,1.725,Omuz,2.888277102173566,6,Sakatlık Sonrası,Dumbbell Only,2,20.3,KILO_ALMA
+32,1,162.0,70.5,1.55,Diz,0.0,2,Güç ve Kondisyon,Bodyweight,4,26.86,PPL_SPLIT
+58,0,193.0,93.0,1.725,Bel,4.729976643441603,0,Güç ve Kondisyon,Bodyweight,5,24.97,REHABILITASYON
+63,0,169.0,84.0,1.9,Diz,1.3255018124043771,1,Güç ve Kondisyon,Bodyweight,5,29.41,KILO_ALMA
+33,1,166.0,53.7,1.725,Omuz,0.0,3,Güç ve Kondisyon,Bodyweight,3,19.49,PPL_SPLIT
+38,1,166.8,53.0,1.55,Ayak Bileği,0.1,14,Güç ve Kondisyon,Dumbbell Only,3,19.05,PPL_SPLIT
+29,0,165.0,60.0,1.55,Yok,3.192350812739119,8,Kilo Verme,Bodyweight,4,22.04,KILO_ALMA
+33,0,171.5,52.4,1.9,Yok,0.0,7,Kas Kazanımı,Bodyweight,5,17.82,KILO_ALMA
+28,1,160.0,62.4,1.55,Diz,0.0,14,Güç ve Kondisyon,Full Gym,3,24.37,PPL_SPLIT
+32,0,162.0,65.2,1.375,Yok,0.0,8,Güç ve Kondisyon,Dumbbell Only,4,24.84,PPL_SPLIT
+55,0,186.0,63.5,1.375,Yok,0.0,8,Kas Kazanımı,Full Gym,4,18.35,KILO_ALMA
+52,1,158.0,70.6,1.55,Bel,0.0,1,Güç ve Kondisyon,Bodyweight,5,28.28,PPL_SPLIT
+29,0,188.0,79.0,1.55,Diz,2.425361926328003,9,Kilo Verme,Full Gym,5,22.35,PPL_SPLIT
+31,0,159.1,75.4,1.375,Ayak Bileği,0.6,0,Kilo Verme,Bodyweight,5,29.79,YAG_YAKIMI
+54,1,154.0,67.5,1.2,Yok,0.0,10,Güç ve Kondisyon,Dumbbell Only,3,28.46,PPL_SPLIT
+64,1,165.0,108.0,1.375,Yok,1.0223476691747635,8,Güç ve Kondisyon,Full Gym,5,39.67,REHABILITASYON
+31,0,162.3,47.0,1.2,Omuz,0.6,2,Kas Kazanımı,Dumbbell Only,5,17.84,KILO_ALMA
+43,0,183.0,66.5,1.375,Diz,0.0,12,Güç ve Kondisyon,Bodyweight,4,19.86,PPL_SPLIT
+30,0,199.0,91.4,1.2,Omuz,0.0,5,Güç ve Kondisyon,Full Gym,5,23.08,PPL_SPLIT
+31,1,176.0,61.1,1.2,Ayak Bileği,0.0,2,Güç ve Kondisyon,Full Gym,5,19.72,PPL_SPLIT
+29,0,177.0,102.0,1.55,Omuz,2.087662938401773,7,Sakatlık Sonrası,Bodyweight,3,32.56,PPL_SPLIT
+38,0,179.0,88.4,1.9,Bel,0.0,10,Güç ve Kondisyon,Bodyweight,4,27.59,PPL_SPLIT
+28,1,167.0,72.9,1.9,Omuz,0.0,14,Güç ve Kondisyon,Bodyweight,4,26.14,PPL_SPLIT
+30,0,157.7,57.8,1.375,Ayak Bileği,0.1,5,Güç ve Kondisyon,Bodyweight,4,23.24,PPL_SPLIT
+52,0,171.0,95.0,1.725,Diz,4.934815416853553,0,Kas Kazanımı,Full Gym,3,32.49,PPL_SPLIT
+23,1,184.4,85.5,1.55,Bel,4.9,14,Sakatlık Sonrası,Bodyweight,3,25.14,REHABILITASYON
+57,1,156.0,86.0,1.9,Bel,4.409117161935969,5,Güç ve Kondisyon,Bodyweight,5,35.34,YAG_YAKIMI
+41,1,164.0,61.9,1.2,Yok,0.0,2,Güç ve Kondisyon,Bodyweight,3,23.01,PPL_SPLIT
+32,0,171.0,85.0,1.55,Yok,0.0102366802202863,4,Kas Kazanımı,Bodyweight,5,29.07,YAG_YAKIMI
+28,0,186.0,65.0,1.375,Bel,2.9774271595396646,7,Sakatlık Sonrası,Full Gym,5,18.79,KILO_ALMA
+37,1,174.0,73.3,1.55,Bel,0.0,11,Güç ve Kondisyon,Full Gym,3,24.21,PPL_SPLIT
+38,1,180.0,84.1,1.9,Diz,4.5,7,Sakatlık Sonrası,Bodyweight,5,25.96,REHABILITASYON
+19,0,178.0,87.8,1.375,Omuz,0.0,13,Güç ve Kondisyon,Full Gym,4,27.71,PPL_SPLIT
+27,1,174.2,63.0,1.375,Ayak Bileği,0.8,4,Güç ve Kondisyon,Dumbbell Only,4,20.76,PPL_SPLIT
+39,0,155.7,56.9,1.2,Omuz,4.5,13,Sakatlık Sonrası,Full Gym,4,23.47,REHABILITASYON
+40,0,170.4,58.0,1.55,Omuz,0.0,11,Güç ve Kondisyon,Bodyweight,5,19.98,PPL_SPLIT
+59,0,172.0,89.4,1.725,Bel,0.0,1,Kilo Verme,Bodyweight,5,30.22,YAG_YAKIMI
+30,0,167.0,75.0,1.9,Yok,4.413234265002243,3,Kilo Verme,Full Gym,3,26.89,KILO_ALMA
+41,1,174.0,66.8,1.375,Diz,0.0,4,Güç ve Kondisyon,Bodyweight,4,22.06,PPL_SPLIT
+20,0,181.0,117.7,1.375,Ayak Bileği,0.0,0,Kilo Verme,Full Gym,5,35.93,YAG_YAKIMI
+18,1,173.0,80.9,1.55,Bel,0.8,12,Güç ve Kondisyon,Full Gym,3,27.03,PPL_SPLIT
+46,1,154.0,62.5,1.9,Bel,0.0,12,Güç ve Kondisyon,Full Gym,5,26.35,PPL_SPLIT
+28,0,179.0,84.8,1.725,Omuz,0.0,5,Güç ve Kondisyon,Full Gym,3,26.47,PPL_SPLIT
+31,1,176.8,77.4,1.2,Ayak Bileği,4.1,11,Sakatlık Sonrası,Full Gym,5,24.76,REHABILITASYON
+27,0,187.0,89.3,1.375,Ayak Bileği,0.0,13,Güç ve Kondisyon,Dumbbell Only,4,25.54,PPL_SPLIT
+35,1,160.0,50.4,1.9,Yok,0.0,10,Güç ve Kondisyon,Dumbbell Only,5,19.69,PPL_SPLIT
+25,0,161.0,81.5,1.9,Yok,0.0,9,Kilo Verme,Full Gym,4,31.44,YAG_YAKIMI
+42,0,187.0,96.0,1.2,Yok,4.236734550103379,1,Güç ve Kondisyon,Bodyweight,5,27.45,KILO_ALMA
+52,0,172.0,70.9,1.55,Ayak Bileği,0.0,8,Güç ve Kondisyon,Dumbbell Only,5,23.97,PPL_SPLIT
+58,0,162.0,59.0,1.725,Ayak Bileği,0.14136384935586777,3,Kas Kazanımı,Dumbbell Only,2,22.48,PPL_SPLIT
+27,0,180.0,108.0,1.55,Diz,0.0,4,Kilo Verme,Full Gym,5,33.33,YAG_YAKIMI
+22,1,172.0,95.0,1.725,Diz,1.7651064931791038,8,Güç ve Kondisyon,Bodyweight,4,32.11,KILO_ALMA
+27,1,184.0,101.0,1.55,Diz,2.162444219095298,3,Güç ve Kondisyon,Bodyweight,4,29.83,YAG_YAKIMI
+40,1,179.0,56.2,1.55,Yok,0.0,6,Kas Kazanımı,Dumbbell Only,4,17.54,KILO_ALMA
+34,1,172.9,74.6,1.375,Bel,0.8,13,Güç ve Kondisyon,Dumbbell Only,5,24.95,PPL_SPLIT
+49,0,172.0,46.5,1.2,Bel,0.0,5,Kas Kazanımı,Full Gym,3,15.72,KILO_ALMA
+55,0,181.0,69.9,1.55,Diz,0.0,11,Güç ve Kondisyon,Full Gym,4,21.34,PPL_SPLIT
+33,0,172.0,76.0,1.55,Diz,0.9005393172585857,1,Sakatlık Sonrası,Bodyweight,5,25.69,PPL_SPLIT
+56,0,180.0,125.5,1.725,Yok,0.0,13,Kilo Verme,Dumbbell Only,5,38.73,YAG_YAKIMI
+24,0,158.3,45.0,1.725,Diz,4.9,3,Sakatlık Sonrası,Dumbbell Only,5,17.96,REHABILITASYON
+40,1,177.0,67.4,1.9,Omuz,4.0,3,Sakatlık Sonrası,Full Gym,5,21.51,REHABILITASYON
+56,1,180.0,40.4,1.9,Bel,0.0,12,Kas Kazanımı,Dumbbell Only,3,12.47,KILO_ALMA
+48,0,177.0,80.6,1.725,Bel,0.0,1,Güç ve Kondisyon,Bodyweight,4,25.73,PPL_SPLIT
+32,0,176.0,81.0,1.2,Yok,0.9555161165474336,6,Kilo Verme,Full Gym,5,26.15,REHABILITASYON
+27,1,167.1,82.8,1.725,Omuz,0.3,7,Kilo Verme,Dumbbell Only,3,29.65,YAG_YAKIMI
+32,1,166.0,59.0,1.55,Ayak Bileği,0.0,11,Güç ve Kondisyon,Dumbbell Only,4,21.41,PPL_SPLIT
+38,0,171.0,81.4,1.375,Bel,0.0,4,Güç ve Kondisyon,Dumbbell Only,4,27.84,PPL_SPLIT
+20,0,182.0,124.3,1.55,Bel,0.0,9,Kilo Verme,Bodyweight,4,37.53,YAG_YAKIMI
+38,0,170.8,50.6,1.55,Diz,0.5,5,Kas Kazanımı,Dumbbell Only,3,17.35,KILO_ALMA
+25,1,173.0,98.0,1.2,Yok,2.094227927549546,5,Kas Kazanımı,Bodyweight,5,32.74,PPL_SPLIT
+37,1,174.9,67.9,1.2,Bel,0.4,11,Güç ve Kondisyon,Full Gym,5,22.2,PPL_SPLIT
+35,1,166.0,58.0,1.725,Diz,2.733467627937982,8,Kilo Verme,Bodyweight,3,21.05,KILO_ALMA
+28,1,174.3,65.2,1.2,Yok,4.5,11,Sakatlık Sonrası,Bodyweight,3,21.46,REHABILITASYON
+26,1,156.0,109.0,1.375,Yok,1.7682680436472609,2,Kilo Verme,Bodyweight,5,44.79,PPL_SPLIT
+45,0,158.0,106.0,1.9,Diz,3.409718817410607,0,Kilo Verme,Full Gym,3,42.46,REHABILITASYON
+57,0,169.0,82.2,1.2,Ayak Bileği,0.0,12,Kilo Verme,Bodyweight,3,28.78,YAG_YAKIMI
+43,1,179.0,57.3,1.725,Bel,0.0,13,Kas Kazanımı,Bodyweight,5,17.88,KILO_ALMA
+34,1,186.0,70.0,1.55,Bel,3.0388449478828288,8,Güç ve Kondisyon,Bodyweight,4,20.23,REHABILITASYON
+37,1,175.5,76.3,1.55,Yok,4.6,9,Sakatlık Sonrası,Full Gym,5,24.77,REHABILITASYON
+51,0,167.0,115.3,1.725,Diz,0.0,12,Kilo Verme,Bodyweight,4,41.34,YAG_YAKIMI
+37,1,156.0,84.0,1.725,Diz,1.1018942596453858,2,Güç ve Kondisyon,Bodyweight,5,34.52,YAG_YAKIMI
+26,0,179.0,92.0,1.2,Yok,4.715207964007269,9,Güç ve Kondisyon,Full Gym,5,28.71,REHABILITASYON
+26,0,156.8,65.6,1.9,Ayak Bileği,4.2,4,Sakatlık Sonrası,Dumbbell Only,5,26.68,REHABILITASYON
+52,1,160.0,76.0,1.725,Diz,1.2302284265818142,9,Kas Kazanımı,Bodyweight,5,29.69,REHABILITASYON
+39,0,183.0,106.0,1.9,Bel,1.181918626092333,5,Kilo Verme,Full Gym,4,31.65,REHABILITASYON
+45,0,187.0,51.1,1.725,Yok,0.0,2,Kas Kazanımı,Full Gym,5,14.61,KILO_ALMA
+23,1,174.4,76.6,1.55,Omuz,0.5,9,Güç ve Kondisyon,Full Gym,3,25.18,PPL_SPLIT
+48,1,162.0,68.0,1.725,Yok,4.766086274665798,8,Kas Kazanımı,Bodyweight,3,25.91,YAG_YAKIMI
+26,1,171.5,85.3,1.375,Yok,4.3,4,Sakatlık Sonrası,Dumbbell Only,5,29.0,REHABILITASYON
+30,1,177.3,77.1,1.9,Bel,0.0,12,Güç ve Kondisyon,Bodyweight,5,24.53,PPL_SPLIT
+38,1,175.0,81.2,1.375,Diz,0.8,6,Güç ve Kondisyon,Full Gym,3,26.51,PPL_SPLIT
+50,1,193.0,108.0,1.55,Yok,4.31685791527596,4,Kas Kazanımı,Full Gym,3,28.99,YAG_YAKIMI
+51,1,158.0,66.2,1.55,Bel,0.0,9,Güç ve Kondisyon,Dumbbell Only,5,26.52,PPL_SPLIT
+29,0,162.0,86.7,1.9,Ayak Bileği,0.0,3,Kilo Verme,Full Gym,5,33.04,YAG_YAKIMI
+52,0,178.0,50.3,1.375,Yok,0.0,0,Kas Kazanımı,Dumbbell Only,3,15.88,KILO_ALMA
+45,1,168.0,65.4,1.55,Diz,0.0,3,Güç ve Kondisyon,Bodyweight,3,23.17,PPL_SPLIT
+22,1,172.0,58.3,1.55,Omuz,0.0,1,Güç ve Kondisyon,Dumbbell Only,3,19.71,PPL_SPLIT
+31,1,164.0,53.3,1.55,Omuz,0.0,4,Güç ve Kondisyon,Bodyweight,5,19.82,PPL_SPLIT
+38,0,177.0,91.5,1.55,Yok,0.0,7,Kilo Verme,Dumbbell Only,4,29.21,YAG_YAKIMI
+29,1,169.0,75.0,1.55,Yok,0.8128835504878651,3,Kilo Verme,Bodyweight,3,26.26,KILO_ALMA
+18,1,172.3,58.4,1.2,Ayak Bileği,0.2,5,Güç ve Kondisyon,Dumbbell Only,4,19.67,PPL_SPLIT
+37,1,165.0,72.0,1.375,Diz,4.508047393357936,0,Güç ve Kondisyon,Full Gym,5,26.45,YAG_YAKIMI
+40,0,164.4,59.9,1.375,Diz,0.2,0,Güç ve Kondisyon,Dumbbell Only,3,22.16,PPL_SPLIT
+41,0,183.0,72.1,1.375,Yok,0.0,6,Güç ve Kondisyon,Bodyweight,5,21.53,PPL_SPLIT
+49,0,168.0,85.0,1.375,Yok,0.0,10,Kilo Verme,Dumbbell Only,3,30.12,YAG_YAKIMI
+24,0,167.9,47.9,1.2,Bel,0.5,11,Kas Kazanımı,Dumbbell Only,3,16.99,KILO_ALMA
+34,0,163.2,50.3,1.2,Bel,4.1,12,Sakatlık Sonrası,Full Gym,4,18.89,REHABILITASYON
+37,0,171.0,62.6,1.2,Omuz,0.9,12,Güç ve Kondisyon,Full Gym,5,21.41,PPL_SPLIT
+52,0,162.0,105.2,1.725,Ayak Bileği,0.0,8,Kilo Verme,Bodyweight,4,40.09,YAG_YAKIMI
+22,0,192.0,110.5,1.375,Yok,0.0,8,Kilo Verme,Dumbbell Only,4,29.98,YAG_YAKIMI
+35,1,158.8,60.8,1.55,Yok,0.5,8,Güç ve Kondisyon,Full Gym,3,24.11,PPL_SPLIT
+57,0,156.0,79.0,1.725,Yok,2.89857475753594,4,Sakatlık Sonrası,Full Gym,4,32.46,KILO_ALMA
+54,1,183.0,59.0,1.9,Omuz,3.1756218444675466,2,Güç ve Kondisyon,Full Gym,4,17.62,REHABILITASYON
+54,1,183.0,65.0,1.725,Bel,4.360984541145394,3,Güç ve Kondisyon,Full Gym,2,19.41,REHABILITASYON
+42,1,151.0,54.0,1.375,Omuz,3.9872652606606795,9,Kas Kazanımı,Bodyweight,3,23.68,REHABILITASYON
+37,0,167.0,48.7,1.9,Bel,0.0,10,Kas Kazanımı,Full Gym,4,17.46,KILO_ALMA
+51,1,180.0,63.9,1.9,Bel,0.0,3,Güç ve Kondisyon,Full Gym,5,19.72,PPL_SPLIT
+56,0,174.0,90.0,1.2,Omuz,1.7775122245428598,9,Sakatlık Sonrası,Full Gym,4,29.73,PPL_SPLIT
+43,1,165.0,98.0,1.9,Omuz,1.6738578341162214,7,Güç ve Kondisyon,Bodyweight,3,36.0,YAG_YAKIMI
+24,1,150.0,59.4,1.375,Ayak Bileği,0.0,5,Güç ve Kondisyon,Dumbbell Only,4,26.4,PPL_SPLIT
+19,0,156.6,50.5,1.725,Diz,0.1,11,Güç ve Kondisyon,Dumbbell Only,3,20.59,PPL_SPLIT
+27,0,164.2,58.2,1.2,Diz,0.5,6,Güç ve Kondisyon,Dumbbell Only,5,21.59,PPL_SPLIT
+38,1,177.0,59.5,1.725,Ayak Bileği,5.0,14,Sakatlık Sonrası,Full Gym,3,18.99,REHABILITASYON
+19,0,162.1,54.5,1.9,Omuz,0.2,14,Güç ve Kondisyon,Dumbbell Only,5,20.74,PPL_SPLIT
+30,0,178.0,89.0,1.2,Omuz,4.498162995064508,7,Kilo Verme,Full Gym,4,28.09,KILO_ALMA
+37,1,157.0,55.6,1.375,Omuz,0.0,4,Güç ve Kondisyon,Dumbbell Only,5,22.56,PPL_SPLIT
+29,0,188.0,88.0,1.725,Omuz,4.849035743753768,2,Güç ve Kondisyon,Full Gym,4,24.9,REHABILITASYON
+30,0,164.1,46.7,1.55,Ayak Bileği,0.1,13,Kas Kazanımı,Dumbbell Only,3,17.34,KILO_ALMA
+50,0,169.0,50.6,1.375,Bel,0.0,5,Kas Kazanımı,Dumbbell Only,4,17.72,KILO_ALMA
+37,1,177.0,70.3,1.9,Omuz,0.0,11,Güç ve Kondisyon,Full Gym,3,22.44,PPL_SPLIT
+57,1,157.0,51.9,1.725,Diz,0.0,0,Güç ve Kondisyon,Full Gym,5,21.06,PPL_SPLIT
+26,0,160.5,60.7,1.375,Bel,0.6,13,Güç ve Kondisyon,Bodyweight,3,23.56,PPL_SPLIT
+52,1,169.0,61.5,1.55,Omuz,0.0,3,Güç ve Kondisyon,Full Gym,3,21.53,PPL_SPLIT
+56,0,173.0,107.8,1.375,Yok,0.0,1,Kilo Verme,Full Gym,5,36.02,YAG_YAKIMI
+32,1,163.0,111.0,1.2,Diz,4.179464060247156,9,Güç ve Kondisyon,Dumbbell Only,3,41.78,KILO_ALMA
+62,1,176.0,58.0,1.725,Diz,0.8232882978485789,11,Güç ve Kondisyon,Full Gym,3,18.72,REHABILITASYON
+19,1,175.0,72.4,1.9,Diz,0.0,6,Güç ve Kondisyon,Full Gym,4,23.64,PPL_SPLIT
+46,0,182.0,94.7,1.2,Diz,0.0,14,Kilo Verme,Dumbbell Only,3,28.59,YAG_YAKIMI
+26,0,166.3,45.0,1.2,Diz,0.4,5,Kas Kazanımı,Bodyweight,4,16.27,KILO_ALMA
+42,1,174.0,59.5,1.55,Yok,0.0,10,Güç ve Kondisyon,Dumbbell Only,4,19.65,PPL_SPLIT
+36,1,166.9,75.4,1.55,Bel,4.4,8,Sakatlık Sonrası,Full Gym,4,27.07,REHABILITASYON
+26,0,161.7,55.4,1.55,Ayak Bileği,0.0,6,Güç ve Kondisyon,Full Gym,4,21.19,PPL_SPLIT
+28,0,158.0,64.0,1.2,Yok,2.177618842220104,7,Kilo Verme,Full Gym,3,25.64,KILO_ALMA
+21,0,171.0,58.5,1.55,Yok,4.4,7,Sakatlık Sonrası,Dumbbell Only,5,20.01,REHABILITASYON
+26,1,164.9,68.3,1.725,Ayak Bileği,4.9,2,Sakatlık Sonrası,Bodyweight,4,25.12,REHABILITASYON
+43,1,171.0,69.0,1.2,Yok,4.542574700717338,5,Sakatlık Sonrası,Bodyweight,4,23.6,PPL_SPLIT
+22,1,179.7,78.7,1.55,Bel,0.4,7,Güç ve Kondisyon,Bodyweight,5,24.37,PPL_SPLIT
+56,1,158.0,58.0,1.725,Omuz,0.6354153254066591,3,Güç ve Kondisyon,Full Gym,4,23.23,KILO_ALMA
+22,0,159.7,56.3,1.375,Omuz,0.8,10,Güç ve Kondisyon,Bodyweight,4,22.07,PPL_SPLIT
+59,0,195.0,50.3,1.55,Bel,0.0,4,Kas Kazanımı,Bodyweight,4,13.23,KILO_ALMA
+27,0,184.0,78.0,1.725,Omuz,2.1646290372655645,1,Sakatlık Sonrası,Bodyweight,4,23.04,PPL_SPLIT
+30,1,170.5,72.9,1.375,Omuz,4.7,14,Sakatlık Sonrası,Bodyweight,4,25.08,REHABILITASYON
+32,0,180.0,108.2,1.2,Omuz,0.0,10,Kilo Verme,Full Gym,4,33.4,YAG_YAKIMI
+45,0,195.0,118.4,1.725,Omuz,0.0,6,Kilo Verme,Bodyweight,5,31.14,YAG_YAKIMI
+38,1,187.0,66.0,1.9,Diz,2.327544870580467,7,Sakatlık Sonrası,Bodyweight,3,18.87,PPL_SPLIT
+53,1,190.0,86.0,1.9,Yok,1.184045696222484,0,Sakatlık Sonrası,Bodyweight,5,23.82,PPL_SPLIT
+31,0,182.0,71.0,1.2,Diz,2.8706674440499222,0,Kilo Verme,Full Gym,3,21.43,KILO_ALMA
+18,1,153.0,64.8,1.375,Bel,0.0,7,Güç ve Kondisyon,Bodyweight,5,27.68,PPL_SPLIT
+24,1,166.0,75.0,1.375,Diz,2.7434865475728105,7,Kilo Verme,Full Gym,3,27.22,PPL_SPLIT
+28,0,159.8,60.3,1.55,Yok,0.9,11,Güç ve Kondisyon,Dumbbell Only,4,23.61,PPL_SPLIT
+40,0,162.0,63.8,1.9,Ayak Bileği,0.0,10,Güç ve Kondisyon,Bodyweight,4,24.31,PPL_SPLIT
+31,0,172.4,52.5,1.9,Ayak Bileği,0.2,10,Kas Kazanımı,Bodyweight,5,17.66,KILO_ALMA
+49,0,172.0,79.2,1.375,Yok,0.0,6,Güç ve Kondisyon,Bodyweight,4,26.77,PPL_SPLIT
+38,1,152.0,70.3,1.2,Omuz,0.0,7,Kilo Verme,Bodyweight,4,30.43,YAG_YAKIMI
+21,0,169.0,110.7,1.375,Ayak Bileği,0.0,0,Kilo Verme,Full Gym,3,38.76,YAG_YAKIMI
+22,1,173.5,56.6,1.2,Yok,0.7,13,Kas Kazanımı,Bodyweight,3,18.8,KILO_ALMA
+27,1,168.1,58.2,1.9,Ayak Bileği,4.9,4,Sakatlık Sonrası,Dumbbell Only,4,20.6,REHABILITASYON
+23,1,175.0,40.9,1.55,Ayak Bileği,0.0,2,Kas Kazanımı,Bodyweight,4,13.36,KILO_ALMA
+39,0,188.0,107.7,1.9,Omuz,0.0,8,Kilo Verme,Full Gym,3,30.47,YAG_YAKIMI
+30,0,160.0,57.5,1.2,Omuz,4.3,10,Sakatlık Sonrası,Full Gym,3,22.46,REHABILITASYON
+39,1,176.5,69.4,1.375,Ayak Bileği,0.9,1,Güç ve Kondisyon,Dumbbell Only,3,22.28,PPL_SPLIT
+33,1,171.0,65.3,1.9,Omuz,0.0,10,Güç ve Kondisyon,Bodyweight,5,22.33,PPL_SPLIT
+37,1,166.0,92.0,1.55,Bel,3.686621581121704,4,Sakatlık Sonrası,Full Gym,5,33.39,YAG_YAKIMI
+49,1,165.0,44.1,1.55,Yok,0.0,11,Kas Kazanımı,Bodyweight,3,16.2,KILO_ALMA
+23,0,194.0,107.0,1.725,Diz,0.0,7,Güç ve Kondisyon,Dumbbell Only,3,28.43,PPL_SPLIT
+57,1,152.0,64.0,1.9,Bel,0.0,9,Güç ve Kondisyon,Bodyweight,3,27.7,PPL_SPLIT
+27,0,197.0,71.2,1.2,Yok,0.0,14,Kas Kazanımı,Dumbbell Only,3,18.35,KILO_ALMA
+32,1,162.0,89.0,1.55,Bel,4.357684524965163,0,Kilo Verme,Full Gym,4,33.91,PPL_SPLIT
+25,0,159.0,68.0,1.55,Bel,4.253210192191926,8,Kilo Verme,Full Gym,3,26.9,PPL_SPLIT
+52,0,178.0,90.0,1.55,Yok,1.770398376009248,7,Kilo Verme,Bodyweight,5,28.41,REHABILITASYON
+43,0,185.0,95.9,1.725,Omuz,0.0,3,Güç ve Kondisyon,Full Gym,5,28.02,PPL_SPLIT
+28,0,179.0,108.5,1.55,Omuz,0.0,9,Kilo Verme,Dumbbell Only,3,33.86,YAG_YAKIMI
+32,1,183.8,60.2,1.375,Omuz,0.2,8,Kas Kazanımı,Full Gym,3,17.82,KILO_ALMA
+43,0,195.0,82.9,1.2,Diz,0.0,14,Güç ve Kondisyon,Dumbbell Only,3,21.8,PPL_SPLIT
+25,0,159.6,45.0,1.375,Ayak Bileği,4.1,11,Sakatlık Sonrası,Dumbbell Only,4,17.67,REHABILITASYON
+35,0,160.3,45.0,1.55,Bel,0.0,14,Kas Kazanımı,Full Gym,5,17.51,KILO_ALMA
+55,1,167.0,75.2,1.375,Diz,0.0,2,Güç ve Kondisyon,Full Gym,3,26.96,PPL_SPLIT
+52,0,186.0,82.0,1.2,Omuz,0.0916765513111955,1,Kas Kazanımı,Full Gym,5,23.7,YAG_YAKIMI
+30,0,168.0,101.0,1.375,Ayak Bileği,0.0,12,Kilo Verme,Bodyweight,3,35.79,YAG_YAKIMI
+18,1,175.0,97.0,1.725,Omuz,4.830754428093785,0,Kas Kazanımı,Bodyweight,3,31.67,PPL_SPLIT
+24,1,176.0,72.9,1.55,Diz,0.0,6,Güç ve Kondisyon,Full Gym,4,23.53,PPL_SPLIT
+31,1,175.1,76.7,1.2,Yok,0.5,2,Güç ve Kondisyon,Bodyweight,5,25.02,PPL_SPLIT
+23,0,192.0,108.6,1.725,Diz,0.0,1,Kilo Verme,Dumbbell Only,5,29.46,YAG_YAKIMI
+18,0,197.0,114.5,1.2,Yok,0.0,12,Kilo Verme,Bodyweight,5,29.5,YAG_YAKIMI
+38,1,172.0,59.1,1.2,Ayak Bileği,0.0,3,Güç ve Kondisyon,Full Gym,3,19.98,PPL_SPLIT
+38,0,157.0,73.0,1.375,Diz,2.52582124467118,1,Kas Kazanımı,Full Gym,3,29.62,PPL_SPLIT
+44,0,184.0,94.6,1.725,Ayak Bileği,0.0,10,Güç ve Kondisyon,Dumbbell Only,3,27.94,PPL_SPLIT
+25,1,175.0,106.0,1.9,Bel,1.570666425336461,0,Güç ve Kondisyon,Full Gym,4,34.61,REHABILITASYON
+40,1,191.0,86.0,1.725,Bel,4.726370133489778,1,Kas Kazanımı,Full Gym,4,23.57,YAG_YAKIMI
+28,0,166.7,46.6,1.725,Yok,0.0,6,Kas Kazanımı,Full Gym,5,16.77,KILO_ALMA
+18,1,168.0,54.8,1.725,Diz,0.0,2,Güç ve Kondisyon,Full Gym,3,19.42,PPL_SPLIT
+45,1,172.0,63.0,1.2,Omuz,2.6345096175168865,13,Güç ve Kondisyon,Full Gym,2,21.3,YAG_YAKIMI
+23,1,173.0,78.6,1.55,Bel,0.0,1,Güç ve Kondisyon,Dumbbell Only,4,26.26,PPL_SPLIT
+27,0,154.8,56.9,1.2,Ayak Bileği,0.1,3,Güç ve Kondisyon,Dumbbell Only,5,23.74,PPL_SPLIT
+56,0,181.0,58.0,1.2,Omuz,3.6844854414270873,8,Güç ve Kondisyon,Full Gym,4,17.7,REHABILITASYON
+52,1,185.0,69.0,1.9,Ayak Bileği,3.3848072691953095,12,Güç ve Kondisyon,Full Gym,3,20.16,YAG_YAKIMI
+52,1,190.0,93.0,1.55,Bel,0.0996760691208448,4,Kas Kazanımı,Full Gym,5,25.76,PPL_SPLIT
+43,0,173.0,108.6,1.9,Bel,0.0,10,Kilo Verme,Dumbbell Only,5,36.29,YAG_YAKIMI
+54,1,191.0,56.0,1.725,Yok,2.9123538894449923,5,Kilo Verme,Full Gym,3,15.35,PPL_SPLIT
+33,0,186.0,69.0,1.725,Bel,0.2370508770290375,1,Kas Kazanımı,Full Gym,3,19.94,REHABILITASYON
+21,1,168.0,72.6,1.9,Ayak Bileği,0.0,7,Güç ve Kondisyon,Dumbbell Only,5,25.72,PPL_SPLIT
+39,1,171.0,63.3,1.375,Ayak Bileği,0.0,13,Güç ve Kondisyon,Bodyweight,3,21.65,PPL_SPLIT
+27,0,181.0,102.0,1.9,Omuz,0.4780554855153601,1,Sakatlık Sonrası,Full Gym,5,31.13,KILO_ALMA
+27,1,184.7,68.7,1.2,Bel,4.4,10,Sakatlık Sonrası,Full Gym,3,20.14,REHABILITASYON
+40,0,160.2,48.6,1.725,Bel,4.0,2,Sakatlık Sonrası,Dumbbell Only,5,18.94,REHABILITASYON
+48,0,182.0,83.9,1.9,Omuz,0.0,10,Güç ve Kondisyon,Full Gym,4,25.33,PPL_SPLIT
+39,0,160.0,54.9,1.2,Bel,0.1,1,Güç ve Kondisyon,Bodyweight,5,21.45,PPL_SPLIT
+34,0,155.0,96.0,1.55,Omuz,2.527689158407539,6,Kilo Verme,Full Gym,5,39.96,KILO_ALMA
+22,0,188.0,98.4,1.375,Ayak Bileği,0.0,1,Güç ve Kondisyon,Bodyweight,4,27.84,PPL_SPLIT
+26,0,168.0,55.7,1.375,Yok,0.0,14,Güç ve Kondisyon,Bodyweight,4,19.73,PPL_SPLIT
+31,1,153.9,71.2,1.55,Yok,0.3,6,Kilo Verme,Dumbbell Only,3,30.06,YAG_YAKIMI
+34,1,185.5,76.5,1.375,Omuz,4.6,5,Sakatlık Sonrası,Bodyweight,4,22.23,REHABILITASYON
+41,0,161.0,79.0,1.2,Omuz,3.4029500514007567,8,Kas Kazanımı,Bodyweight,5,30.48,REHABILITASYON
+23,1,162.0,44.1,1.9,Yok,0.0,5,Kas Kazanımı,Full Gym,5,16.8,KILO_ALMA
+36,0,170.0,98.0,1.55,Diz,3.290966958436366,3,Kilo Verme,Full Gym,5,33.91,REHABILITASYON
+34,1,160.0,77.0,1.55,Omuz,4.769850284171656,4,Sakatlık Sonrası,Bodyweight,5,30.08,KILO_ALMA
+32,1,169.1,65.9,1.375,Yok,0.9,3,Güç ve Kondisyon,Bodyweight,4,23.05,PPL_SPLIT
+63,1,196.0,58.0,1.9,Omuz,0.6375813776444522,0,Güç ve Kondisyon,Full Gym,3,15.1,REHABILITASYON
+18,1,188.0,81.0,1.725,Bel,2.07444291469531,4,Sakatlık Sonrası,Full Gym,4,22.92,PPL_SPLIT
+59,0,183.0,68.0,1.55,Yok,2.76273613864378,4,Kas Kazanımı,Full Gym,5,20.31,YAG_YAKIMI
+49,1,154.0,49.2,1.725,Diz,0.0,14,Güç ve Kondisyon,Full Gym,5,20.75,PPL_SPLIT
+55,1,170.0,63.0,1.725,Diz,0.0,4,Güç ve Kondisyon,Dumbbell Only,3,21.8,PPL_SPLIT
+51,0,162.0,88.2,1.725,Diz,0.0,14,Kilo Verme,Full Gym,5,33.61,YAG_YAKIMI
+35,1,175.5,70.6,1.375,Diz,0.1,13,Güç ve Kondisyon,Dumbbell Only,4,22.92,PPL_SPLIT
+28,1,168.4,64.1,1.2,Ayak Bileği,4.9,12,Sakatlık Sonrası,Dumbbell Only,3,22.6,REHABILITASYON
+32,0,164.7,64.8,1.9,Ayak Bileği,4.2,0,Sakatlık Sonrası,Dumbbell Only,3,23.89,REHABILITASYON
+52,1,167.0,52.1,1.725,Ayak Bileği,0.0,8,Kas Kazanımı,Dumbbell Only,5,18.68,KILO_ALMA
+19,1,168.0,49.1,1.375,Diz,0.0,14,Kas Kazanımı,Full Gym,4,17.4,KILO_ALMA
+33,0,178.0,80.0,1.55,Bel,4.09898697221243,13,Kas Kazanımı,Dumbbell Only,2,25.25,PPL_SPLIT
+52,0,176.0,81.0,1.55,Yok,1.477571034919332,5,Kas Kazanımı,Full Gym,3,26.15,REHABILITASYON
+44,0,199.0,89.3,1.375,Bel,0.0,2,Güç ve Kondisyon,Full Gym,4,22.55,PPL_SPLIT
+22,0,167.5,63.2,1.2,Bel,0.4,14,Güç ve Kondisyon,Dumbbell Only,5,22.53,PPL_SPLIT
+18,0,183.0,84.0,1.725,Yok,2.5848074399306946,9,Güç ve Kondisyon,Bodyweight,4,25.08,REHABILITASYON
+26,1,185.1,76.8,1.2,Diz,0.0,10,Güç ve Kondisyon,Full Gym,4,22.42,PPL_SPLIT
+29,0,157.6,66.8,1.725,Ayak Bileği,4.6,14,Sakatlık Sonrası,Full Gym,4,26.89,REHABILITASYON
+50,0,160.0,87.4,1.55,Yok,0.0,6,Kilo Verme,Full Gym,5,34.14,YAG_YAKIMI
+32,0,180.0,59.0,1.725,Diz,4.076289222283131,3,Kilo Verme,Full Gym,3,18.21,KILO_ALMA
+18,1,177.9,71.0,1.9,Bel,4.4,11,Sakatlık Sonrası,Full Gym,4,22.43,REHABILITASYON
+42,0,181.0,63.0,1.2,Diz,0.9182856182982896,9,Güç ve Kondisyon,Full Gym,5,19.23,REHABILITASYON
+20,1,187.0,64.0,1.2,Bel,3.269981531743733,0,Güç ve Kondisyon,Bodyweight,5,18.3,KILO_ALMA
+18,1,160.0,67.4,1.55,Ayak Bileği,0.0,6,Güç ve Kondisyon,Dumbbell Only,4,26.33,PPL_SPLIT
+41,1,179.0,62.3,1.375,Diz,0.0,1,Güç ve Kondisyon,Bodyweight,3,19.44,PPL_SPLIT
+19,0,157.2,51.9,1.375,Bel,0.5,0,Güç ve Kondisyon,Dumbbell Only,4,21.0,PPL_SPLIT
+38,1,186.3,71.4,1.2,Bel,0.5,8,Güç ve Kondisyon,Dumbbell Only,3,20.57,PPL_SPLIT
+40,0,165.2,63.8,1.2,Ayak Bileği,0.7,0,Güç ve Kondisyon,Full Gym,5,23.38,PPL_SPLIT
+37,1,171.0,53.0,1.55,Bel,0.0,10,Kas Kazanımı,Bodyweight,5,18.13,KILO_ALMA
+36,0,165.0,90.3,1.9,Diz,0.0,2,Kilo Verme,Bodyweight,3,33.17,YAG_YAKIMI
+55,0,171.0,75.6,1.375,Ayak Bileği,0.0,4,Güç ve Kondisyon,Bodyweight,5,25.85,PPL_SPLIT
+25,1,184.7,64.3,1.55,Ayak Bileği,0.7,8,Kas Kazanımı,Bodyweight,4,18.85,KILO_ALMA
+32,0,162.7,45.0,1.9,Ayak Bileği,0.2,14,Kas Kazanımı,Dumbbell Only,3,17.0,KILO_ALMA
+23,0,160.4,52.9,1.725,Omuz,0.3,10,Güç ve Kondisyon,Bodyweight,5,20.56,PPL_SPLIT
+34,0,156.0,57.8,1.55,Yok,0.4,6,Güç ve Kondisyon,Dumbbell Only,5,23.75,PPL_SPLIT
+51,1,163.0,44.8,1.725,Diz,0.0,7,Kas Kazanımı,Dumbbell Only,3,16.86,KILO_ALMA
+29,0,167.5,61.0,1.375,Bel,0.6,3,Güç ve Kondisyon,Dumbbell Only,5,21.74,PPL_SPLIT
+48,1,157.0,60.0,1.375,Diz,4.008443006172243,3,Sakatlık Sonrası,Full Gym,4,24.34,KILO_ALMA
+21,0,160.4,62.9,1.2,Bel,0.9,4,Güç ve Kondisyon,Dumbbell Only,4,24.45,PPL_SPLIT
+45,0,150.0,115.0,1.375,Diz,3.985123691289845,9,Kas Kazanımı,Bodyweight,4,51.11,PPL_SPLIT
+30,0,166.0,107.9,1.725,Yok,0.0,2,Kilo Verme,Bodyweight,4,39.16,YAG_YAKIMI
+33,0,163.0,45.1,1.725,Ayak Bileği,4.2,3,Sakatlık Sonrası,Bodyweight,5,16.97,REHABILITASYON
+31,0,171.0,103.0,1.9,Omuz,1.7578595246544788,4,Kilo Verme,Full Gym,3,35.22,KILO_ALMA
+21,0,191.0,84.0,1.725,Bel,3.245403612506828,9,Kilo Verme,Full Gym,5,23.03,KILO_ALMA
+35,0,163.0,100.9,1.55,Diz,0.0,13,Kilo Verme,Bodyweight,5,37.98,YAG_YAKIMI
+39,1,193.0,91.0,1.55,Yok,2.0437926672761417,0,Güç ve Kondisyon,Full Gym,5,24.43,REHABILITASYON
+52,0,185.0,84.8,1.55,Omuz,0.0,9,Güç ve Kondisyon,Dumbbell Only,5,24.78,PPL_SPLIT
+54,1,169.0,64.2,1.2,Bel,0.0,11,Güç ve Kondisyon,Bodyweight,3,22.48,PPL_SPLIT
+63,1,161.0,60.0,1.375,Omuz,3.4433821980357324,5,Sakatlık Sonrası,Bodyweight,2,23.15,KILO_ALMA
+22,0,192.0,84.0,1.725,Bel,3.970849423198995,2,Sakatlık Sonrası,Bodyweight,3,22.79,KILO_ALMA
+38,1,174.9,69.6,1.2,Bel,0.0,9,Güç ve Kondisyon,Dumbbell Only,4,22.75,PPL_SPLIT
+55,1,162.0,70.8,1.725,Omuz,0.0,8,Güç ve Kondisyon,Full Gym,3,26.98,PPL_SPLIT
+32,0,162.3,56.2,1.2,Omuz,0.2,8,Güç ve Kondisyon,Dumbbell Only,3,21.34,PPL_SPLIT
+30,0,187.0,64.1,1.375,Bel,0.0,1,Kas Kazanımı,Bodyweight,4,18.33,KILO_ALMA
+34,0,185.0,112.4,1.725,Diz,0.0,2,Kilo Verme,Bodyweight,4,32.84,YAG_YAKIMI
+18,1,159.0,62.0,1.9,Diz,0.0,13,Güç ve Kondisyon,Full Gym,3,24.52,PPL_SPLIT
+30,1,176.6,66.8,1.9,Omuz,0.6,2,Güç ve Kondisyon,Bodyweight,5,21.42,PPL_SPLIT
+56,0,187.0,82.5,1.9,Yok,0.0,3,Güç ve Kondisyon,Dumbbell Only,4,23.59,PPL_SPLIT
+33,0,199.0,81.8,1.2,Diz,0.0,14,Güç ve Kondisyon,Full Gym,4,20.66,PPL_SPLIT
+47,0,181.0,70.0,1.2,Bel,3.437208902845224,2,Güç ve Kondisyon,Bodyweight,4,21.37,YAG_YAKIMI
+59,0,192.0,78.0,1.55,Yok,0.0,2,Güç ve Kondisyon,Bodyweight,4,21.16,PPL_SPLIT
+43,0,163.0,46.2,1.9,Diz,0.0,0,Kas Kazanımı,Bodyweight,5,17.39,KILO_ALMA
+24,0,169.2,58.7,1.2,Omuz,4.2,4,Sakatlık Sonrası,Bodyweight,5,20.5,REHABILITASYON
+46,0,187.0,61.0,1.55,Diz,2.82369598467854,6,Kas Kazanımı,Full Gym,5,17.44,PPL_SPLIT
+56,1,188.0,67.0,1.2,Yok,4.894802765291312,8,Güç ve Kondisyon,Full Gym,5,18.96,KILO_ALMA
+22,0,162.1,51.2,1.375,Bel,0.6,3,Güç ve Kondisyon,Dumbbell Only,4,19.49,PPL_SPLIT
+35,1,164.0,90.0,1.375,Bel,1.2560125875644452,1,Güç ve Kondisyon,Bodyweight,4,33.46,REHABILITASYON
+26,0,157.7,60.8,1.2,Omuz,1.0,12,Güç ve Kondisyon,Full Gym,3,24.45,PPL_SPLIT
+57,1,176.0,46.1,1.375,Diz,0.0,2,Kas Kazanımı,Dumbbell Only,3,14.88,KILO_ALMA
+31,0,160.0,76.1,1.55,Diz,4.2,14,Sakatlık Sonrası,Bodyweight,4,29.73,REHABILITASYON
+49,1,162.0,69.3,1.375,Bel,0.0,5,Güç ve Kondisyon,Bodyweight,5,26.41,PPL_SPLIT
+25,0,195.0,88.1,1.2,Diz,0.0,0,Güç ve Kondisyon,Bodyweight,3,23.17,PPL_SPLIT
+31,0,176.0,86.6,1.375,Diz,0.0,7,Güç ve Kondisyon,Bodyweight,5,27.96,PPL_SPLIT
+33,1,163.0,40.5,1.2,Bel,0.0,10,Kas Kazanımı,Full Gym,3,15.24,KILO_ALMA
+38,1,170.1,67.6,1.725,Ayak Bileği,0.1,7,Güç ve Kondisyon,Full Gym,4,23.36,PPL_SPLIT
+24,0,154.0,64.8,1.9,Diz,4.3,11,Sakatlık Sonrası,Full Gym,4,27.32,REHABILITASYON
+39,0,164.7,49.2,1.2,Yok,4.2,4,Sakatlık Sonrası,Dumbbell Only,5,18.14,REHABILITASYON
+18,0,160.2,60.5,1.375,Yok,0.0,9,Güç ve Kondisyon,Dumbbell Only,4,23.57,PPL_SPLIT
+48,1,192.0,97.0,1.375,Diz,1.6138413712617798,7,Sakatlık Sonrası,Bodyweight,4,26.31,PPL_SPLIT
+45,1,178.0,65.1,1.55,Ayak Bileği,0.0,13,Güç ve Kondisyon,Full Gym,5,20.55,PPL_SPLIT
+35,1,192.0,55.0,1.55,Bel,3.1975378076686694,0,Sakatlık Sonrası,Full Gym,3,14.92,YAG_YAKIMI
+25,0,177.0,100.0,1.375,Yok,1.885696101405322,1,Sakatlık Sonrası,Bodyweight,4,31.92,KILO_ALMA
+48,0,191.0,92.0,1.55,Bel,0.9930565198073726,13,Güç ve Kondisyon,Bodyweight,2,25.22,KILO_ALMA
+31,0,158.1,48.5,1.55,Diz,4.4,7,Sakatlık Sonrası,Bodyweight,4,19.4,REHABILITASYON
+27,1,174.0,83.0,1.2,Yok,0.7,1,Güç ve Kondisyon,Full Gym,4,27.41,PPL_SPLIT
+53,0,191.0,125.1,1.375,Ayak Bileği,0.0,3,Kilo Verme,Dumbbell Only,5,34.29,YAG_YAKIMI
+29,1,155.0,71.8,1.9,Bel,0.0,1,Kilo Verme,Bodyweight,5,29.89,YAG_YAKIMI
+28,0,162.6,53.8,1.725,Ayak Bileği,1.0,10,Güç ve Kondisyon,Dumbbell Only,4,20.35,PPL_SPLIT
+50,0,190.0,80.0,1.2,Bel,1.633956145414579,6,Kas Kazanımı,Full Gym,4,22.16,REHABILITASYON
+54,0,200.0,116.4,1.375,Diz,0.0,6,Kilo Verme,Dumbbell Only,5,29.1,YAG_YAKIMI
+28,0,166.0,81.6,1.725,Yok,0.0,14,Kilo Verme,Full Gym,3,29.61,YAG_YAKIMI
+28,0,157.6,58.4,1.2,Bel,0.1,3,Güç ve Kondisyon,Bodyweight,5,23.51,PPL_SPLIT
+42,0,197.0,76.4,1.55,Ayak Bileği,0.0,12,Güç ve Kondisyon,Dumbbell Only,5,19.69,PPL_SPLIT
+20,0,168.7,48.4,1.375,Yok,1.0,0,Kas Kazanımı,Full Gym,3,17.01,KILO_ALMA
+29,0,199.0,81.7,1.725,Omuz,0.0,5,Güç ve Kondisyon,Bodyweight,5,20.63,PPL_SPLIT
+32,0,198.0,102.8,1.9,Bel,0.0,14,Güç ve Kondisyon,Dumbbell Only,4,26.22,PPL_SPLIT
+33,0,155.3,56.1,1.55,Bel,0.4,8,Güç ve Kondisyon,Full Gym,3,23.26,PPL_SPLIT
+33,1,169.6,79.6,1.375,Bel,1.0,8,Güç ve Kondisyon,Dumbbell Only,5,27.67,PPL_SPLIT
+34,0,163.4,63.2,1.725,Ayak Bileği,4.1,10,Sakatlık Sonrası,Full Gym,4,23.67,REHABILITASYON
+29,1,173.7,91.2,1.725,Ayak Bileği,4.4,4,Sakatlık Sonrası,Full Gym,4,30.23,REHABILITASYON
+45,0,181.0,89.6,1.9,Diz,0.0,0,Güç ve Kondisyon,Dumbbell Only,5,27.35,PPL_SPLIT
+36,1,176.7,47.0,1.2,Diz,0.2,4,Kas Kazanımı,Bodyweight,4,15.05,KILO_ALMA
+28,1,172.5,75.3,1.55,Ayak Bileği,0.6,6,Güç ve Kondisyon,Bodyweight,3,25.31,PPL_SPLIT
+45,0,185.0,52.4,1.375,Diz,0.0,13,Kas Kazanımı,Dumbbell Only,3,15.31,KILO_ALMA
+22,0,185.0,102.1,1.375,Bel,0.0,12,Kilo Verme,Bodyweight,4,29.83,YAG_YAKIMI
+25,1,183.0,50.0,1.9,Ayak Bileği,3.8872198991471447,12,Kas Kazanımı,Full Gym,4,14.93,PPL_SPLIT
+43,0,172.0,102.6,1.9,Omuz,0.0,5,Kilo Verme,Bodyweight,4,34.68,YAG_YAKIMI
+36,0,172.0,70.3,1.55,Diz,0.0,2,Güç ve Kondisyon,Bodyweight,3,23.76,PPL_SPLIT
+39,0,168.0,45.1,1.9,Diz,0.7,6,Kas Kazanımı,Bodyweight,4,15.98,KILO_ALMA
+40,1,161.0,55.1,1.55,Ayak Bileği,0.0,8,Güç ve Kondisyon,Dumbbell Only,5,21.26,PPL_SPLIT
+23,1,159.0,106.0,1.9,Omuz,1.7721265102287371,8,Sakatlık Sonrası,Full Gym,4,41.93,YAG_YAKIMI
+57,1,176.0,56.0,1.375,Diz,3.690872138965502,7,Kas Kazanımı,Bodyweight,4,18.08,YAG_YAKIMI
+51,1,173.0,91.0,1.375,Bel,1.9958795895606525,9,Kas Kazanımı,Full Gym,3,30.41,YAG_YAKIMI
+36,1,192.0,57.0,1.375,Omuz,0.4772195045142208,5,Kas Kazanımı,Full Gym,3,15.46,REHABILITASYON
+20,0,160.0,55.0,1.725,Omuz,0.0,6,Güç ve Kondisyon,Full Gym,5,21.48,PPL_SPLIT
+26,0,179.0,104.0,1.9,Diz,3.0126546310215496,3,Kas Kazanımı,Full Gym,3,32.46,PPL_SPLIT

@@ -1,0 +1,116 @@
+{
+  "PPL_SPLIT": {
+    "Antrenman_Adi": "Push-Pull-Legs (İtme-Çekme-Bacak)",
+    "Pazartesi": {
+      "Odak": "İtme (Göğüs, Omuz, Triceps)",
+      "Hareketler": [
+        "Bench Press 4x10",
+        "Overhead Press 3x12",
+        "Triceps Pushdown 3x15"
+      ],
+      "Beslenme_Tipi": "Yüksek Karbonhidrat ve Protein"
+    },
+    "Sali": {
+      "Odak": "Çekme (Sırt, Biceps)",
+      "Hareketler": [
+        "Lat Pulldown 4x12",
+        "Seated Row 3x10",
+        "Barbell Curl 3x12"
+      ],
+      "Beslenme_Tipi": "Yüksek Protein"
+    },
+    "Carsamba": {
+      "Odak": "Bacak & Karın",
+      "Hareketler": [
+        "Squat 4x10",
+        "Leg Extension 3x15",
+        "Plank 3x60sn"
+      ],
+      "Beslenme_Tipi": "Kompleks Karbonhidrat"
+    }
+  },
+  "GUC_5X5": {
+    "Antrenman_Adi": "Stronglifts 5x5 (Güç Odaklı)",
+    "Pazartesi": {
+      "Odak": "Tüm Vücut Kuvvet",
+      "Hareketler": [
+        "Squat 5x5",
+        "Bench Press 5x5",
+        "Barbell Row 5x5"
+      ],
+      "Beslenme_Tipi": "Yüksek Kalori / Bulk"
+    }
+  },
+  "REHABILITASYON": {
+    "Antrenman_Adi": "Sakatlık Sonrası Toparlanma",
+    "Pazartesi": {
+      "Odak": "Mobilite ve Esneklik",
+      "Hareketler": [
+        "Statik Esneme 15dk",
+        "Hafif Yürüyüş 20dk",
+        "Bantla Egzersiz 3x20"
+      ],
+      "Beslenme_Tipi": "Anti-Enflamatuar (Sağlıklı Yağlar)"
+    }
+  },
+  "YAG_YAKIMI": {
+    "Antrenman_Adi": "Yağ Yakımı & Kondisyon Programı",
+    "Pazartesi": {
+      "Odak": "Kardiyo & Tam Vücut",
+      "Hareketler": [
+        "Koşu Bandı 30 dk",
+        "Burpee 3x15",
+        "Jump Squat 3x20"
+      ],
+      "Beslenme_Tipi": "Düşük Karbonhidrat, Yüksek Protein"
+    },
+    "Sali": {
+      "Odak": "Üst Vücut & Kardiyo",
+      "Hareketler": [
+        "Dumbbell Row 3x12",
+        "Push-up 3x15",
+        "Mountain Climber 3x30sn"
+      ],
+      "Beslenme_Tipi": "Yüksek Protein, Az Yağ"
+    },
+    "Carsamba": {
+      "Odak": "Alt Vücut & HIIT",
+      "Hareketler": [
+        "Squat 4x15",
+        "Lunges 3x12",
+        "Box Jump 3x10"
+      ],
+      "Beslenme_Tipi": "Kompleks Karbonhidrat"
+    }
+  },
+  "KILO_ALMA": {
+    "Antrenman_Adi": "Kilo Alma & Kas Kazanımı",
+    "Pazartesi": {
+      "Odak": "Göğüs & Sırt",
+      "Hareketler": [
+        "Bench Press 4x8",
+        "Deadlift 4x8",
+        "Pull-up 3x10"
+      ],
+      "Beslenme_Tipi": "Yüksek Kalori, Yüksek Protein"
+    },
+    "Sali": {
+      "Odak": "Omuz & Kol",
+      "Hareketler": [
+        "Overhead Press 4x10",
+        "Lateral Raise 3x12",
+        "Bicep Curl 3x12"
+      ],
+      "Beslenme_Tipi": "Karbonhidrat Ağırlıklı"
+    },
+    "Carsamba": {
+      "Odak": "Bacak & Karın",
+      "Hareketler": [
+        "Squat 4x10",
+        "Leg Press 3x12",
+        "Crunch 3x20"
+      ],
+      "Beslenme_Tipi": "Yüksek Kalori"
+    }
+  }
+}

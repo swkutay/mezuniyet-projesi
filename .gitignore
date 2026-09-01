@@ -1,0 +1,7 @@
+.idea/
+.gradle/
+.kotlin/
+build/
+*.iml
+.ipynb_checkpoints/
+local.properties
